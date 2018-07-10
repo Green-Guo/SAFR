@@ -1,0 +1,473 @@
+001 UNALLOT PERS SVCS 2% RED                                     X
+002 UNDISTRIBUTED AMENDED BUDGET AMTS PERSONAL SRVS              X
+003 DESKTOP CLIENT COMPUTERS(MICROCOMPUTERS)                     X
+004 MOBILE CLIENT COMPUTERS(MICROCOMPUTERS)                      X
+005 EMPLOYEE BENEFITS                                            X
+006 SALARIES                                                     X
+007 LAW ENFORCEMENT SUPPLIES                                     X
+008 PHOTOGRAPHIC SUPPLIES                                        X
+009 SPECIAL PAYMENTS                                             X
+010 WAGES                                                        X
+011 DISABILITY BENEFITS                                          X
+012 TERMINATION PERSONAL SERVICE COSTS                           X
+013 WTA-WORKFORCE TRANSITION ACT TERMINATION PERSONAL SERVICE CO X
+014 CONTRACTUAL SERVICES                                         X
+015 COMMUNICATION SERVICES                                       X
+016 EMPLOYEE DEVELOPMENT SERVICES                                X
+017 HEALTH SERVICES                                              X
+018 MANAGEMT AND INFORMATIONAL SERVICES                          X
+019 REPAIR AND MAINTENANCE SERVICES                              X
+020 SUPPORT SERVICES                                             X
+021 TECHNICAL SERVICES                                           X
+022 TRANSPORTATION SERVICES                                      X
+023 SUPPLIES AND MATERIALS                                       X
+024 ADMINISTRATIVE SUPPLIES                                      X
+025 ENERGY SUPPLIES                                              X
+026 MANUFACTURING AND MERCHANDISING SUPPLIES                     X
+027 RECREATIONAL SUPPLIES                                        X
+028 HIGHWAY EMERGENCY OPERATIONS MATERIALS                       X
+029 UNDISTRIBUTED SUPPLIES & MATERIALS RECOVERIES                X
+030 MEDICAL AND LABORATORY SUPPLIES                              X
+031 REPAIR AND MAINTENANCE SUPPLIES                              X
+032 RESIDENTAL SUPPLIES                                          X
+033 UNDISTRIBUTED SUPPLIES/MATERIALS                             X
+034 INDIRECT COST RCVRY AUX PGM SUPPLIES & MATERIALS             X
+035 LATE PAYMENT PENALTIES FOR SUPPLIES & MATERIALS              X
+036 SPECIFIC USE SUPPLIES                                        X
+037 TRANSFER PAYMENTS                                            X
+038 "AWARDS                                                      X
+039 INTER-AGENCY RECOVERIES FOR SUPPLIES & MATERIALS             X
+040 INTRA-AGENCY RECOVERIES FOR SUPPLIES & MATERIALS             X
+041 MAINFRAME COMPUTERS AND COMPONENTS                           X
+042 NETWORK SERVERS                                              X
+043 NETWORK COMPONENTS                                           X
+044 TURNOVER/VACANCY FACULTY                                     X
+045 TURNOVER/VACANCY BENEFITS                                    X
+046 TURNOVER/VACANCY MEDICAL/HOSPITAL INSURANCE                  X
+047 OTHER COMPUTER EQUIPMENT                                     X
+048 COMPUTER SOFTWARE PURCHASES                                  X
+049 DEVELOPMENT TOOLS PURCHASES                                  X
+050 TURNOVER/VACANCY CLASSIFIED                                  X
+051 INDIRECT COST RCVRY AUX PGM FOR PERSONAL SERVICES            X
+052 INDIRECT COST RECOVERIES-SPONSORED PGMS/PERSONAL             X
+053 INDIVIDUAL CLAIMS & SETTLEMENTS                              X
+054 WORKERS' COMPENSATION AWARDS                                 X
+055 PREMIUMS                                                     X
+056 COLLEGE LIBRARY BOOKS                                        X
+057 EDUCATIONAL EQUIPMENT                                        X
+058 EXHIBIT EQUIPMENT                                            X
+059 INTER-AGENCY RECOVERIES FOR PERSONAL SERVICES                X
+060 INTRA-AGENCY RECOVERIES FOR PERSONAL SERVICES                X
+061 SEAT MANAGEMENT SERVICES                                     X
+062 CHARGE CARD PURCHASES OF CONTRACTUAL SERVICES                X
+063 EXPRESS SERVICES                                             X
+064 REFERENCE EQUIPMENT                                          X
+065 EDUCATIONAL & CULTURAL EQUIPMENT IMPROVEMENTS                X
+066 ELECTRONIC EQUIPMENT                                         X
+067 OUTBOUND FREIGHT SERVICES                                    X
+068 MESSENGER SERVICES                                           X
+069 POSTAL SERVICES                                              X
+070 UNEMPLOYMENT COMPENSATION AWARDS                             X
+071 UNEMPLOYMENT COMPENSATION REIMBURSEMENTS                     X
+072 INCOME ASSISTANCE PAYMENTS                                   X
+073 PRINTING SERVICES                                            X
+074 TELECOMMUNICATIONS SERVICES (VITA)                           X
+075 TELECOMMUNICATIONS SERVICES (NON-STATE)                      X
+076 PHOTOGRAPHIC EQUIPMENT                                       X
+077 VOICE & DATA TRANSMISSION EQUIPMENT                          X
+078 ELECTRONIC & PHOTOGRAPHIC EQUIPMENT IMPROVEMENTS             X
+079 TELECOMMUNICATIONS SERVICES (STATE)                          X
+080 INBOUND FREIGHT SERVICES                                     X
+081 EDUCATIONAL AND TRAINING ASSISTANCE                          X
+082 GRANTS AND AIDS TO LOCAL GOVERNMENTS                         X
+083 PAYMENTS ON BEHALF OF LOCAL GOVERNMENTS                      X
+084 GRANTS TO OTHER ORGANIZATIONS                                X
+085 PAYMENTS FOR LOCAL EMPLOYEES HEALTH INSURANCE PROGRAMS       X
+086 INDIRECT COST RECOVERIES                                     X
+087 CONTINUOUS CHARGES                                           X
+088 INSURANCE-FIXED ASSETS                                       X
+089 CAPITAL LEASE PAYMENTS                                       X
+090 OPERATING LEASE PAYMENTS                                     X
+091 SERVICE CHARGES                                              X
+092 INSURANCE-OPERATIONS                                         X
+093 ORGANIZATION MEMBERSHIPS                                     X
+094 PUBLICATION SUBSCRIPTIONS                                    X
+095 EMPLOYEE TRAINING COURSES/WORKSHOPS/CONFERENCES              X
+096 INSTALLMENT PURCHASES                                        X
+097 PAYMENTS FOR STATE EMPLOYEE HEALTH INSURANCE PROGRAMS        X
+098 PROPERTY AND IMPROVEMENTS                                    X
+099 EMPLOYEE TUITION REIMBURSEMENT                               X
+100 EMPLOYEE TRAINING CONSULTING SERVICES                        X
+101 LABORATORY EQUIPMENT                                         X
+102 MEDICAL & DENTAL EQUIPMENT                                   X
+103 FIELD EQUIPMENT                                              X
+104 INCENTIVES                                                   X
+105 GRADUATE SCHOLARSHIPS & FELLOWSHIPS                          X
+106 STUDENT LOANS                                                X
+107 MEDICAL & LABORATORY EQUIPMENT IMPROVEMENTS                  X
+108 AGRICULTURAL VEHICULAR EQUIPMENT                             X
+109 AIRCRAFT EQUIPMENT                                           X
+110 TUITION & TRAINING AIDS                                      X
+111 TUITION WAIVER                                               X
+112 UNDERGRADUATE SCHOLARSHIPS                                   X
+113 CONSTRUCTION EQUIPMENT                                       X
+114 MOTOR VEHICLE EQUIPMENT                                      X
+115 POWER REPAIR & MAINTENANCE EQUIPMENT                         X
+116 WATERCRAFT EQUIPMENT                                         X
+117 MOTORIZED EQUIPMENT IMPROVEMENTS                             X
+118 OFFICE APPURTENANCES                                         X
+119 CATEGORICAL AID TO LOCAL GOVTS & CONST OFFICERS              X
+120 PAYMENTS IN LIEU OF TAXES                                    X
+121 ACQUISITION OF PROPERTY AND IMPROVEMENTS                     X
+122 NATURAL RESOURCES                                            X
+123 SITE DEVELOPMENT                                             X
+124 EMPLOYEE TRAINING TRANS/LODGING/MEALS/INCIDENTALS            X
+125 EMPLOYEE IT TRAINING COURSES/WORKSHOPS/CONFERENCES           X
+126 CLINIC SERVICES                                              X
+127 EQUIPMENT                                                    X
+128 COMPUTER HARDWARE AND SOFTWARE                               X
+129 EDUCATIONAL AND CULTURAL EQUIPMENT                           X
+130 DENTAL SERVICES                                              X
+131 HOSPITAL SERVICES                                            X
+132 MEDICAL SERVICES                                             X
+133 GENERAL REVENUE SHARING                                      X
+134 DISASTER RECOVERY CATEGORICAL AID TO LOCAL GOVERN            X
+135 SPECIAL PAYMENTS TO LOCALITIES                               X
+136 ELECTRONIC AND PHOTOGRAPHIC EQUIPMENT                        X
+137 MEDICAL AND LABORATORY EQUIPMENT                             X
+138 MOTORIZED EQUIPMENT                                          X
+139 NURSING HOME SERVICES                                        X
+140 X-RAY & LABORATORY SERVICES                                  X
+141 OFFICE FURNITURE                                             X
+142 OFFICE INCIDENTALS                                           X
+143 OFFICE MACHINES                                              X
+144 INSURANCE PREMIUMS-HEALTH SERVICES FOR INDIVIDUALS           X
+145 OTHER MEDICAL SERVICES                                       X
+146 AUDITING SERVICES                                            X
+147 OFFICE EQUIPMENT IMPROVEMENTS                                X
+148 HOUSEHOLD EQUIPMENT                                          X
+149 LAW ENFORCEMENT EQUIPMENT                                    X
+150 FISCAL SERVICES                                              X
+151 ATTORNEY SERVICES                                            X
+152 MANAGEMENT SERVICES                                          X
+153 MANUFACTURING EQUIPMENT                                      X
+154 NON-POWER REPAIR & MAINTENANCE EQUIPMENT                     X
+155 RECREATIONAL EQUIPMENT                                       X
+156 PERSONNEL MANAGEMENT SERVICES                                X
+157 PUBLIC INFORMATION & PUBLIC RELATIONS SERVICES               X
+158 LEGAL SERVICES                                               X
+159 CATEGORICAL AID LOCAL GOV/CONST OFFICER TECHNOLOGY           X
+160 PAYMENTS TO SUBSTATE ENTITIES                                X
+161 MEDIA SERVICES                                               X
+162 CUSTODIAL SERVICES                                           X
+163 ELECTRICAL REPAIR & MAINTENANCE SERVICES                     X
+164 TRAFFIC CONTROL EQUIPMENT                                    X
+165 FIREARMS EQUIPMENT                                           X
+166 SPECIFIC USE EQUIPMENT IMPROVEMENTS                          X
+167 EQUIPMENT REPAIR & MAINTENANCE SERVICES                      X
+168 EXTERMINATION/VECTOR CONTROL SERVICES                        X
+169 HIGHWAY REPAIR & MAINTENANCE SERVICES                        X
+170 PAYMENTS TO INDIVIDUALS                                      X
+171 GRANTS TO INTERGOVERNMENTAL ORGANIZATIONS                    X
+172 GRANTS TO NONGOVERNMENTAL ORGANIZATIONS                      X
+173 BUILT-IN EQUIPMENT                                           X
+174 FIXTURES                                                     X
+175 MECHANICAL EQUIPMENT                                         X
+176 MECHANICAL REPAIR & MAINTENANCE SERVICES                     X
+177 PLANT REPAIR & MAINTENANCE SERVICES                          X
+178 RECLAMATION SERVICES                                         X
+179 VEHICLE REPAIR & MAINTENANCE SERVICES                        X
+180 ARCHITECTURAL & ENGINEERING SERVICES                         X
+181 STATIONARY EQUIPMENT IMPROVEMENTS                            X
+182 UNDISTRIBUTED EQUIPMENT RECOVERY                             X
+183 UNDISTRIBUTED EQUIPMENT                                      X
+184 OUT-OF-STATE POLITICAL ENTITIES                              X
+185 DISASTER RECOVERY GRANTS TO OTHER STATE AGENCIES             X
+186 DISASTER RECOVERY GRANTS TO NONGOVERNMENTAL ORGAN.           X
+187 INDIRECT COST RCVRY AUX PGM FOR EQUIPMENT                    X
+188 LATE PAYMENT PENALTIES FOR EQUIPMENT                         X
+189 INTER-AGENCY RECOVERIES FOR EQUIPMENT                        X
+190 AVIATION SERVICES                                            X
+191 CLERICAL SERVICES                                            X
+192 FOOD & DIETARY SERVICES                                      X
+193 OFFICE EQUIPMENT                                             X
+194 SPECIFIC USE EQUIPMENT                                       X
+195 STATIONARY EQUIPMENT                                         X
+196 INTRA-AGENCY RECOVERIES FOR EQUIPMENT                        X
+197 "ACQUISITION                                                 X
+198 "ACQUISITION                                                 X
+199 LAUNDRY & LINEN SERVICES                                     X
+200 MANUAL LABOR SERVICES                                        X
+201 PRODUCTION SERVICES                                          X
+202 SKILLED SERVICES                                             X
+203 INFORMATION MGMT DESIGN/DEVELOP SVCS (VITA)                  X
+204 "ACQUISITION                                                 X
+205 "ACQUISITION                                                 X
+206 "CONSTRUCTION                                                X
+207 PLANT AND IMPROVEMENTS                                       X
+208 ACQUISITION OF PLANT AND IMPROVEMENTS                        X
+209 CONSTRCTION OF PLANT AND IMPROVEMETS                         X
+210 VITA PASS THRU CHARGES                                       X
+211 INFO MGMT PGM DESIGN/DEVELOP SVCS(NON-VITA/VENDOR)           X
+212 COMPUTER HARDWARE MAINTENANCE SERVICES                       X
+213 "CONSTRUCTION                                                X
+214 "CONSTRUCTION                                                X
+215 "CONSTRUCTION                                                X
+216 COMPUTER SOFTWARE MAINTENANCE SERVICES                       X
+217 COMPUTER OPERATING SERVICES (VITA)                           X
+218 COMPUTER OPERATING SERVICES (NON-VITA/VENDOR)                X
+219 OBLIGATIONS                                                  X
+220 BONDS                                                        X
+221 ADMINISTRATIVE COSTS/LOCAL PROGRAMS                          X
+222 COST CONTAINMENT/LOCAL PROGRAMS                              X
+223 HEALTH CARE CLAIMS/LOCAL PROGRAMS                            X
+224 VITA INFO TECH INTEGRATION COSTS-GOODS & SVCS                X
+225 COMPUTER SOFTWARE DEVELOPMENT COSTS                          X
+226 MOVING & RELOCATION SERVICES                                 X
+227 HEALTH MAINTENANCE ORGANIZATION COSTS/LOCAL PGM              X
+228 CONSULTING COSTS/LOCAL PROGRAMS                              X
+229 STATEWIDE INDIRECT COST RECOVERIES                           X
+230 "TRAVEL                                                      X
+231 "TRAVEL                                                      X
+232 "TRAVEL                                                      X
+233 "CONSTRUCTION                                                X
+234 "CONSTRUCTION                                                X
+235 UNDISTRIBUTED PLANT & IMPROVEMENTS RECOVERY                  X
+236 AGENCY INDIRECT COST RECOVERIES                              X
+237 UNDISTRIBUTED TRANSFER PAYMENT RECOVERIES                    X
+238 UNDISTRIBUTED TRANSFER PAYMENTS                              X
+239 "TRAVEL                                                      X
+240 "TRAVEL                                                      X
+241 LOANS-AGENCY                                                 X
+242 LOANS-STATE                                                  X
+243 EMPLOYER RETIRE CONTRIBUTIONS-DEFINED BENEFITS PRG           X
+244 "TRAVEL                                                      X
+245 "TRAVEL                                                      X
+246 UNDISTRIBUTED CONTRACTUAL SERVICES RECOVERIES                X
+247 SOCIAL SECURITY AND MEDICARE                                 X
+248 WAGE SOCIAL SECURITY                                         X
+249 GROUP LIFE INSURANCE                                         X
+250 UNDISTRIBUTED CONTRACTUAL SERVICES                           X
+251 INDIRECT COST RCVRY AUX PGM FOR CONTRACTUAL SVCS             X
+252 LATE PAYMENT PENALTIES FOR CONTRACTUAL SERVICES              X
+253 ANNUAL EMPLOYER HEALTH INSURANCE PREMIUM                     X
+254 RETIREE MEDICAL/HOSPITALIZATION INSURANCE CREDIT             X
+255 VSDB AND LONG-TERM DISABILITY INSURANCE                      X
+256 UNDISTRIBUTED PLANT AND IMPROVEMENTS                         X
+257 INDIRECT COST RCVRY AUX PGM PLANT & IMPROVEMENTS             X
+258 LATE PAYMENT PENALTIES FOR PLANT & IMPROVEMENTS              X
+259 INTER-AGENCY RECOVERIES FOR CONTRACTUAL SERVICES             X
+260 INTRA-AGENCY RECOVERIES FOR CONTRACTUAL SERVICES             X
+261 TEACHERS INSURANCE ANNUITY                                   X
+262 EMPLOYER RETIRE CONTRIBUTION-DEFINED CONTRIBUTION            X
+263 "SALARIES                                                    X
+264 "SALARIES                                                    X
+265 "SALARIES                                                    X
+266 "SALARIES                                                    X
+267 CHARGE CARD PURCHASES OF SUPPLIES AND MATERIALS              X
+268 APPAREL SUPPLIES                                             X
+269 OFFICE SUPPLIES                                              X
+270 "SALARIES                                                    X
+271 "SALARIES                                                    X
+272 "SALARIES                                                    X
+273 INTER-AGENCY RECOVERIES FOR PLANT & IMPROVEMENTS             X
+274 INTRA-AGENCY RECOVERIES FOR PLANT & IMPROVEMENTS             X
+275 UNALLOTTED CAPITAL AMOUNT                                    X
+276 STATIONARY & FORMS                                           X
+277 COAL                                                         X
+278 GAS                                                          X
+279 GASOLINE                                                     X
+280 OIL                                                          X
+281 INDIRECT COST RCVRY AUX PGM FOR TRANSFER PAYMENTS            X
+282 INTER-AGENCY RECOVERIES FOR TRANSFER PAYMENTS                X
+283 INTRA-AGENCY RECOVERIES FOR TRANSFER PAYMENTS                X
+284 STEAM                                                        X
+285 WOOD FUELS                                                   X
+286 ALCOHOLIC BEVERAGES                                          X
+287 CHARGE CARD PURCHASE OF CONTINUOUS CHARGES                   X
+288 AIRCRAFT INSURANCE                                           X
+289 AUTOMOBILE LIABILITY INSURANCE                               X
+290 LICENSE TAGS                                                 X
+291 MANUFACTURING SUPPLIES                                       X
+292 MERCHANDISE                                                  X
+293 FLOOD INSURANCE                                              X
+294 INLAND MARINE INSURANCE                                      X
+295 MARINE INSURANCE                                             X
+296 UNALLOTTED CAPITAL DEF PRJ                                   X
+297 BOND ISSUANCE EXPENSES                                       X
+298 BOND ISSUANCE FEES                                           X
+299 PACKAGING & SHIPPING SUPPLIES                                X
+300 LABORATORY SUPPLIES                                          X
+301 MEDICAL & DENTAL SUPPLIES                                    X
+302 FIELD SUPPLIES                                               X
+303 PHARMACEUTICAL DRUGS                                         X
+304 PROPERTY INSURANCE                                           X
+305 BOILER AND MACHINERY INSURANCE                               X
+306 COMPUTER PERIPHERAL CAPITAL LEASES                           X
+307 GENERAL OBLIGATION BOND FINANCING                            X
+308 GENERAL OBLIGATION BOND INTEREST RETIREMENT                  X
+309 REVENUE BOND FINANCING                                       X
+310 BUILDING REPAIR & MAINTENANCE MATERIALS                      X
+311 CUSTODIAL REPAIR & MAINTENANCE MATERIALS                     X
+312 ELECTRICAL REPAIR & MAINTENANCE MATERIALS                    X
+313 COMPUTER CENTRAL PROCESSOR CAPITAL LEASES                    X
+314 COMPUTER SOFTWARE CAPITAL LEASES                             X
+315 EQUIPMENT CAPITAL LEASES                                     X
+316 MECHANICAL REPAIR & MAINTENANCE MATERIALS                    X
+317 VEHICLE REPAIR & MAINTENANCE MATERIALS                       X
+318 HIGHWAY REPAIR & MAINTENANCE MATERIALS                       X
+319 REVENUE BOND INTEREST RETIREMENT                             X
+320 REVENUE BOND PRINCIPAL RETIREMENT                            X
+321 "SALARIES                                                    X
+322 "SALARIES                                                    X
+323 BONUSES & INCENTIVES                                         X
+324 "SALARIES                                                    X
+325 OVERSEAS DIFFERENTIAL COMPENSATION                           X
+326 SPECIFIED PER DIEM PAYMENTS                                  X
+327 CLOTHING SUPPLIES                                            X
+328 FOOD & DIETARY SUPPLIES                                      X
+329 FOOD SERVICE SUPPLIES                                        X
+330 WAGES & ALLOWANCES                                           X
+331 WORK PROGRAMS                                                X
+332 EMPLOYEE SUGGESTION AWARDS                                   X
+333 LAUNDRY & LINEN SUPPLIES                                     X
+334 PERSONAL CARE SUPPLIES                                       X
+335 AGRICULTURAL SUPPLIES                                        X
+336 ANTICIPATION LOAN INTEREST RETIREMENT                        X
+337 ANTICIPATION LOAN INTEREST RETIREMENT                        X
+338 MORTGAGE LOAN INTEREST RETIREMENT                            X
+339 ARCHITECTURAL & ENGINEERING SUPPLIES                         X
+340 COMPUTER OPERATING SUPPLIES                                  X
+341 DEFERRED COMPENSATION MATCH PAYMENTS                         X
+342 SPECIAL PAYMENTS FOR ACADEMIC SERVICES                       X
+343 "WAGES                                                       X
+344 "WAGES                                                       X
+345 "WAGES                                                       X
+346 "WAGES                                                       X
+347 EDUCATIONAL SUPPLIES                                         X
+348 FISH & WILDLIFE SUPPLIES                                     X
+350 "WAGES                                                       X
+351 "WAGES                                                       X
+352 "WAGES                                                       X
+353 UNDISTRIBUTED OBLIGATIONS                                    X
+354 INDIRECT COST RCVRY AUX PGM FOR OBLIGATIONS                  X
+355 INTER-AGENCY RECOVERIES FOR OBLIGATIONS                      X
+356 "WAGES                                                       X
+357 "WAGES                                                       X
+358 WORKERS' COMPENSATION AWARDS                                 X
+359 SUPPLEMENTAL WORKERS' COMPENSATION AWARDS                    X
+360 SHORT-TERM DISABILITY BENEFITS                               X
+361 BUILDING CAPITAL LEASES                                      X
+362 LAND CAPITAL LEASES                                          X
+363 LAND AND BUILDING CAPITAL LEASES                             X
+364 COMPUTER PERIPHERAL RENTALS                                  X
+365 COMPUTER PROCESSOR RENTALS                                   X
+366 COMPUTER SOFTWARE RENTALS                                    X
+367 INTRA-AGENCY RECOVERIES FOR OBLIGATIONS                      X
+368 UNDISTRIBUTED BUDGET AMOUNTS                                 X
+369 SUM SUFFICIENT RECOVERY                                      X
+370 EQUIPMENT RENTALS                                            X
+371 BUILDING RENTALS                                             X
+372 LAND RENTALS                                                 X
+373 UNDISTRIBUTED SAVINGS AMOUNT                                 X
+374 UNDISTRIBUTED SAVINGS AMOUNTS/NGF                            X
+375 UNDISTRIBUTED BIENNIAL BUDGET AMOUNTS                        X
+376 LAND AND BUILDING RENTALS                                    X
+377 AGENCY SERVICE CHARGES                                       X
+378 ELECTRICAL SERVICE CHARGES                                   X
+379 UNDISTRIBUTED NONPERSONAL SVC ACROSS-THE-BD REDUCT           X
+380 UNDISTRIBUTED AMENDED BUDGET AMOUNTS                         X
+381 SUPPLEMENTAL DISABILITY BENEFITS                             X
+382 RECOVERIES FOR WORKERS' COMPENSATION AWARDS                  X
+383 EARLY RETIREMENT INCENTIVE PAYMENTS                          X
+384 REFUSE SERVICE CHARGES                                       X
+385 WATER & SEWER SERVICE CHARGES                                X
+386 DGS PARKING CHARGES                                          X
+387 "SALARIES                                                    X
+388 "SALARIES                                                    X
+389 "SALARIES                                                    X
+390 SPCC AND EDI CHECK FEES                                      X
+391 PRIVATE VENDOR SERVICE CHARGES                               X
+392 GENERAL LIABILITY INSURANCE                                  X
+393 WTA - PAYMENTS FOR TRANSITIONAL SEVERANCE BENEFITS           X
+394 WTA- FED OLD-AGE INSURANCE SALARIED STATE EMPLOYEE           X
+395 WTA - MEDICAL/HOSPITALIZATION INSURANCE                      X
+396 MONEY & SECURITIES INSURANCE                                 X
+397 PAY ST INSURANCE TRUST FD                                    X
+398 SURETY BONDS                                                 X
+399 WTA - GROUP LIFE INSURANCE                                   X
+400 WTA - EARLY RETIREMENT PAYMENTS                              X
+401 ANTICIPATION LOAN PRINCIPLE RETIREMENT                       X
+402 UNDISTRIBUTED LEGISLATIVE APPROPRIATION                      X
+403 INDIRECT COSTS                                               X
+404 "WTA - SALARIES                                              X
+405 "WTA - SALARIES                                              X
+406 "WTA - SALARIES                                              X
+407 CONTINGENCY EXPENSES                                         X
+408 PROBUD REDISTRIBUTION CODE                                   X
+409 UNDISTRIBUTED AMENDED APPROPRIATION                          X
+410 WTA - UNEMPLOYMENT COMPENSATION AWARDS                       X
+411 FTE-UNDIST AMEND LEG APPR                                    X
+412 "FTE                                                         X
+413 SUBGRANTS TO STATE AGENCIES                                  X
+416 UNDISTRIBUTED REGRADE FUNDS                                  X
+417 NONGENERAL FUND G TRANSACTION SUPPLEMENT                     X
+418 UNALLOTTED PERSONAL SERVICES                                 X
+419 WORKERS' COMPENSATION                                        X
+420 COMPUTER PERIPHERAL INSTALLMENT PURCHASES                    X
+421 COMPUTER PROCESSOR INSTALLMENT PURCHASES                     X
+422 COMPUTER SOFTWARE INSTALLMENT PURCHASES                      X
+423 EQUIPMENT INSTALLMENT PURCHASES                              X
+424 BUILDING INSTALLMENT PURCHASES                               X
+425 LAND INSTALLMENT PURCHASES                                   X
+426 ADMINISTRATIVE COSTS                                         X
+427 COST CONTAINMENT                                             X
+428 HEALTH CARE CLAIMS                                           X
+429 HEALTH MAINTENANCE ORGANIZATION COSTS                        X
+430 CONSULTING COSTS                                             X
+431 UNDISTRIBUTED CONTINUOUS CHARGES RECOVERIES                  X
+432 UNDISTRIBUTED CONTINUOUS CHARGES                             X
+433 INDIRECT COST RCVRY AUX PGM FOR CONTINUOUS CHARGES           X
+434 LATE PAYMENT PENALTIES FOR CONTINUOUS CHARGES                X
+435 INTER AGENCY RECOVERIES FOR CONTINUOUS CHARGES               X
+436 INTRA-AGENCY RECOVERIES FOR CONTINUOUS CHARGES               X
+437 UNALLOTTED NONPERSONAL SERVICES                              X
+438 UNALLOTTED NP SVCS 2% RED                                    X
+439 "ACQUISITION                                                 X
+440 "ACQUISITION                                                 X
+441 "ACQUISITION                                                 X
+442 ANIMALS                                                      X
+443 MINERALS                                                     X
+444 PLANTS                                                       X
+445 SITE IMPROVEMENTS                                            X
+446 SITE PREPARATION                                             X
+447 UTILITIES                                                    X
+448 UNDISTRIBUTED PROPERTY & IMPROVEMENTS RECOVERY               X
+449 UNDISTRIBUTED PROPERTY AND IMPROVEMENTS                      X
+450 INDIRECT COST RCVRY AUX PGM PROPERTY/IMPROVEMENTS            X
+451 LATE PAYMENT PENALTIES FOR PROPERTY & IMPROVEMENTS           X
+452 INTER-AGENCY RECOVERIES FOR PROPERTY/IMPROVEMENTS            X
+453 INTRA-AGENCY RECOVERIES FOR PROPERTY & IMPROVEMENT           X
+454 CHARGE CARD PURCHASES OF EQUIPMENT                           X
+456 PERSONAL COMPUTING SYSTEMS AND COMPONENTS                    X
+457 PERSONAL SERVICES - LOCAL FUNDS                              X
+458 CONTRACTURAL SERVICES - LOCAL FUNDS                          X
+459 SUPPLIES AND MATERIALS - LOCAL FUNDS                         X
+460 TRANSFER PAYMENTS - LOCAL FUNDS                              X
+461 CONTINUOUS CHARGES - LOCAL FUNDS                             X
+462 PROPERTY IMPROVEMENTS - LOCAL FUNDS                          X
+463 EQUIPMENT - LOCAL FUNDS                                      X
+464 PLANT AND IMPROVEMENTS - LOCAL FUNDS                         X
+465 OBLIGATIONS - LOCAL FUNDS                                    X
+466 INDIRECT COSTS - LOCAL FUNDS                                 X
+484 RECRUITMENT ADVERTISING                                      X
+485 VITA INFO TECH INFRASTRUCTURE SERVICES (VITA)                X
+502 UNFUNDED VACANT POSITIONS                                    X
+503 PAYMENTS ON BEHALF OF INDIVIDUALS                            X
+504 UNALLOTTED CAPITAL AMOUNT - LOCAL FUNDS                      X
+524 EMPLOYEE RETIRE CONTRIBUTIONS-DEFINED BENEFITS PRG           X
+525 BUILDING RENTALS - STATE OWNED                               X
+526 BLDG RENTALS-NON-STATE OWNED FACIL (ADMIN BY DGS)            X
+544 TIER III GENERAL FUND DISTRIBUTIONS                          X
+564 PAYOUTS TO STATE 529 PLANS INVSTMNT MNGEMNT FIRM             X
+584 VITA Service Provider to Out of Scope Agencies               X

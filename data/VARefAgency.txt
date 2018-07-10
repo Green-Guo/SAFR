@@ -1,0 +1,326 @@
+100 001 Senate                                                                           X
+101 002 House of Delegates                                                               X
+263 003 Virginia Rehabilitation Center for the Blind and Vision Impaired                 X
+268 004 Virginia Institute of Marine Science                                             X
+750 005 Department of Correctional Education                                             X
+751 006 Department for the Deaf & Hard-of-Hearing                                        X
+102 007 Legislative Department Reversion Clearing Account                                X
+103 008 Magistrate System                                                                X
+104 009 Judicial Department Reversion Clearing Account                                   X
+270 010 Virginia Community College System - Utility                                      X
+274 011 Eastern Virginia Medical School                                                  X
+275 012 New River Community College                                                      X
+105 013 Virginia Commission on Intergovernmental Cooperation                             X
+107 014 Division of Legislative Services                                                 X
+108 015 Virginia Code Commission                                                         X
+276 016 Southside Virginia Community College                                             X
+277 017 Paul D. Camp Community College                                                   X
+278 018 Rappahannock Community College                                                   X
+109 019 Division of Legislative Automated Systems                                        X
+110 020 Joint Legislative Audit & Review Commission                                      X
+279 021 Danville Community College                                                       X
+280 022 Northern Virginia Community College                                              X
+282 023 Piedmont Virginia Community College                                              X
+283 024 J. Sargeant Reynolds Community College                                           X
+284 025 Eastern Shore Community College                                                  X
+285 026 Patrick Henry Community College                                                  X
+286 027 Virginia Western Community College                                               X
+287 028 Dabney S. Lancaster Community College                                            X
+288 029 Wytheville Community College                                                     X
+290 030 John Tyler Community College                                                     X
+291 031 Blue Ridge Community College                                                     X
+292 032 Central Virginia Community College                                               X
+293 033 Thomas Nelson Community College                                                  X
+294 034 Southwest Virginia Community College                                             X
+295 035 Tidewater Community College                                                      X
+296 036 Virginia Highlands Community College                                             X
+297 037 Germanna Community College                                                       X
+298 038 Lord Fairfax Community College                                                   X
+299 039 Mountain Empire Community College                                                X
+301 040 Department of Agriculture and Consumer Services                                  X
+111 041 Supreme Court                                                                    X
+112 042 Judicial Inquiry and Review Commission                                           X
+113 043 Circuit Courts                                                                   X
+752 044 Deep Meadow Correctional Center                                                  X
+753 045 Deerfield Correctional Center                                                    X
+754 046 Augusta Correctional Center                                                      X
+307 047 Virginia Agricultural Council                                                    X
+310 048 Virginia Economic Development Partnership                                        X
+319 049 Chippokes Plantation Farm Foundation                                             X
+114 050 General District Courts                                                          X
+115 051 Juvenile & Domestic Relations District Courts                                    X
+116 052 Combined District Courts                                                         X
+117 053 Virginia State Bar                                                               X
+118 054 Virginia Coal & Energy Commission                                                X
+119 055 Lieutenant Governor                                                              X
+320 056 Virginia Tourism Authority                                                       X
+325 057 Department of Business Assistance                                                X
+330 058 Virginia-Israel Advisory Board                                                   X
+756 059 Corrections - Division of Institutions                                           X
+757 060 Western Region Correctional Field Units                                          X
+121 061 Office of the Governor                                                           X
+122 062 Department of Planning and Budget                                                X
+123 063 Department of Military Affairs                                                   X
+760 064 Central Region Correctional Field Units                                          X
+761 065 Baskerville Correctional Center                                                  X
+765 066 Department of Social Services                                                    X
+400 067 Jamestown 2007                                                                   X
+402 068 Marine Resources Commission                                                      X
+403 069 Department of Game and Inland Fisheries                                          X
+125 070 Court of Appeals of Virginia                                                     X
+127 071 Department of Emergency Management                                               X
+129 072 Department of Human Resource Management                                          X
+766 073 Virginia Parole Board                                                            X
+767 074 Division of Community Corrections                                                X
+768 075 Keen Mountain Correctional Center                                                X
+405 076 Virginia Racing Commission                                                       X
+407 077 Virginia Port Authority                                                          X
+408 078 Chesapeake Bay Local Assistance Department                                       X
+769 079 Greensville Correctional Center                                                  X
+770 080 Dillwyn Correctional Center                                                      X
+132 081 State Board of Elections                                                         X
+133 082 Auditor of Public Accounts                                                       X
+136 083 Virginia Information Technologies Agency                                         X
+771 084 Indian Creek Correctional Center                                                 X
+772 085 Haynesville Correctional Center                                                  X
+773 086 Coffeewood Correctional Center                                                   X
+409 087 "Department of Mines                                                             X
+411 088 Department of Forestry                                                           X
+413 089 Commission on Virginia Alcohol Safety Action Program                             X
+140 090 Department of Criminal Justice Services                                          X
+141 091 Attorney General and Department of Law                                           X
+142 092 Virginia Crime Commission                                                        X
+774 093 Lunenburg Correctional Center                                                    X
+777 094 Department of Juvenile Justice                                                   X
+790 095 DMHMRSAS - Grants to Localities                                                  X
+417 096 Gunston Hall                                                                     X
+423 097 Department of Historic Resources                                                 X
+425 098 Jamestown-Yorktown Foundation                                                    X
+143 099 Attorney General - Division of Debt Collection                                   X
+145 100 Commissioners for Promotion of Uniformity of Legislation                         X
+792 101 Mental Health Treatment Centers                                                  X
+793 102 Mental Retardation Training Centers                                              X
+794 103 Commonwealth Center for Behavioral Rehabilitation                                X
+440 104 Department of Environmental Quality                                              X
+454 105 Office of Commonwealth Preparedness                                              X
+501 106 Department of Transportation                                                     X
+146 107 The Science Museum of Virginia                                                   X
+148 108 Virginia Commission for the Arts                                                 X
+149 109 Commonwealth Employees Health Insurance Fund                                     X
+795 110 "Department of Corrections                                                       X
+799 111 "Department of Corrections                                                       X
+820 112 Capital Square Preservation Council                                              X
+505 113 Department of Rail and Public Transportation                                     X
+506 114 Motor Vehicle Dealer Board                                                       X
+601 115 Department of Health                                                             X
+834 116 Virginia Freedom of Information Advisory Council                                 X
+836 117 Citizen Advisory Commission - Executive Mansion                                  X
+839 118 Virginia Commission on Youth                                                     X
+151 119 Department of Accounts                                                           X
+152 120 Department of the Treasury                                                       X
+840 121 Virginia Housing Study Commission                                                X
+841 122 Department of Aviation                                                           X
+842 123 Chesapeake Bay Commission                                                        X
+154 124 Department of Motor Vehicles                                                     X
+155 125 Treasury Board                                                                   X
+156 126 Department of State Police                                                       X
+602 127 Department of Medical Assistance Services                                        X
+606 128 Virginia Board for People with Disabilities                                      X
+701 129 Department of Corrections-Central Administration                                 X
+844 130 Joint Commission on Health Care                                                  X
+845 131 Dr. Martin Luther King Memorial Commission                                       X
+847 132 Joint Commission on Technology and Science                                       X
+157 133 Compensation Board                                                               X
+158 134 Virginia Retirement System                                                       X
+160 135 Virginia Criminal Sentencing Commission                                          X
+702 136 Virginia Department for the Blind and Vision Impaired                            X
+703 137 Central State Hospital                                                           X
+704 138 Eastern State Hospital                                                           X
+848 139 Public Defender Commission                                                       X
+850 140 Personal Property Tax Relief Act                                                 X
+851 141 Tobacco Indemnification & Revitalization Commission                              X
+852 142 Virginia Tobacco Settlement Foundation                                           X
+853 143 Office for Substance Abuse Prevention                                            X
+161 144 Department of Taxation                                                           X
+163 145 Department for the Aging                                                         X
+165 146 Department of Housing and Community Development                                  X
+705 147 Southwestern Virginia Mental Health Institute                                    X
+706 148 Western State Hospital                                                           X
+707 149 Central Virginia Training Center                                                 X
+854 150 Virginia Baseball Stadium Authority                                              X
+855 151 Governors Commission on Government Finance Reform for the 21st Century           X
+900 152 Health and Human Resources Capital Clearing Account                              X
+166 153 Secretary of the Commonwealth                                                    X
+169 154 Commonwealth Competition Council                                                 X
+170 155 Human Rights Council                                                             X
+708 156 Commonwealth Center for Children and Adolescents                                 X
+709 157 Powhatan Correctional Center                                                     X
+711 158 Virginia Correctional Enterprises                                                X
+901 159 Public Safety Capital Clearing Account                                           X
+912 160 Department of Veterans Services                                                  X
+921 161 Interstate Organization Contributions                                            X
+934 162 Innovative Technology Authority                                                  X
+935 163 Roanoke Higher Education Authority                                               X
+171 164 State Corporation Commission                                                     X
+172 165 State Lottery Department                                                         X
+173 166 Department of Charitable Gaming                                                  X
+936 167 "Southeastern University Research Association                                    X
+941 168 Virginia College Building Authority                                              X
+942 169 Virginia Museum of Natural History                                               X
+174 170 Virginia College Savings Plan                                                    X
+175 171 Virginia Office for Protection and Advocacy                                      X
+180 172 Secretary of Administration                                                      X
+948 173 Southwest Virginia Higher Education Center                                       X
+949 174 Central Appropriations - Capital Outlay                                          X
+950 175 Central Appropriations - Revenue Bonds 9(C)                                      X
+951 176 Central Appropriations - Debt Bonds 9(D)                                         X
+957 177 Commonwealth Attorneys' Services Council                                         X
+960 178 Department of Fire Programs                                                      X
+181 179 Department of Labor and Industry                                                 X
+182 180 Virginia Employment Commission                                                   X
+961 181 Division of Capitol Police                                                       X
+962 182 Department of Employment Dispute Resolution                                      X
+963 183 Virginia Liaison Office                                                          X
+183 184 Secretary of Natural Resources                                                   X
+184 185 Secretary of Technology                                                          X
+185 186 Secretary of Education                                                           X
+971 187 State Water Commission                                                           X
+986 188 Nonstate Agencies                                                                X
+990 189 Appropriation Vetoes-Operating                                                   X
+186 190 Secretary of Transportation                                                      X
+187 191 Secretary of Public Safety                                                       X
+188 192 Secretary of Health & Human Resources                                            X
+991 193 Unconstitutional Appropriations                                                  X
+992 194 Planned Reversions                                                               X
+993 195 Treasury Construction Financing                                                  X
+994 196 Department of Treasury-Trust Funds                                               X
+995 197 Central Appropriations-Administration                                            X
+996 198 Department of the Treasury-Statewide Activities                                  X
+997 199 Department of Accounts-Statewide Activities                                      X
+998 200 City and County Treasurers                                                       X
+716 201 Virginia Correctional Center for Women                                           X
+717 202 Southampton Correctional Center                                                  X
+718 203 Bland Correctional Center                                                        X
+719 204 James River Correctional Center                                                  X
+720 205 "Dept. of Mental Health                                                          X
+721 206 Powhatan Reception and Classification Center                                     X
+723 207 Southeastern Virginia Training Center                                            X
+724 208 Catawba Hospital                                                                 X
+725 209 Northern Virginia Training Center                                                X
+726 210 Southside Virginia Training Center                                               X
+728 211 Northern Virginia Mental Health Institute                                        X
+729 212 Piedmont Geriatric Hospital                                                      X
+730 213 Brunswick Correctional Center                                                    X
+731 214 Staunton Correctional Center                                                     X
+733 215 Sussex I State Prison                                                            X
+734 216 Sussex II State Prison                                                           X
+735 217 Wallens Ridge State Prison                                                       X
+737 218 St. Brides Correctional Center                                                   X
+738 219 Southwestern Virginia Training Center                                            X
+739 220 Southern Virginia Mental Health Institute                                        X
+190 221 Secretary of Finance                                                             X
+191 222 Virginia Workers' Compensation Commission                                        X
+192 223 Secretary of Commerce and Trade                                                  X
+194 224 Department of General Services                                                   X
+197 225 Department of Education - Direct Aid to Public Education                         X
+199 226 Department of Conservation & Recreation                                          X
+200 227 Comprehensive Services for At-Risk Youth and Families                            X
+201 228 Department of Education - Central Office Operations                              X
+202 229 The Library of Virginia                                                          X
+999 230 Department of Alcoholic Beverage Control                                         X
+740 233 Southampton Reception and Classification Center                                  X
+741 234 Red Onion State Prison                                                           X
+742 235 Department Of Corrections - Employee Relations and Training                      X
+203 236 Woodrow Wilson Rehabilitation Center                                             X
+204 237 The College of William and Mary in Virginia                                      X
+207 238 University of Virginia-Academic Division                                         X
+743 239 Fluvanna Women's Correctional Center                                             X
+744 240 Mecklenburg Correctional Center                                                  X
+208 241 Virginia Polytechnic Institute And State University                              X
+209 242 University of Virginia Medical Center                                            X
+211 243 Virginia Military Institute                                                      X
+212 244 Virginia State University                                                        X
+213 245 Norfolk State University                                                         X
+214 246 Longwood University                                                              X
+215 247 University of Mary Washington                                                    X
+216 248 James Madison University                                                         X
+217 249 Radford University                                                               X
+218 250 Virginia School for Deaf and Blind at Staunton                                   X
+219 251 "Virginia School for Deaf                                                        X
+220 252 Melchers-Monroe Memorials - Mary Washington College                              X
+221 253 Old Dominion University                                                          X
+222 254 Department of Professional and Occupational Regulation                           X
+223 255 Department of Health Professions                                                 X
+226 256 Board of Accountancy                                                             X
+229 257 "Virginia Polytechnic Institute And State University                             X
+232 258 Department of Minority Business Enterprise                                       X
+233 259 Board of Bar Examiners                                                           X
+234 260 Cooperative Extension and Agricultural Research Service                          X
+745 261 Nottoway Correctional Center                                                     X
+747 262 Marion Correctional Treatment Center                                             X
+748 263 Hiram W. Davis Medical Center                                                    X
+749 264 Buckingham Correctional Center                                                   X
+236 267 Virginia Commonwealth University - Academic Division                             X
+238 268 Virginia Museum of Fine Arts                                                     X
+239 269 Frontier Culture Museum of Virginia                                              X
+241 270 Richard Bland College                                                            X
+242 271 Christopher Newport University                                                   X
+245 272 State Council of Higher Education for Virginia                                   X
+246 273 University of Virginia - College at Wise                                         X
+247 274 George Mason University                                                          X
+260 275 Virginia Community College System                                                X
+261 276 Virginia Community College System- System Office                                 X
+262 277 Department of Rehabilitative Services                                            X
+128 279 Virginia Veterans Care Center Board of Trustees                                  X
+135 280 Virginia Information Providers Network Authority                                 X
+137 281 Department of Technology Planning                                                X
+138 282 Department of Information Technology                                             X
+150 283 Department of the State Internal Auditor                                         X
+162 284 Department of Accounts Transfer Payments                                         X
+193 285 Secretary of Agriculture and Forestry                                            X
+305 286 Milk Commission                                                                  X
+759 287 Northern Region Correctional Field Units                                         X
+762 288 Department for the Rights of Virginians with Disabilities                        X
+911 289 Virginia Public Broadcasting Board                                               X
+968 290 Commission on Local Government                                                   X
+885 291 Institute for Advanced Learning and Research                                     X
+131 292 Department of Veterans Affairs                                                   X
+000 299 Private College or University                                                    X
+722 300 Office of Inspector General Mental Health                                        X
+778 301 Department of Forensic Science                                                   X
+837 302 Disability Commission                                                            X
+937 303 Southern Virginia Higher Education Center                                        X
+938 304 New College Institute                                                            X
+989 305 Higher Education Research Initiative                                             X
+507 320 Board of Towing and Recovery Operators                                           X
+775 321 Pocahontas State Correctional Center                                             X
+776 322 Green Rock Correctional Center                                                   X
+858 323 Brown v Board of Education Scholarship Awards Comm                               X
+859 324 Virginia Sesquicentennial American Civil War Commission                          X
+860 325 Commission on Unemployment Compensation                                          X
+861 326 Enterprise Application Public - Private Partner Prj                              X
+740 327 Southampton Work Center                                                          X
+326 340 Workforce Development Agency                                                     X
+912 360 Department of Veterans Services                                                  X
+232 361 Department of Minority Business Enterprise                                       X
+862 362 Small Business Commission                                                        X
+863 363 Commission On Electric Utility Restructuring                                     X
+864 364 Manufacturing Development Commission                                             X
+865 365 Joint Commission On Administrative Rules                                         X
+866 366 Commission On Prevention Of Human Trafficking                                    X
+922 370 Sitter-Barfoot Veterans Care Center                                              X
+128 371 Virginia Veterans Care Center                                                    X
+510 372 Department of Motor Vehicles Transfer Payment                                    X
+867 373 VA Bicentennial of American War of 1812                                          X
+980 374 Higher Education Tuition Moderation Incentive                                    X
+311 375 Virginia National Defense Industrial Authority                                   X
+934 397 Innovation & Entreprenuership Investment Authority                               X
+936 398 "Jefferson Science Associates                                                    X
+720 406 Dept. of Behavioral Health & Developmental Services                              X
+530 407 Department of Motor Vehicles Transfer Payment                                    X
+868 408 VIRGINIA COMMISSION ON ENERGY AND ENVIRONMENT                                    X
+785 409 Grayson County Correctional Center                                               X
+312 410 Economic Development Incentive Payments                                          X
+869 429 VA Comm Centennial of the Woodrow Wilson Presidency                              X
+870 430 Commission on Civics Education                                                   X
+871 449 Autism Advisory Council                                                          X

@@ -1,0 +1,2698 @@
+1976 FINANCIAL ASSISTANCE FOR TOBACCO SETTLEMENT                  X
+1977 PERSONAL PROPERTY TAX RELIEF PROGRAM                         X
+1978 MEDICAL MANAGEMENT AND DIRECTION                             X
+1979 NURSING MANAGEMENT AND DIRECTION                             X
+1980 PUBLIC INFORMATION SERVICES                                  X
+1981 PUBLIC INFORMATION SERVICES                                  X
+1982 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+1983 REGULATION OF OUTDOOR ADVERTISING                            X
+1984 SOIL RESEARCH AND MAPPING                                    X
+1985 REGULATION OF MEAT AND POULTRY PROD WHOLESOMENESS            X
+1986 REGULATION OF MILK AND DIARY PROD WHOLESOMENESS              X
+1987 GRADUATE/UNDERGRADUATE ASSISTANCE                            X
+1988 ACADEMIC PLANNING AND REVIEW                                 X
+1989 PUBLIC INFORMATION SERVICES                                  X
+1990 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+1991 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+1992 RECREATION SERVICES                                          X
+1993 RESIDENTIAL SERVICES                                         X
+1994 SECURITY SERVICES                                            X
+1995 TEACHER MANAGEMENT AND DIRECTION                             X
+1996 TRAINING AND EDUCATION SERVICES                              X
+1997 TRANSPORTATION SERVICES                                      X
+1998 VESSEL OPERATION SERVICES                                    X
+1999 GRANT AND LOAN ADMINISTRATION                                X
+2000 OTHER SERVICES                                               X
+2001 RECREATION SERVICES                                          X
+2002 RESIDENTIAL SERVICES                                         X
+2003 SECURITY SERVICES                                            X
+2004 RECREATION SERVICES                                          X
+2005 RESIDENTIAL SERVICES                                         X
+2006 SECURITY SERVICES                                            X
+2007 FINANCIAL ASSIST TO LOC FOR DISPOSAL OF ABAND VEH            X
+2008 SHORELINE MANAGEMENT                                         X
+2009 NON-POINT SOURCE POLLUTION CONTROL                           X
+2010 TEACHER MANAGEMENT AND DIRECTION                             X
+2011 TRAINING AND EDUCATION SERVICES                              X
+2012 TRANSPORTATION SERVICES                                      X
+2013 TEACHER MANAGEMENT AND DIRECTION                             X
+2014 TRAINING AND EDUCATION SERVICES                              X
+2015 TRANSPORTATION SERVICES                                      X
+2016 VESSEL OPERATION SERVICES                                    X
+2017 GRANT AND LOAN ADMINISTRATION                                X
+2018 FINANCIAL AND OPERATIONAL AUDITS                             X
+2019 URBAN NONPOINT SOURCE POLLUTION CONTROL                      X
+2020 DAM SAFETY AND FLOOD PLAIN MANAGEMENT                        X
+2021 OTHER SERVICES                                               X
+2022 GENERAL AND WEAPONS WAREHOUSING                              X
+2023 MILITARY RESERVATIONS AND FACILITIES                         X
+2024 FINANCIAL ASSISTANCE FOR LAND MANAGEMENT                     X
+2025 NATURAL AREAS PRESERVATION AND MANAGEMENT                    X
+2026 NUTRIENT MANAGEMENT                                          X
+2027 NATIONAL GUARD                                               X
+2028 VA. STATE DEFENSE FORCE                                      X
+2029 OTHER SERVICES                                               X
+2030 COMMUNICATIONS AND WARNING SYSTEM                            X
+2031 DISASTER OPERATIONS                                          X
+2032 DISASTER RECOVERY                                            X
+2033 ASSISTANCE TO SOIL & WATER CONSERVATION DISTRICTS            X
+2034 FLOOD PLAIN MANAGEMENT                                       X
+2035 OTHER SERVICES                                               X
+2036 "EMERGENCY ACTION TRAINING                                   X
+2037 EMERGENCY PLANNING                                           X
+2038 RADIOLOGICAL INSTRUMENT CALIBRATION AND MAINTEN              X
+2039 PRESERVATION OF OPEN-SPACE LANDS                             X
+2040 RECREATION ASSISTANCE AND INFORMATION                        X
+2041 VESSEL OPERATION SERVICES                                    X
+2042 GRANT AND LOAN ADMINISTRATION                                X
+2043 OTHER SERVICES                                               X
+2044 AVIATION LICENSING AND REGULATION                            X
+2045 AVIATION SAFETY PROMOTION AND EDUCATION                      X
+2046 OTHER SERVICES                                               X
+2047 AIR TRANSPORTATION FACILITY MAINTENANCE AND OPER             X
+2048 AIRCRAFT MAINTENANCE AND OPERATION                           X
+2049 AVIATION PROMOTION                                           X
+2050 EMERGENCY COAL PRODUCTION OPERATIONS                         X
+2051 EMERGENCY FUEL AND FUEL OIL OPERATIONS                       X
+2052 FIN ASSIST FOR EMERGENCY MANAGEMENT AND RESPONSE             X
+2053 OTHER SERVICES                                               X
+2054 ELECTION OPERATIONS                                          X
+2055 ELECTION STAFF AND OFFICIALS TRAINING                        X
+2056 OTHER SERVICES                                               X
+2057 AIR TRANSPORTATION ENGINEERING                               X
+2058 AIR TRANS ENVIRONMENTAL AND COMMUNITY AFFAIRS                X
+2059 GENERAL REGISTRAR COMPENSATION                               X
+2060 CENTRAL REGISTRATION ROSTER SYSTEM                           X
+2061 SHELLFISH SANITATION                                         X
+2062 VITAMIN ASSAY                                                X
+2063 OTHER SERVICES                                               X
+2064 BUSINESS AND INDUSTRY SAFETY                                 X
+2065 CONSTRUCTION PROJECT SAFETY                                  X
+2066 MINE INSPECTION                                              X
+2067 PERSONNEL SERVICES                                           X
+2068 PHYSICAL PLANT SERVICES                                      X
+2069 PLANNING AND EVALUATION SERVICES                             X
+2070 SAFETY TRAINING                                              X
+2071 OTHER SERVICES                                               X
+2072 CASUALTY AND PROPERTY INSURANCE                              X
+2073 INSURANCE CONCERN REGULATION                                 X
+2074 "LIFE                                                        X
+2075 OTHER SERVICES                                               X
+2076 BEDDING AND UPHOLSTERY INSPECTION                            X
+2077 "DRUG                                                        X
+2078 EXPLOSIVE REGULATION                                         X
+2079 POWER PLANT OPERATION                                        X
+2080 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+2081 PUBLIC/PRIVATE PARTNERSHIP                                   X
+2082 ARCHITECTURAL & ANTIQUITY RESEARCH/PLAN/COORDINATN           X
+2083 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+2084 CONTINGENT PERSONAL PROPERTY TAX RELIEF PGM                  X
+2085 COMPENSATION SUPPLEMENTS (LOCAL)                             X
+2086 COMPENSATION SUPPLEMENTS (STATE)                             X
+2087 HIGHER EDUCATION FACILITY PLANNING AND REVIEW                X
+2088 HIGHER EDUCATION FISCAL PLANNING AND REVIEW                  X
+2089 HIGHER EDUCATION COORDINATION AND REVIEW                     X
+2090 ECONOMIC CONTINGENCY                                         X
+2091 DEFERRED COMPENSATION MATCH                                  X
+2092 LINE OF DUTY                                                 X
+2093 OTHER SERVICES                                               X
+2094 FINANCIAL ASST FOR SCHOOL EMPLOYEE RETMT CONTRIB             X
+2095 FINANCIAL ASST FOR SCH EMP SOCIAL SECURITY CONTB             X
+2096 SOCIAL SECURITY BENEFITS (LOCAL)                             X
+2097 SOCIAL SECURITY BENEFITS (STATE)                             X
+2098 SUPPLEMENTAL RETIREMENT (LOCAL)                              X
+2099 REGULATION OF PRIVATE & OUT-OF-STATE INSTITUTIONS            X
+2100 COORDINATE FED PGM SUPPORT POSTSECONDARY EDUCATION           X
+2101 AIR TRANSPORTATION PLANNING AND COORDINATION                 X
+2102 FIN ASSIST FOR AIR TRANSPORTATION DEV & PLANNING             X
+2103 OTHER SERVICES                                               X
+2104 RECREATION FACILITIES ACQUISITION AND DEVELOPMENT            X
+2105 RECREATION FACILITIES MAINTENANCE AND OPERATION              X
+2106 RECREATION RESEARCH AND PLANNING                             X
+2107 PUBLIC INFORMATION SERVICES                                  X
+2108 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+2109 RECREATION SERVICES                                          X
+2110 FINANCIAL ASSISTANCE TO AIRPORTS                             X
+2111 AIRPORT LOANS                                                X
+2112 NAVIGATIONAL AID SERVICES                                    X
+2113 OTHER SERVICES                                               X
+2114 GENERAL MANAGEMENT AND DIRECTION                             X
+2115 COMPUTER SERVICES                                            X
+2116 RECREATION SERVICES                                          X
+2117 OTHER SERVICES                                               X
+2118 MARINE LIFE INFORMATION SERVICES                             X
+2119 ACCOUNTING AND BUDGETING SERVICES                            X
+2120 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+2121 PESTICIDE REGULATION AND APPLICATOR CERTIFICATION            X
+2122 RADIOLOGICAL HEALTH AND SAFETY REGULATION                    X
+2123 REGULATION OF AGRICULTURALLY RELATED PRODUCTS                X
+2124 TOXIC SUBSTANCES INFORMATION                                 X
+2125 OTHER SERVICES                                               X
+2126 LICENSURE/ENFORCE-HORSE RACING/PARI-MUTUEL BETTING           X
+2127 FINANCIAL ASST FOR SCH EMP INS CONTRIBUTIONS                 X
+2128 OTHER SERVICES                                               X
+2129 ADULT EDUCATION PAYMENTS                                     X
+2130 CHARITABLE GAMING LICENSING AND PERMITS                      X
+2131 CHARITABLE GAMING TRAINING                                   X
+2132 CHARITABLE GAMING AUDITS                                     X
+2133 WRITS OF ELECTION                                            X
+2134 LOCAL ELECTORAL BOARD COMPENSATION AND EXPENSES              X
+2135 PRESIDENTIAL ELECTORS COMPENSATION                           X
+2136 CHARITABLE GAMING INSPECTION AND ENFORCEMENT                 X
+2137 OTHER SERVICES                                               X
+2138 ACCOUNTANT REGULATION                                        X
+2139 SUPPLEMENTAL RETIREMENT (STATE)                              X
+2140 UNEMPLOYMENT COMPENSATION                                    X
+2141 FEDERAL PROGRAMS ADMINISTRATION                              X
+2142 GENERAL MANAGEMENT AND DIRECTION                             X
+2143 COMPUTER SERVICES                                            X
+2144 RESIDENTIAL SERVICES                                         X
+2145 SECURITY SERVICES                                            X
+2146 TEACHER MANAGEMENT AND DIRECTION                             X
+2147 COLLECTION AND LOCATOR SERVICES                              X
+2148 FILTRATION AND TREATMENT PLANT OPERATION                     X
+2149 FOOD AND DIETARY SERVICES                                    X
+2150 ACCOUNTING AND BUDGETING SERVICES                            X
+2151 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+2152 COLLECTION AND LOCATOR SERVICES                              X
+2153 TRAINING AND EDUCATION SERVICES                              X
+2154 TRANSPORTATION SERVICES                                      X
+2155 VESSEL OPERATION SERVICES                                    X
+2156 FILTRATION AND TREATMENT PLANT OPERATION                     X
+2157 FOOD AND DIETARY SERVICES                                    X
+2158 HOUSEKEEPING SERVICES                                        X
+2159 BASIC AID PAYMENTS                                           X
+2160 TRANSITIONAL PERSONNEL PAYMENTS                              X
+2161 ARCHITECT REGULATION                                         X
+2162 AUDIOLOGY AND SPEECH THERAPIST REGULATION                    X
+2163 BARBER REGULATION                                            X
+2164 FIN ASST LOCALITIES TO IMPROVE VOTER EQUIP/ACCESS            X
+2165 OTHER SERVICES                                               X
+2166 GENERAL SYSTEMS DEVELOPMENT & MANAGEMENT                     X
+2167 CERTIFIED NURSE PRACTITIONER REGULATION                      X
+2168 COLLECTION AGENCY REGULATION                                 X
+2169 COMMERCIAL DRIVER TRAINING REGULATION                        X
+2170 INTEGRATED HUMAN RESOURCES INFORMATION SYSTEM                X
+2171 OTHER SERVICES                                               X
+2172 BOND ISSUANCE ADVISORY SERVICES                              X
+2173 GROUP LIFE INSURANCE (LOCAL)                                 X
+2174 GROUP LIFE INSURANCE (STATE)                                 X
+2175 JUDICIAL RETIREMENT                                          X
+2176 CONTRACTOR REGULATION                                        X
+2177 DENTAL & DENTAL HYGIENE REGULATION                           X
+2178 "ELEM AND SEC TEACHER                                        X
+2179 INSURANCE SERVICES                                           X
+2180 INVESTMENT SERVICES                                          X
+2181 GRANT AND LOAN ADMINISTRATION                                X
+2182 OTHER SERVICES                                               X
+2183 AGRICULTURAL COMMODITY PROMOTION AND SUPPORT SERV            X
+2184 HOUSEKEEPING SERVICES                                        X
+2185 LINEN AND LAUNDRY SERVICES                                   X
+2186 MEDICAL AND CLINICAL SERVICES                                X
+2187 FOSTER CHILDREN EDUCATIONAL PAYMENTS                         X
+2188 EDUCATION OF THE GIFTED PAYMENTS                             X
+2189 INCENTIVE PAYMENTS                                           X
+2190 AGRICULTURAL PRODUCT PROMOTION SERVICES                      X
+2191 SEAFOOD PRODUCT PROMOTION SERVICES                           X
+2192 OTHER SERVICES                                               X
+2193 MEDICAL MANAGEMENT AND DIRECTION                             X
+2194 NURSING MANAGEMENT AND DIRECTION                             X
+2195 PERSONNEL SERVICES                                           X
+2196 ANIMAL AND POULTRY HEALTH SERVICES                           X
+2197 REGIONAL DIAGNOSTIC LABORATORY SERVICES                      X
+2198 OTHER SERVICES                                               X
+2199 AGRICULTURE COMMODITIES AND PRODUCTS STAND & CERT            X
+2200 COMMERCE ADVERTISING                                         X
+2201 MARINE LIFE PROPAGATION AND MANAGEMENT                       X
+2202 MARINE LIFE REGULATION ENFORCEMENT                           X
+2203 "MARINE SCIENCE                                              X
+2204 TRUST SERVICES                                               X
+2205 PAYMENTS TO INSTITUTIONS OF HIGHER EDUCATION                 X
+2206 OTHER SERVICES                                               X
+2207 DRUG ABUSE COUNSELOR REGULATION                              X
+2208 ENGINEER REGULATION                                          X
+2209 FUNERAL DIRECTOR AND EMBALMER REGULATION                     X
+2210 MARINE RESOURCES SURVEYING AND MAPPING                       X
+2211 ARTIFICAL REEF CONSTRUCTION                                  X
+2212 CHESAPEAKE BAY FISHERIES MANAGEMENT                          X
+2213 LABORATORY CUSTOMER AND PLANNING SERVICES                    X
+2214 ANALYTICAL LABORATORY SERVICES                               X
+2215 OTHER SERVICES                                               X
+2216 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+2217 ENACTMENT OF LAWS                                            X
+2218 LEGISLATIVE EVALUATION AND REVIEW                            X
+2219 OYSTER PROPAGATION AND HABITAT IMPROVEMENT                   X
+2220 CHESAPEAKE BAY MANAGEMENT RESEARCH                           X
+2221 LINEN AND LAUNDRY SERVICES                                   X
+2222 MEDICAL AND CLINICAL SERVICES                                X
+2223 MEDICAL MANAGEMENT AND DIRECTION                             X
+2224 MAXIMUM LOCAL INCREASE PROVISION PAYMENTS                    X
+2225 NO LOSS/COMPOSITE INDEX TRANSITION                           X
+2226 OCCUPATIONAL-VOCATIONAL EDUCATION PAYMENTS                   X
+2227 NURSING MANAGEMENT AND DIRECTION                             X
+2228 PERSONNEL SERVICES                                           X
+2229 PHYSICAL PLANT SERVICES                                      X
+2230 PLANNING AND EVALUATION SERVICES                             X
+2231 POWER PLANT OPERATION                                        X
+2232 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+2233 PHYSICAL PLANT SERVICES                                      X
+2234 PLANNING AND EVALUATION SERVICES                             X
+2235 POWER PLANT OPERATION                                        X
+2236 SPECIAL EDUCATION PAYMENTS                                   X
+2237 TEACHER TRAINING FOR STANDARDS OF LEARNING                   X
+2238 TEXTBOOK PAYMENTS                                            X
+2239 PUBLIC INFORMATION SERVICES                                  X
+2240 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+2241 ACQUISITION                                                  X
+2242 CONSTRUCTION                                                 X
+2243 "ENG AND ARCHITECT REVIEW                                    X
+2244 HAIRDRESSER REGULATION                                       X
+2245 HEARING AID DEALER AND FITTER REGULATION                     X
+2246 INSURANCE SOLICITORS AND AGENTS REGULATION                   X
+2247 RENOVATION                                                   X
+2248 OTHER SERVICES                                               X
+2249 DISTRIBUTION OF ALCOHOLIC BEVERAGE CONTROL PROFITS           X
+2250 LEGISLATIVE RESEARCH AND ANALYSIS                            X
+2251 DAMAGE AND LOSS CLAIMS                                       X
+2252 VIRGINIA DISCRETIONARY FUND                                  X
+2253 LAND SURVEYOR REGULATION                                     X
+2254 LAWYER REGULATION                                            X
+2255 LIBRARIAN REGULATION                                         X
+2256 DISTRIBUTION OF FEES FOR ATHLETIC EVENTS                     X
+2257 DISTRIBUTION OF MOBILE HOMES TAX                             X
+2258 DISTRIBUTION OF SALES TAXES                                  X
+2259 OTHER SERVICES                                               X
+2260 GEOLOGIC RESEARCH AND MAPPING                                X
+2261 COOPER WITH THE USDA AND OTHER FEDERAL AGENCIES              X
+2262 "DIARY INDUS REGULATION                                      X
+2263 MARKETING RESEARCH AND MARKETING SERVICES                    X
+2264 RECREATION SERVICES                                          X
+2265 RESIDENTIAL SERVICES                                         X
+2266 SECURITY SERVICES                                            X
+2267 NATIONAL AND INTERNATIONAL TRADE SERVICES                    X
+2268 PORT TRAFFIC RATE MANAGEMENT                                 X
+2269 OTHER SERVICES                                               X
+2270 ENROLLMENT LOSS PAYMENTS                                     X
+2271 REMEDIAL EDUCATION PAYMENTS                                  X
+2272 MAINTENANCE SUPPLEMENT                                       X
+2273 MIDWIFERY REGULATION                                         X
+2274 MINE FOREMAN REGULATION                                      X
+2275 MOTOR VEHICLE DEALER & SALESMAN REGULATION                   X
+2276 REGIONAL AND COMMUNITY DEVELOPMENTAL PLANNING                X
+2277 VEGETABLE AND ORNAMENTAL CROP RESEARCH                       X
+2278 FINANCIAL ASSIST FOR SUBSTATE PLANNING                       X
+2279 CAREER EDUCATION PAYMENTS                                    X
+2280 PRIMARY CLASS SIZE PAYMENTS                                  X
+2281 "INSPECTION                                                  X
+2282 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+2283 ALCOHOLIC BEVERAGE MERCHANDISING                             X
+2284 MINERALS MINING                                              X
+2285 GAS AND OIL EXTRACTION MANAGEMENT                            X
+2286 OTHER SERVICES                                               X
+2287 AGRIBUSINESS                                                 X
+2288 INDUSTRIAL SERVICES                                          X
+2289 MANUFACTURING                                                X
+2290 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+2291 PUBLIC INFORMATION SERVICES                                  X
+2292 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+2293 RETAIL AND SELECTED SERVICES                                 X
+2294 "VENDING FACILITIES                                          X
+2295 AUXILIARY ENTERPRISE - NATIONAL GUARD OPERATIONS             X
+2296 DISTRIBUTION OF WINE TAXES                                   X
+2297 DISTRIBUTION OF ROLLING STOCK TAX                            X
+2298 DISTRIBUTION OF FIRE  PROGRAMS FUND                          X
+2299 HIGHER EDUCATION AUXILIARY ENTERPRISES                       X
+2300 REHABILITATIVE INDUSTRIES                                    X
+2301 INTERNATIONAL TRADE SERVICES                                 X
+2302 FINANCIAL ASSISTANCE FOR COMMUNITY DEVELOPMENT               X
+2303 HIGHER EDUCATION RESEARCH                                    X
+2304 EDUCATIONAL TECHNOLOGY PAYMENTS                              X
+2305 AT-RISK 4-YR OLDS PRESCHOOL PAYMENTS                         X
+2306 TRUANCY-SAFE SCHOOLS                                         X
+2307 OTHER SERVICES                                               X
+2308 COMMUNITY AND BUSINESS ASSISTANCE                            X
+2309 INDUSTRIAL DEVELOPMENT RESEARCH                              X
+2310 EARLY INTERVENTION                                           X
+2311 STANDARDS OF LEARNING INSTRUCTIONAL MATERIALS                X
+2312 STANDARDS OF LEARNING REMEDIATION                            X
+2313 TEACHER MANAGEMENT AND DIRECTION                             X
+2314 TRAINING AND EDUCATION SERVICES                              X
+2315 TRANSPORTATION SERVICES                                      X
+2316 INDUSTRIAL EMPLOYEE TRAINING                                 X
+2317 INDUSTRIAL LOCATION ASSISTANCE                               X
+2318 INDUSTRIAL PROMOTION                                         X
+2319 SCHOOL HEALTH INCENTIVE PAYMENTS                             X
+2320 STANDARDS OF LEARNING ALGEBRA READINESS                      X
+2321 NURSE REGULATION                                             X
+2322 NURSING HOME ADMINISTRATOR REGULATION                        X
+2323 OPTICIAN REGULATION                                          X
+2324 STATE LOTTERY OPERATIONS                                     X
+2325 DISBURSEMENT OF LOTTERY PRIZE PAYMENTS                       X
+2326 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+2327 DISTRIBUTION OF RECORDATION TAX TO LOCALITIES                X
+2328 PAYMENTS ON BEHALF OF LOCALITIES                             X
+2329 DISTRIBUTION OF RENTAL VEHICLE TAXES                         X
+2330 OPTOMETRIST REGULATION                                       X
+2331 ALCOHOLISM COUNSELOR REGULATION                              X
+2332 PHARMACIST REGULATION                                        X
+2333 POLICY AND PROGRAM DEVELOPMENT                               X
+2334 ENVIRONMENTAL RESEARCH AND COORDINATION                      X
+2335 ENERGY CONSERVATION ADVISORY SERVICES                        X
+2336 PHYSICIAN REGULATION                                         X
+2337 PILOT REGULATION                                             X
+2338 POLYGRAPH EXAMINER REGULATION                                X
+2339 AUTOMATED DATA PROCESSING SERVICES                           X
+2340 PRINTING AND REPRODUCTION                                    X
+2341 RECREATION SERVICES                                          X
+2342 RESIDENTIAL SERVICES                                         X
+2343 SECURITY SERVICES                                            X
+2344 MINORITY ENTERPRISE COORDINATION AND PROMOTION               X
+2345 MINORITY ENTERPRISE DEVELOPMENT AND IMPROVEMENT              X
+2346 INTERNATIONAL INDUSTRIAL DEVELOPMENT SERVICES                X
+2347 APPRENTICESHIP TRAINING PROMOTION AND DEVELOPMENT            X
+2348 FINANCIAL ASSISTANCE FOR INDUSTRIAL DEVELOPMENT              X
+2349 FIN ASST HORSE BREED INDU                                    X
+2350 TECHNOLOGY SUPPORT PAYMENTS                                  X
+2351 SCHOOL CONSTRUCTION GRANTS                                   X
+2352 TEACHER QUALITY GRANTS                                       X
+2353 ECONOMIC DEVELOPMENT SERVICES                                X
+2354 OTHER SERVICES                                               X
+2355 APIARY INSPECTION                                            X
+2356 REMIT OF SALES TAX REVENUES FROM PUBLIC FACILITIES           X
+2357 DISTRIBUTION OF TVA PAYMENTS IN LIEU OF TAXES                X
+2358 PAYMENTS TO LOCALITIES OPERATING POLICE DEPTS                X
+2359 NUISANCE BIRD CONTROL                                        X
+2360 NURSERY INSPECTION                                           X
+2361 CHESAPEAKE BAY MANAGEMENT REPORTING                          X
+2362 OTHER SERVICES                                               X
+2363 WETLANDS AND BOTTOMLANDS MANAGEMENT                          X
+2364 PRIV SECURITY SERVICES BUSINESS PERSONNEL REG                X
+2365 PROFESSIONAL ATHLETE REGULATION                              X
+2366 PSYCHOLOGIST REGULATION                                      X
+2367 TELECOMMUNICATIONS SERVICES                                  X
+2368 TRANSPORTATION POOL SERVICES                                 X
+2369 WAREHOUSING AND DISTRIBUTION SERVICES                        X
+2370 COASTAL LANDS SURVEYING AND MAPPING                          X
+2371 OTHER SERVICES                                               X
+2372 FRESHWATER AQUATIC SPECIES MGMT & HABITAT IMPROV             X
+2373 WILDLIFE AND FRWATER FISHERIES INFO AND EDUC                 X
+2374 WILDLIFE AND FRESHWATER FISHERIES REG & LAW INFORC           X
+2375 WILDLIFE AND FRESHWATER FISHERIES RESEARCH                   X
+2376 REAL ESTATE AGENT REGULATION                                 X
+2377 SANITARIAN REGULATION                                        X
+2378 SEC BROKER-DEALERS AND AGENTS REGISTRATION REG               X
+2379 PROPERTY DISPOSAL SERVICES                                   X
+2380 SERVICE CENTER ADMINISTRATION                                X
+2381 VESSEL OPERATION SERVICES                                    X
+2382 GRANT AND LOAN ADMINISTRATION                                X
+2383 OTHER SERVICES                                               X
+2384 PLANT PEST SURVEY AND CONTROL                                X
+2385 SEED POTATO LAW SERVICES                                     X
+2386 FINANCIAL ASSISTANCE FOR GYPSY MOTH CONTROL                  X
+2387 CENTRAL RECORDS MANAGEMENT                                   X
+2388 LOCAL RECORDS SERVICES                                       X
+2389 PUBLICATIONS                                                 X
+2390 STUDENT ACHIEVEMENT GRANTS                                   X
+2391 COMPENSATION SUPPLEMENTS                                     X
+2392 ENGLISH AS A SECOND LANGUAGE                                 X
+2393 OTHER SERVICES                                               X
+2394 OFFICE SERVICES                                              X
+2395 PURCHASE MANAGEMENT                                          X
+2396 OTHER SERVICES                                               X
+2397 VIRGINIA SALT WATER SPORT FISHING TOURNAMENT                 X
+2398 SPECIAL EVENT PROMOTION                                      X
+2399 REFERENCE                                                    X
+2400 RESTORATION SERVICES                                         X
+2401 TEACHER MANAGEMENT AND DIRECTION                             X
+2402 TRAINING AND EDUCATION SERVICES                              X
+2403 TRANSPORTATION SERVICES                                      X
+2404 VESSEL OPERATION SERVICES                                    X
+2405 GRANT AND LOAN ADMINISTRATION                                X
+2406 OTHER SERVICES                                               X
+2407 WILDLIFE MANAGEMENT AND HABITAT IMPROVEMENT                  X
+2408 OTHER SERVICES                                               X
+2409 GROUNDWATER MANAGEMENT                                       X
+2410 FEDERAL AFFAIRS                                              X
+2411 INTERNATIONAL AFFAIRS                                        X
+2412 INTERSTATE AFFAIRS                                           X
+2413 PUB SAFETY TELECOMMUNICATIONS/INFO SYS INFRASTRUCT           X
+2414 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+2415 CAPITAL OUTLAY PROJECTS                                      X
+2416 TRAVEL ADVERTISING                                           X
+2417 TRAVEL INFORMATION CENTERS                                   X
+2418 TRAVEL MANAGEMENT                                            X
+2419 FIN ASSIST-MGMT/PRESERVATION OF LOC CIR COURT REC            X
+2420 OTHER SERVICES                                               X
+2421 REAL SURPLUS PROPERTY MANAGEMENT                             X
+2422 SURPLUS AND EXCESS PROPERTY MANAGEMENT-FEDERAL               X
+2423 SURPLUS TRANSFER OR SALES-STATE                              X
+2424 OTHER SERVICES                                               X
+2425 FEDERAL RETIREE TAX RESERVE I                                X
+2426 FEDERAL RETIREE TAX RESERVE II                               X
+2427 OTHER SERVICES                                               X
+2428 FINANCIAL ASSISTANCE FOR SALES TAX REVENUE SHARING           X
+2429 FIN ASSIST FOR LOTTERY PROCEEDS REVENUE SHARING              X
+2430 SPECIAL LITIGATION RESERVE FUND                              X
+2431 FEDERAL RETIREE TAX RESERVE III                              X
+2432 ADMINISTRATIVE PROCESSING                                    X
+2433 FINANCIAL ASSISTANCE TO LOCAL TREASURERS                     X
+2434 REVENUE LAW AND FEE COMPLIANCE                               X
+2435 TAXPAYER ASSISTANCE                                          X
+2436 STATE EDUCATION SERVICES FOR INSTRUCTION                     X
+2437 STATE EDUCATION SERVICES FOR SP EDUCATION                    X
+2438 STATE EDUCATION SERVICES FOR VOCATIONAL ED                   X
+2439 FUND DISBURSEMENT                                            X
+2440 TAX REFUNDS AND INTEREST                                     X
+2441 LOCAL AFFAIRS                                                X
+2442 REGIONAL AFFAIRS                                             X
+2443 STATE AFFAIRS                                                X
+2444 PUBLIC INFORMATION SERVICES                                  X
+2445 OTHER SERVICES                                               X
+2446 COMPENSATION AND CLASSIFICATION SERVICES                     X
+2447 GENERAL ACADEMIC INSTRUCTION                                 X
+2448 REMEDIAL INSTRUCTION                                         X
+2449 VOCATIONAL EDUCATION                                         X
+2450 EQUAL OPPORTUNITY AND EMPLOYEE SERVICES                      X
+2451 MERIT SYSTEM ADMINISTRATION                                  X
+2452 MEDICAL/HOSPITALIZATION BENEFITS - STATE                     X
+2453 MEDICAL/HOSPITALIZATION BENEFITS - LOCAL                     X
+2454 STATE MANAGEMENT DEVELOPMENT AND TRAINING                    X
+2455 LOCAL GOVERNMENT MANAGEMENT RELATIONS                        X
+2456 COMMUNICATIONS AND COMMUNITY RELATIONS                       X
+2457 POLICY DEVELOPMENT                                           X
+2458 WORKFORCE TRANSITION ASSISTANCE                              X
+2459 OTHER SERVICES                                               X
+2460 CHIEF EXECUTIVE                                              X
+2461 FIN ASSIST FOR TOURIST ATTRACTIONS AND PROMOTIONS            X
+2462 TOURIST PROMOTION SERVICES                                   X
+2463 OTHER SERVICES                                               X
+2464 TECHNOLOGY RESEARCH                                          X
+2465 TECHNOLOGY REFORM                                            X
+2466 GENERAL MANAGEMENT AND DIRECTION                             X
+2467 COMPUTER SERVICES                                            X
+2468 ACCOUNTING AND BUDGETING SERVICES                            X
+2469 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+2470 SOCIAL WORKER REGULATION                                     X
+2471 VETERINARIAN & ANIMAL TECHNICIAN REGULATION                  X
+2472 WATER AND WASTE WATER WORKS OPERATORS REGULATION             X
+2473 COLLECTION AND LOCATOR SERVICES                              X
+2474 FILTRATION AND TREATMENT PLANT OPERATION                     X
+2475 FOOD AND DIETARY SERVICES                                    X
+2476 WATER DISCHARGE PERMIT MANAGEMENT                            X
+2477 SEWAGE AND WASTEWATER REGULATION                             X
+2478 WATER SUPPLY ENGINEERING                                     X
+2479 WATER DISCHARGE PRETREATMENT MANAGEMENT                      X
+2480 FINANCIAL ASSISTANCE FOR WATER SUPPLY IMPROVEMENTS           X
+2481 UNCLAIMED PROPERTY ACT ADMINISTRATION                        X
+2482 COMPENSATION TO COUNTY AND CITY CLERKS OF COURT              X
+2483 TOBACCO MASTER SETTLEMENT AGREEMENT ENFORCEMENT              X
+2484 FIN ASST TO LOCAL FINANCE DIRECTORS                          X
+2485 FIN ASST-OPERATIONS OF LOCAL TREASURERS                      X
+2486 FIN ASST-STATE TAX SERVICES BY LOCAL TREASURERS              X
+2487 COMMUNITY EDUCATION                                          X
+2488 DENTISTRY INSTRUCTION                                        X
+2489 MEDICINE INSTRUCTION                                         X
+2490 FAMILY PRACTICE RESIDENCY INSTRUCTION                        X
+2491 VETERINARY INSTRUCTION                                       X
+2492 UNIQUE ACADEMIC PROGRAM ACTIVITIES                           X
+2493 OTHER SERVICES                                               X
+2494 INTERAGENCY SYSTEMS DEVELOPMENT                              X
+2495 INFORMATION SYSTEMS MAINTENANCE                              X
+2496 OTHER SERVICES                                               X
+2497 ASSESSOR TRAINING AND EDUCATION                              X
+2498 FIN ASSIST-LOCAL COMMISSIONERS OF REVENUE                    X
+2499 HEALTH CARE REGULATION                                       X
+2500 PROFESSIONAL COUNSELORS REGULATION                           X
+2501 ART EXTENSION SERVICES                                       X
+2502 DRAMATIC PRODUCTIONS                                         X
+2503 PERFORMING ARTS PRESENTATIONS                                X
+2504 PERMIT ASSISTANCE & OPERATIONS COORDINATION                  X
+2505 WATER RESOURCES ENFORCEMENT                                  X
+2506 AIR QUALITY STATIONARY SOURCE REGULATION ENFORCEMT           X
+2507 AIR QUALITY MOBILE SOURCE REGULATION ENFORCEMT               X
+2508 WASTE PERMIT MANAGEMENT                                      X
+2509 WASTE INSPECTION MANAGEMENT                                  X
+2510 OTHER SERVICES                                               X
+2511 COOPERATIVE LIBRARY SERVICES                                 X
+2512 GENERAL LIBRARY SERVICES                                     X
+2513 WASTE ENFORCEMENT                                            X
+2514 WATER DISCHARGE COMPLIANCE INSPECTIONS                       X
+2515 AIR QUALITY STATIONARY SOURCE PERMITTING                     X
+2516 AIR QUALITY STATIONARY SOURCE COMPLIANCE INSPECTN            X
+2517 OTHER SERVICES                                               X
+2518 WATER SUPPLY PLANNING                                        X
+2519 WATER QUALITY PLANNING                                       X
+2520 WATER QUALITY RESEARCH                                       X
+2521 LAND USE ASSESSMENT                                          X
+2522 LOCAL VALUATIONS AND ASSESSMENTS                             X
+2523 MAPPING SERVICES                                             X
+2524 OTHER SERVICES                                               X
+2525 INFORMATION SYSTEMS ASSISTANCE & CONTROL                     X
+2526 AUTOMATED DATA PROCESSING EQUIP & SRVS PROCUREM              X
+2527 PROPERTY TAX ASSISTANCE TO LOCALITIES                        X
+2528 VAL AND ASSESS OF PUBLIC SER CORP AND RAILROADS              X
+2529 FIN ASST-OPERATIONS LOCAL COMMISSIONERS REVENUE              X
+2530 TECHNICAL ASSISTANCE TO REGULATORY BOARDS                    X
+2531 FIN ASSIST FOR REGULATING ELEM/SECONDARY TEACHERS            X
+2532 OTHER SERVICES                                               X
+2533 SPECIAL PROJECTS MANAGEMENT                                  X
+2534 PUBLIC INFORMATION ACCESS SERVICES                           X
+2535 GEOGRAPHIC INFORMATION ACCESS SERVICES                       X
+2536 FIN ASST-STATE TAX SVS COMMISSIONERS OF REVENUE              X
+2537 OTHER SERVICES                                               X
+2538 REVENUE STABILIZATION FUND                                   X
+2539 INSTITUTES AND RESEARCH CENTERS                              X
+2540 INDIVIDUAL OR PROJECT RESEARCH                               X
+2541 LIBRARY CONSULTATION SERVICES                                X
+2542 LIBRARY SERVICES TO STATE AGENCIES                           X
+2543 VIRGINIA LIBRARY INFORMATION NETWORK SERVICES                X
+2544 STATE EDUCATION SERVICES FOR ADULT EDUCATION                 X
+2545 STATE EDUCATION SERVICES FOR GEN EDUCATION                   X
+2546 STATE EDUCATION SERVICES FOR CULTURAL TRANSITION             X
+2547 AIR QUALITY RESEARCH & PLANNING                              X
+2548 OTHER SERVICES                                               X
+2549 AIR QUALITY MONITORING AND EVALUATION                        X
+2550 OTHER SERVICES                                               X
+2551 FINANCIAL ASSISTANCE TO PUBLIC LIBRARIES                     X
+2552 FINANCIAL ASSISTANCE TO THE ARTS                             X
+2553 "STATE ED ASST FOR RESEARCH                                  X
+2554 STATE ED SERVICES FOR PUBLIC SCHOOL SUPPORT                  X
+2555 STATE EDUCATION SERVICES FOR EARLY CHILDHOOD                 X
+2556 CHESAPEAKE BAY WATER QUALITY & HABITAT MONITORING            X
+2557 WATER QUALITY ASSESSMENTS                                    X
+2558 SURFACE WATER INVESTIGATIONS                                 X
+2559 FINANCIAL ASSISTANCE FOR PUBLIC TELEVISION                   X
+2560 FINANCIAL ASSISTANCE TO MUSEUMS                              X
+2561 HOUSEKEEPING SERVICES                                        X
+2562 LINEN AND LAUNDRY SERVICES                                   X
+2563 MEDICAL AND CLINICAL SERVICES                                X
+2564 MEDICAL MANAGEMENT AND DIRECTION                             X
+2565 NURSING MANAGEMENT AND DIRECTION                             X
+2566 PERSONNEL SERVICES                                           X
+2567 REG OF ADULT & CHILD WELFARE FACILITIES & AGENCIES           X
+2568 REGULATION OF CHILD WELFARE FACILITIES & AGENCIES            X
+2569 REGULATION OF HEALTH CARE SERVICE PROVIDERS                  X
+2570 PHYSICAL PLANT SERVICES                                      X
+2571 PLANNING AND EVALUATION SERVICES                             X
+2572 POWER PLANT OPERATION                                        X
+2573 TECHNOLOGY MANAGEMENT AND OVERSIGHT                          X
+2574 TECHNOLOGY TRANSITION AND DEVELOPMENT                        X
+2575 OTHER SERVICES                                               X
+2576 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+2577 PUBLIC INFORMATION SERVICES                                  X
+2578 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+2579 LOAN SERVICING RESERVE FUND                                  X
+2580 EDVANTAGE RESERVE FUND                                       X
+2581 AGRICULTURE AND FORESTRY RESEARCH                            X
+2582 COAL & ENERGY RESEARCH                                       X
+2583 ENVIRONMENTAL & WATER RESOURCES RESEARCH                     X
+2584 ENVIRONMENTAL MONITORING/COMPLIANCE HWY PRJS                 X
+2585 OTHER SERVICES                                               X
+2586 LITTER CONTROL & RECYCLING ACTVITIES                         X
+2587 FIN ASST FOR ENVIRONMENTAL RESOURCES MANAGEMENT              X
+2588 CONSTRUCTION ASSISTANCE LOANS AND GRANTS                     X
+2589 FINANCIAL ASSISTANCE FOR WATER QUALITY                       X
+2590 STATE EDUCATION SERVICES FOR PRE-ADOLESCENTS                 X
+2591 STATE EDUCATION SERVICES FOR ADOLESCENTS                     X
+2592 STATE EDUCATION REGIONAL SERVICES                            X
+2593 CONSTRUCTION ASSISTANCE                                      X
+2594 WASTEWATER TREATMENT PLAN OPERATOR & MNGMT ASST              X
+2595 FIN ASST FOR COASTAL RESOURCES MANAGEMENT                    X
+2596 PREVENTION OF & RESPONSE TO CHEMICAL EMERGENCIES             X
+2597 OTHER SERVICES                                               X
+2598 POLICY AND PROGRAM DEVELOPMENT                               X
+2599 FINANCIAL ASSISTANCE FOR LIBRARY PROGRAMS                    X
+2600 FINANCIAL ASSISTANCE FOR PUBLIC RADIO                        X
+2601 REGULATION OF PROPRIETARY SCHOOLS                            X
+2602 TOURIST ESTABLISHMENT SANITATION REGULATION                  X
+2603 INTERDEPARTMENTAL LICENSURE AND CERTIFICATION                X
+2604 EMERGENCY COMMUNICATION SYSTEMS DEVELOP SRVS                 X
+2605 FIN ASSIST LOCALITIES-ENHANCED EMERGENCY COMM SRVC           X
+2606 FIN ASSIST SRVC PROVIDERS-ENHANCED EMERGENCY COMM            X
+2607 SAVINGS FROM MANAGEMENT ACTIONS                              X
+2608 ADJUSTMENTS FOR RESIZING ACTIONS                             X
+2609 HIGHER EDUCATION TUITION POLICY                              X
+2610 SAVINGS-GOVERNOR'S COMM EFFICIENCY/EFFECTIVENESS             X
+2611 BUDGET DEVELOPMENT AND EXECUTION SERVICES                    X
+2612 "RESEARCH                                                    X
+2613 OTHER SERVICES                                               X
+2614 BOILER SAFETY CODE                                           X
+2615 BUILDING SAFETY CODE                                         X
+2616 RECREATION SERVICES                                          X
+2617 RESIDENTIAL SERVICES                                         X
+2618 SECURITY SERVICES                                            X
+2619 ADMINISTRATIVE SERVICES                                      X
+2620 OTHER SERVICES                                               X
+2621 WATER MANAGEMENT LIAISON PER 853                             X
+2622 REGULATORY DEVELOPMENT AND REVIEW                            X
+2623 POLLUTION PREVENTION                                         X
+2624 OTHER SERVICES                                               X
+2625 ENVIRONMENTAL COMMUNICATIONS & EDUCATION SERVICES            X
+2626 INTERAGENCY & INTERGOVERNMENTAL COORDINATION                 X
+2627 STATE EDUCATION SERVICES FOR CAREER EDUCATION                X
+2628 VA BUSINESS-EDUCATION PARTNERSHIP                            X
+2629 OTHER SERVICES                                               X
+2630 COASTAL RESOURCES MANAGEMENT                                 X
+2631 INTERSTATE MANAGEMENT AND COORDINATION                       X
+2632 POLLUTION PREVENTION                                         X
+2633 OTHER SERVICES                                               X
+2634 COLLECTIONS MANAGEMENT AND CURATORIAL SERVICES               X
+2635 EDUCATIONAL & CULTURAL PRODUCTIONS & PRESENTATIONS           X
+2636 OTHER SERVICES                                               X
+2637 ENVIRONMENTAL EMERGENCY INVESTIGATION & RESPONSE             X
+2638 PETROLEUM TANK REMEDIATION                                   X
+2639 PETROLEUM TANK REGULATION                                    X
+2640 WASTE DISPOSAL SITE REMEDIATION                              X
+2641 "MARINE SCIENCE                                              X
+2642 OYSTER PROPAGATION AND HABITAT IMPROVEMENT                   X
+2643 CHESAPEAKE BAY MANAGEMENT RESEARCH                           X
+2644 GENERAL ACCOUNTING                                           X
+2645 PRE-AUDIT OF DISBURSEMENT                                    X
+2646 OTHER SERVICES                                               X
+2647 INDUSTRIAL & ECONOMIC DEVELOPMENT RESEARCH                   X
+2648 SUPPORTING RESEARCH                                          X
+2649 VETERINARY MEDICAL RESEARCH                                  X
+2650 COMMUNITY SERVICES                                           X
+2651 PUBLIC BROADCASTING SERVICES                                 X
+2652 AGRICULTURE & NATURAL RES COOPERATIVE EXT SVCS               X
+2653 COMMUNITY RES DEV COOPERATIVE EXT SERVICES                   X
+2654 FAMILY RESOURCES COOPERATIVE EXT SERVICES                    X
+2655 FIELD COOPERATIVE EXTENSION SERVICES                         X
+2656 CENTRAL RECORDS MANAGEMENT                                   X
+2657 OFFICIAL PUBLIC RECORDS                                      X
+2658 PUBLIC DOCUMENTS ACCESS                                      X
+2659 4-H COOPERATIVE EXTENSION SERVICES                           X
+2660 VETERINARY MED PUBLIC SER                                    X
+2661 FIRE SAFETY CODE                                             X
+2662 INDUSTRIALIZED BUILDING SAFETY CODE                          X
+2663 OTHER SERVICES                                               X
+2664 RATE AND SERVICE ADMINISTRATION                              X
+2665 UTILITY AUDITING                                             X
+2666 REGULATORY RESEARCH SERVICES                                 X
+2667 FIN ASST - LOCAL FINANCE DIRECTORS                           X
+2668 FIN ASST-OPERATIONS OF LOCAL DIRECTORS OF FINANCE            X
+2669 GENERAL MANAGEMENT & DIRECTION                               X
+2670 OTHER SERVICES                                               X
+2671 GENERAL MANAGEMENT AND DIRECTION                             X
+2672 COMPUTER SERVICES                                            X
+2673 TEACHER MANAGEMENT AND DIRECTION                             X
+2674 TRAINING AND EDUCATION SERVICES                              X
+2675 TRANSPORTATION SERVICES                                      X
+2676 ACCOUNTING AND BUDGETING SERVICES                            X
+2677 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+2678 COLLECTION AND LOCATOR SERVICES                              X
+2679 COMPUTER SERVICES                                            X
+2680 ACCOUNTING & BUDGETING SERVICES                              X
+2681 ADULT LITERACY SERVICES ADMINISTRATION                       X
+2682 FINANCIAL ASSISTANCE FOR ADULT LITERACY SERVICES             X
+2683 FINANCIAL ASSISTANCE FOR PUBLIC SCHOOL FACILITIES            X
+2684 EDUCATION AND EXTENSION SERVICES                             X
+2685 REGISTRAR SERVICES                                           X
+2686 CURATORIAL SUPPORT SERVCS                                    X
+2687 BASIC SKILLS AND KNOWLEDGE INSTRUCTION                       X
+2688 GIFTED AND TALENTED INSTRUCTION                              X
+2689 OCCUPATIONAL-VOCATIONAL INSTRUCTION                          X
+2690 OTHER SERVICES                                               X
+2691 GENERAL MANAGEMENT AND DIRECTION                             X
+2692 COMPUTER SERVICES                                            X
+2693 GIFTED ADMINISTRATION                                        X
+2694 GOVERNOR'S SCHOOL PAYMENTS                                   X
+2695 "INSTRUCTIONAL LEADERSHIP                                    X
+2696 MUSEUM MEMBERSHIP SERVICE                                    X
+2697 OPERATIONAL AND SUPPORT SERVICES                             X
+2698 OTHER SERVICES                                               X
+2699 EFFORTS TO PROVIDE FIN ASST FOR CHARTER SCHOOLS              X
+2700 OTHER SERVICES                                               X
+2701 LIBRARIES                                                    X
+2702 MUSEUMS AND GALLERIES                                        X
+2703 AUDIO/VISUAL SERVICES                                        X
+2704 COMPUTING SUPPORT                                            X
+2705 ANCILLARY SUPPORT                                            X
+2706 "ACAD ADMIN                                                  X
+2707 ALL OTHER SUBPROGRAMS                                        X
+2708 STUDENT SERVICE ADMINISTRATION                               X
+2709 SOCIAL AND CULTURAL DEVELOPMENT                              X
+2710 COUNSELING AND CAREER GUIDANCE                               X
+2711 STUDENT ADMISSIONS AND RECORDS                               X
+2712 FINANCIAL AID ADMINISTRATION                                 X
+2713 STUDENT HEALTH SERVICES                                      X
+2714 EXECUTIVE MANAGEMENT                                         X
+2715 FISCAL OPERATIONS                                            X
+2716 GENERAL ADMINISTRATIVE SERVICES                              X
+2717 LOGISTICAL SERVICES                                          X
+2718 PUBLIC RELATIONS AND DEVELOPMENT                             X
+2719 ADMINISTRATION AND SUPERVISION                               X
+2720 ALUMNI HALL                                                  X
+2721 OTHER SERVICES                                               X
+2722 BUILDINGS AND GROUNDS SECURITY SERVICES                      X
+2723 CUSTODIAL SERVICES                                           X
+2724 GROUNDS MAINTENANCE                                          X
+2725 OFFICE SPACE ASSIGNMENT                                      X
+2726 PARKING FACILITIES MANAGEMENT                                X
+2727 PAYMENTS IN LIEU OF TAXES                                    X
+2728 REPAIRS AND MAINTENANCE OF BUILDINGS                         X
+2729 HIGHWAY VEHICLE AND DRIVER REGULATION                        X
+2730 FILTRATION AND TREATMENT PLANT OPERATION                     X
+2731 FOOD AND DIETARY SERVICES                                    X
+2732 HOUSEKEEPING SERVICES                                        X
+2733 LINEN AND LAUNDRY SERVICES                                   X
+2734 MEDICAL AND CLINICAL SERVICES                                X
+2735 MEDICAL MANAGEMENT AND DIRECTION                             X
+2736 NURSING MANAGEMENT AND DIRECTION                             X
+2737 PERSONNEL SERVICES                                           X
+2738 PHYSICAL PLANT SERVICES                                      X
+2739 PLANNING AND EVALUATION SERVICES                             X
+2740 POWER PLANT OPERATION                                        X
+2741 VESSEL OPERATION SERVICES                                    X
+2742 GRANT AND LOAN ADMINISTRATION                                X
+2743 OTHER SERVICES                                               X
+2744 REGULATORY AND CONSUMER ADVOCACY                             X
+2745 CHARITABLE SOLICITATION REGULATION                           X
+2746 CORPORATION COMMISSION CLERKS SERVICES                       X
+2747 EMPLOYMENT AGENCY REGULATION                                 X
+2748 INVESTIGATION OF TRADE PRACTICES                             X
+2749 "MIN WAGE                                                    X
+2750 REGULATION OF DEALERS AND HANDLERS OF AGRI PRODUCT           X
+2751 REGULATION OF DRUG MANUFACTURERS AND DISPENSERS              X
+2752 REGULATION OF LABOR UNIONS                                   X
+2753 "SEC                                                         X
+2754 UNIFORM COMMERCIAL CODE FILINGS                              X
+2755 WEIGHTS AND MEASURES REGULATION                              X
+2756 MONITORING & OVERSIGHT OF DUAL PARTY RELAY SERVICE           X
+2757 MONITORING AND OVERSIGHT OF CHARITABLE GAMING                X
+2758 OTHER SERVICES                                               X
+2759 GENERAL FOOD INSPECTION                                      X
+2760 SPECIAL MAINTENANCE SERVICES                                 X
+2761 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+2762 COLLECTION AND LOCATOR SERVICES                              X
+2763 FILTRATION AND TREATMENT PLANT OPERATION                     X
+2764 FOOD AND DIETARY SERVICES                                    X
+2765 HOUSEKEEPING SERVICES                                        X
+2766 LINEN AND LAUNDRY SERVICES                                   X
+2767 MEDICAL AND CLINICAL SERVICES                                X
+2768 MEDICAL MANAGEMENT AND DIRECTION                             X
+2769 NURSING MANAGEMENT AND DIRECTION                             X
+2770 PERSONNEL SERVICES                                           X
+2771 PHYSICAL PLANT SERVICES                                      X
+2772 PLANNING AND EVALUATION SERVICES                             X
+2773 POWER PLANT OPERATION                                        X
+2774 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+2775 ALCOHOLIC BEVERAGE MANAGEMENT SERVICES                       X
+2776 HUMAN RELATIONS MANAGEMNT                                    X
+2777 GENERAL MANAGEMENT AND DIRECTION                             X
+2778 COMPUTER SERVICES                                            X
+2779 ACCOUNTING AND BUDGETING SERVICES                            X
+2780 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+2781 GENERAL MANAGEMENT AND DIRECTION                             X
+2782 COMPUTER SERVICES                                            X
+2783 ACCOUNTING AND BUDGETING SERVICES                            X
+2784 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+2785 COLLECTION AND LOCATOR SERVICES                              X
+2786 FILTRATION AND TREATMENT PLANT OPERATION                     X
+2787 FOOD AND DIETARY SERVICES                                    X
+2788 HOUSEKEEPING SERVICES                                        X
+2789 LINEN AND LAUNDRY SERVICES                                   X
+2790 MEDICAL AND CLINICAL SERVICES                                X
+2791 MEDICAL MANAGEMENT AND DIRECTION                             X
+2792 NURSING MANAGEMENT AND DIRECTION                             X
+2793 PERSONNEL SERVICES                                           X
+2794 PHYSICAL PLANT SERVICES                                      X
+2795 PLANNING AND EVALUATION SERVICES                             X
+2796 POWER PLANT OPERATION                                        X
+2797 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+2798 PUBLIC INFORMATION SERVICES                                  X
+2799 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+2800 RECREATION SERVICES                                          X
+2801 CUSTODIAL SERVICE                                            X
+2802 "REPAIRS & MAINT: BLDG                                       X
+2803 UTILITIES                                                    X
+2804 PROPERTY AND GENERAL LIABILITY INSURANCE                     X
+2805 PROPERTY RENTALS                                             X
+2806 OPERATION OF POWER PLANT                                     X
+2807 DEBT SERVICE EDUCATIONAL AND GENERAL PLANT                   X
+2808 OTHER OPERATION AND MAINTENANCE EXPENSE                      X
+2809 SCHOLARSHIPS                                                 X
+2810 FELLOWSHIPS                                                  X
+2811 INCENTIVE SCHOLARSHIPS                                       X
+2812 EARLY INTERVENTION SCHOLARSHIPS                              X
+2813 EMINENT SCHOLARS                                             X
+2814 INSTITUTIONAL TEACHING GRANTS                                X
+2815 REGIONAL GRANTS AND CONTRACTS                                X
+2816 SPONSORED PROGRAMS                                           X
+2817 MEDICAL EDUCATION                                            X
+2818 MARINE SCIENCE CONSORTIUM                                    X
+2819 PRIVATE COLLEGE CONTRACTS                                    X
+2820 FUNDS FOR EXCELLENCE                                         X
+2821 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+2822 PUBLIC INFORMATION SERVICES                                  X
+2823 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+2824 RECREATION SERVICES                                          X
+2825 RESIDENTIAL SERVICES                                         X
+2826 SECURITY SERVICES                                            X
+2827 TEACHER MANAGEMENT AND DIRECTION                             X
+2828 TRAINING AND EDUCATION SERVICES                              X
+2829 TRANSPORTATION SERVICES                                      X
+2830 VESSEL OPERATION SERVICES                                    X
+2831 GRANT AND LOAN ADMINISTRATION                                X
+2832 OTHER SERVICES                                               X
+2833 ACCOUNTING AND BUDGETING SERVICES                            X
+2834 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+2835 COLLECTION AND LOCATOR SERVICES                              X
+2836 FILTRATION AND TREATMENT PLANT OPERATION                     X
+2837 FOOD AND DIETARY SERVICES                                    X
+2838 HOUSEKEEPING SERVICES                                        X
+2839 LINEN AND LAUNDRY SERVICES                                   X
+2840 MEDICAL AND CLINICAL SERVICES                                X
+2841 BUILDING OPERATIONS                                          X
+2842 OTHER SERVICES                                               X
+2843 GENERAL OBLIGATION BOND REDEMPTION & INTEREST                X
+2844 AMORTIZATION PAYMENTS                                        X
+2845 FIRE SERVICES MANAGEMENT AND COORDINATION                    X
+2846 FIRE SERVICES TECHNICAL SUPPORT                              X
+2847 FIRE TRAINING AND EDUCATION                                  X
+2848 ADMINISTRATIVE SERVICES                                      X
+2849 OTHER SERVICES                                               X
+2850 PAYMENTS TO TOBACCO INDEM & REVITALIZATION FD                X
+2851 PAYMENTS TO TOBACCO SETTLEMENT FUND                          X
+2852 PAYMENTS TO THE PRIORITY TRANSPORTATION FUND                 X
+2853 PAYMENTS TO HIGHER ED & ECONOMIC DEV TRUST FD                X
+2854 PAYMENTS TO TOBACCO INDEMNIFICATION & COMM REVITAL           X
+2855 PAYMENTS TO VIRGINIA TOBACCO SETTLEMENT ENDOWMENT            X
+2856 GENERAL MANAGEMENT AND DIRECTION                             X
+2857 PUBLIC/PRIVATE PARTNERSHIP-REVENUE ADMIN SERVICES            X
+2858 ARCHITECTURAL RESEARCH                                       X
+2859 GENERAL MANAGEMENT AND DIRECTION                             X
+2860 COMPUTER SERVICES                                            X
+2861 COLLECTION AND LOCATOR SERVICES                              X
+2862 FILTRATION AND TREATMENT PLANT OPERATION                     X
+2863 FOOD AND DIETARY SERVICES                                    X
+2864 HOUSEKEEPING SERVICES                                        X
+2865 LINEN AND LAUNDRY SERVICES                                   X
+2866 MEDICAL AND CLINICAL SERVICES                                X
+2867 MEDICAL MANAGEMENT AND DIRECTION                             X
+2868 NURSING MANAGEMENT AND DIRECTION                             X
+2869 PERSONNEL SERVICES                                           X
+2870 PHYSICAL PLANT SERVICES                                      X
+2871 PLANNING AND EVALUATION SERVICES                             X
+2872 POWER PLANT OPERATION                                        X
+2873 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+2874 PUBLIC INFORMATION SERVICES                                  X
+2875 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+2876 RECREATION SERVICES                                          X
+2877 RESIDENTIAL SERVICES                                         X
+2878 SECURITY SERVICES                                            X
+2879 TEACHER MANAGEMENT AND DIRECTION                             X
+2880 TRAINING AND EDUCATION SERVICES                              X
+2881 RESIDENTIAL SERVICES                                         X
+2882 SECURITY SERVICES                                            X
+2883 TEACHER MANAGEMENT AND DIRECTION                             X
+2884 TRAINING AND EDUCATION SERVICES                              X
+2885 TRANSPORTATION SERVICES                                      X
+2886 VESSEL OPERATION SERVICES                                    X
+2887 GRANT AND LOAN ADMINISTRATION                                X
+2888 OTHER SERVICES                                               X
+2889 COMMUNITY SECURITY                                           X
+2890 JUVENILE DELINQUENCY PREVENTION                              X
+2891 OTHER SERVICES                                               X
+2892 CRIMINAL JUSTICE COMPUTER NETWORK                            X
+2893 CRIM JUSTICE INFO SYSTEM COORDINATION AND REGUL              X
+2894 RECORDS MANAGEMENT                                           X
+2895 TELECOMMUNICATIONS                                           X
+2896 UNIFORM CRIME REPORTING                                      X
+2897 OTHER SERVICES                                               X
+2898 CORRECTIONAL TRAINING AND EDUCATION                          X
+2899 COURTHOUSE AND COURTROOM SECURITY TRAINING AND ED            X
+2900 CRIMINAL JUSTICE PERSONNEL STANDARDS                         X
+2901 OUTSTANDING FACULTY RECOGNITION                              X
+2902 HIGHER EDUCATION-EDUCATIONAL & GENERAL PROGRAMS              X
+2903 HIGHER EDUCATION INSTRUCTION                                 X
+2904 RAILROAD REGULATION                                          X
+2905 OTHER SERVICES                                               X
+2906 GROUND TRANSPORTATION SYSTEM PLANNING                        X
+2907 GROUND TRANSPORTATION SYSTEM RESEARCH                        X
+2908 OTHER SERVICES                                               X
+2909 ENGINEERING                                                  X
+2910 ACCESS ROADS AND OTHER CONSTRUCTION                          X
+2911 INTERSTATE CONSTRUCTION                                      X
+2912 PRIMARY CONSTRUCTION                                         X
+2913 RIGHT OF WAY ACQUISITION                                     X
+2914 SECONDARY CONSTRUCTION                                       X
+2915 URBAN CONSTRUCTION                                           X
+2916 CRITICAL HIGHWAY CONSTRUCTION                                X
+2917 CONSTRUCTION MANAGEMENT                                      X
+2918 PRIMARY HIGHWAY TRANS IMPROVEMENT DISTRICT CONST             X
+2919 "ALCOHOLIC BEV PURCHASING                                    X
+2920 OTHER SERVICES                                               X
+2921 ENFORCEMENT/REGULATION-ALCOHOLIC BEV CONTROL LAWS            X
+2922 EXTRADITION COORDINATION                                     X
+2923 FINANCIAL ASSIST TO LOCAL LAW ENFORCE OFFICIALS              X
+2924 INVESTIGATION AND ARREST                                     X
+2925 HIGHWAY PATROL SERVICES                                      X
+2926 FIN ASSIST TO LOC FOR INTENSIFD DRUG ENFORCEMT SVC           X
+2927 COORDINATION OF INTENSIFIED DRUG ENFORCEMENT SVCS            X
+2928 FINANCIAL ASSISTANCE TO REGIONAL JAIL AUTHORITIES            X
+2929 ENFORCEMENT AND REGULATION OF TOBACCO CONTROL LAWS           X
+2930 FIN ASST-OPERATIONS OF LOCAL LAW ENFORCEMENT                 X
+2931 OTHER SERVICES                                               X
+2932 CRIMINAL JUSTICE COORDINATION                                X
+2933 CRIMINAL JUSTICE PLANNING                                    X
+2934 CRIMINAL JUSTICE RESEARCH                                    X
+2935 OTHER SERVICES                                               X
+2936 STATE AID FOR LOCAL LAW ENFORCEMENT PROGRAMS                 X
+2937 COORDINATION OF ASSET SEIZURE/FORFEITURE ACTIVITY            X
+2938 GENERAL MANAGEMENT AND DIRECTION                             X
+2939 COMPUTER SERVICES                                            X
+2940 ACCOUNTING AND BUDGETING SERVICES                            X
+2941 ADULT PROBATION & PAROLE SVCS COORDINATION                   X
+2942 PROBATION/PAROLE SERVICES LOCAL GRANTS & CONTRACTS           X
+2943 OTHER SERVICES                                               X
+2944 CONFINEMENT AND CUSTODY COORDINATION                         X
+2945 CONFINEMENT AND CUSTODY INFORMATION                          X
+2946 CONFINEMENT AND CUSTODY RESEARCH AND PLANNING                X
+2947 REGULATION OF CORRECTIONAL FACILITIES                        X
+2948 GRANT ADMINISTRATION                                         X
+2949 OTHER SERVICES                                               X
+2950 FIN ASSIST FOR ADULT CONFINE IN LOCAL FACILITIES             X
+2951 FIN ASSIST FOR JUV CONFINEMENT IN LOCAL FACILITIES           X
+2952 FINANCIAL ASST - CONSTRUCTION OF LOCAL FACILITIES            X
+2953 FIN ASST-ADULT CONFINEMENT IN REGIONAL FACILITIES            X
+2954 OTHER SERVICES                                               X
+2955 ADULT REHABILITATION AND TREATMENT SERVICES                  X
+2956 ADULT SECURITY                                               X
+2957 OFFENDER CLASSIFICATION/TIME COMPUTATION SERVICES            X
+2958 JUVENILE SECURITY                                            X
+2959 JUVENILE REHABILITATION AND TREATMENT SERVICES               X
+2960 MINIMUM SECURITY SERVICES                                    X
+2961 ACCOUNTING AND BUDGETING SERVICES                            X
+2962 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+2963 COLLECTION AND LOCATOR SERVICES                              X
+2964 FILTRATION AND TREATMENT PLANT OPERATION                     X
+2965 FOOD AND DIETARY SERVICES                                    X
+2966 HOUSEKEEPING SERVICES                                        X
+2967 LINEN AND LAUNDRY SERVICES                                   X
+2968 MEDICAL AND CLINICAL SERVICES                                X
+2969 MEDICAL MANAGEMENT AND DIRECTION                             X
+2970 NURSING MANAGEMENT AND DIRECTION                             X
+2971 PERSONNEL SERVICES                                           X
+2972 PHYSICAL PLANT SERVICES                                      X
+2973 PLANNING AND EVALUATION SERVICES                             X
+2974 POWER PLANT OPERATION                                        X
+2975 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+2976 PUBLIC INFORMATION SERVICES                                  X
+2977 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+2978 RECREATION SERVICES                                          X
+2979 RESIDENTIAL SERVICES                                         X
+2980 SECURITY SERVICES                                            X
+2981 TRANSPORTATION SERVICES                                      X
+2982 VESSEL OPERATION SERVICES                                    X
+2983 GRANT AND LOAN ADMINISTRATION                                X
+2984 OTHER SERVICES                                               X
+2985 FINANCIAL ASSISTANCE FOR INSTRUCTION                         X
+2986 FINANCIAL ASST FOR SP EDUCATION INSTRUCTION                  X
+2987 FINANCIAL ASST FOR VOCATIONAL ED INSTRUCTION                 X
+2988 FINANCIAL ASST FOR ADULT EDUCATION INSTRUCTION               X
+2989 FINANCIAL ASST FOR GENERAL EDUCATION INSTRUCTION             X
+2990 FINANCIAL ASST FOR CULTURAL TRANSITION                       X
+2991 FINANCIAL ASST FOR RESEARCH AND TESTING                      X
+2992 FINANCIAL ASST FOR PUPIL TRANSPORTATION                      X
+2993 FINANCIAL ASST FOR TEXTBOOK PAYMENTS                         X
+2994 FINC ASST FOR VA OCCUP INFO COORD COMM                       X
+2995 FINANCIAL ASST FOR ED TELECOMMUNICATIONS                     X
+2996 FINANCIAL ASST FROM FEDERAL LAND USE                         X
+2997 FINANCIAL ASSISTANCE FOR DROPOUT PREVENTION                  X
+2998 FIN ASST FOR FOSTER CHILDREN EDUC PAYMNTS                    X
+2999 FINANCIAL ASSISTANCE FOR RADIO READING SERVICES              X
+3000 EARLY AWARENESS AND READINESS PROGRAM                        X
+3001 JAILERS AND CUSTODIAL OFFICERS TRAINING AND EDUC             X
+3002 LAW ENFORCEMENT TECHNICAL ASSISTANCE                         X
+3003 LAW ENFORCEMENT TRAINING AND EDUCATION                       X
+3004 JUVENILE JUSTICE TRAINING                                    X
+3005 OTHER SERVICES                                               X
+3006 ALCOHOLIC BEVERAGE LIC AND PREMISES INSPECTION               X
+3007 LAW ENFORCEMENT SCIENTIFIC SUPPORT SERVICES                  X
+3008 MEDICAL ASSISTANCE SRVS-LOW-INCOME CHILDREN                  X
+3009 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+3010 TRANSPORTATION IMPROVEMENT DISTRICT DEBT SVC                 X
+3011 DESIGNATED HIGHWAY CORRIDOR DEVELOPMENT PROGRAMS             X
+3012 FINANCIAL ASSISTANCE FOR ROADS/OTHER CONSTRUCTION            X
+3013 DESIGNATED CONSTRUCTION PRIORITY TRANSPORTATION FD           X
+3014 OTHER SERVICES                                               X
+3015 INTERSTATE MAINTENANCE                                       X
+3016 PRIMARY MAINTENANCE                                          X
+3017 SECONDARY MAINTENANCE                                        X
+3018 OTHER SERVICES                                               X
+3019 DRIVER SAFETY REGULATION                                     X
+3020 GROUND TRANSPORTATION SAFETY PROMOTION                       X
+3021 DAIRY OPERATION AND MILK PRODUCTION                          X
+3022 FARM PRODUCE OPERATION                                       X
+3023 LIVESTOCK PRODUCTION                                         X
+3024 MEAT PROCESSING OPERATION                                    X
+3025 NURSERIES AND GREENHOUSE OPERATIONS                          X
+3026 OTHER SERVICES                                               X
+3027 BINDERY AND BOOK REPAIR                                      X
+3028 DENTAL LABORATORIES                                          X
+3029 LAUNDRIES                                                    X
+3030 VEHICLE REPAIR                                               X
+3031 OTHER SERVICES                                               X
+3032 BRICK AND CINDER BLOCK PRODUCTION                            X
+3033 CLOTHING PRODUCTION                                          X
+3034 CARTON PRODUCTION                                            X
+3035 FOOTWEAR                                                     X
+3036 HOUSEHOLD AND INSTITUTIONAL ITEM PRODUCTION                  X
+3037 "MACHINERY                                                   X
+3038 METAL WORKS                                                  X
+3039 SIGN FABRICATION                                             X
+3040 TAGS AND LICENSE PLATES                                      X
+3041 HIGHER EDUCATION RESEARCH                                    X
+3042 HIGHER EDUCATION PUBLIC SERVICES                             X
+3043 HIGHER EDUCATION ACADEMIC SUPPORT                            X
+3044 HIGHER EDUCATION STUDENT SERVICES                            X
+3045 HIGHER EDUCATION INSTITUTIONAL SUPPORT                       X
+3046 OPERATION AND MAINTENANCE OF PLANT                           X
+3047 HIGHER EDUCATION STUDENT FINANCIAL ASSISTANCE                X
+3048 FIN ASSISTANCE FOR EDUCATIONAL AND GENERAL SVCS              X
+3049 "HIGHER ED ACAD                                              X
+3050 HIGHER EDUCATION FEDERAL PROGRAMS COORDINATION               X
+3051 UNIQUE MILITARY ACTIVITIES                                   X
+3052 HIGHER EDUCATION LONG-RANGE PLANNING                         X
+3053 FUNDING SUPPLEMENTS                                          X
+3054 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+3055 ARCHIVES MANAGEMENT                                          X
+3056 PERFORMING ARTS                                              X
+3057 STATEWIDE LIBRARY SERVICES                                   X
+3058 FIN ASSIST FOR CULTURAL AND ARTISTIC AFFAIRS                 X
+3059 MUSEUM AND CULTURAL SERVICES                                 X
+3060 HUMAN RELATIONS MANAGEMNT                                    X
+3061 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+3062 COLLECTION AND LOCATOR SERVICES                              X
+3063 FILTRATION AND TREATMENT PLANT OPERATION                     X
+3064 FOOD AND DIETARY SERVICES                                    X
+3065 HOUSEKEEPING SERVICES                                        X
+3066 LINEN AND LAUNDRY SERVICES                                   X
+3067 MEDICAL AND CLINICAL SERVICES                                X
+3068 MEDICAL MANAGEMENT AND DIRECTION                             X
+3069 NURSING MANAGEMENT AND DIRECTION                             X
+3070 PERSONNEL SERVICES                                           X
+3071 PHYSICAL PLANT SERVICES                                      X
+3072 PLANNING AND EVALUATION SERVICES                             X
+3073 POWER PLANT OPERATION                                        X
+3074 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+3075 PUBLIC INFORMATION SERVICES                                  X
+3076 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+3077 RECREATION SERVICES                                          X
+3078 RESIDENTIAL SERVICES                                         X
+3079 SECURITY SERVICES                                            X
+3080 TEACHER MANAGEMENT AND DIRECTION                             X
+3081 OTHER SERVICES                                               X
+3082 OFFENDER TESTING                                             X
+3083 CENTRAL CLASSIFICATION                                       X
+3084 OFFENDER SENTENCING COMPUTATION                              X
+3085 CLASSIFICATION & RECORDS MANAGEMENT                          X
+3086 OTHER SERVICES                                               X
+3087 CORRECTIONS OPER SPECIAL RESERVE                             X
+3088 GENERAL MANAGEMENT AND DIRECTION                             X
+3089 COMPUTER SERVICES                                            X
+3090 ACCOUNTING AND BUDGETING SERVICES                            X
+3091 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+3092 COLLECTION AND LOCATOR SERVICES                              X
+3093 FILTRATION AND TREATMENT PLANT OPERATION                     X
+3094 FOOD AND DIETARY SERVICES                                    X
+3095 HOUSEKEEPING SERVICES                                        X
+3096 LINEN AND LAUNDRY SERVICES                                   X
+3097 MEDICAL AND CLINICAL SERVICES                                X
+3098 MEDICAL MANAGEMENT AND DIRECTION                             X
+3099 NURSING MANAGEMENT AND DIRECTION                             X
+3100 PERSONNEL SERVICES                                           X
+3101 TEACHER MANAGEMENT AND DIRECTION                             X
+3102 TRAINING AND EDUCATION SERVICES                              X
+3103 TRANSPORTATION SERVICES                                      X
+3104 VESSEL OPERATION SERVICES                                    X
+3105 GRANT AND LOAN ADMINISTRATION                                X
+3106 OTHER SERVICES                                               X
+3107 INCREASED RETIREMENT BENEFITS                                X
+3108 GENERAL MANAGEMENT AND DIRECTION                             X
+3109 COMPUTER SERVICES                                            X
+3110 ACCOUNTING AND BUDGETING SERVICES                            X
+3111 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+3112 COLLECTION AND LOCATOR SERVICES                              X
+3113 FILTRATION AND TREATMENT PLANT OPERATION                     X
+3114 FOOD AND DIETARY SERVICES                                    X
+3115 HOUSEKEEPING SERVICES                                        X
+3116 LINEN AND LAUNDRY SERVICES                                   X
+3117 MEDICAL AND CLINICAL SERVICES                                X
+3118 MEDICAL MANAGEMENT AND DIRECTION                             X
+3119 NURSING MANAGEMENT AND DIRECTION                             X
+3120 PERSONNEL SERVICES                                           X
+3121 SPECIAL EDUCATION MEDICAL SERVICES                           X
+3122 VESSEL OPERATION SERVICES                                    X
+3123 GRANT AND LOAN ADMINISTRATION                                X
+3124 FIN ASSIST FOR INDIVIDUAL AND FAMILY SERVICES                X
+3125 FOREST LAND MANAGEMENT                                       X
+3126 HISTORIC AND COMMEMORATIVE ATTRACTION MANAGEMENT             X
+3127 LAND MANAGEMENT                                              X
+3128 LEISURE AND RECREATION SERVICES                              X
+3129 MARINE LIFE MANAGEMENT                                       X
+3130 MINERALS MANAGEMENT                                          X
+3131 RESOURCE MANAGEMENT RESEARCH/PLANNING/COORDINATION           X
+3132 COASTAL LANDS MANAGEMENT                                     X
+3133 WILDLIFE AND FRESHWATER FISHERIES MANAGEMENT                 X
+3134 ENVIRONMENTAL RESOURCES MANAGEMENT                           X
+3135 ENVIRONMENTAL RESEARCH & PLANNING                            X
+3136 ENVIRONMENTAL MONITORING & EVALUATION                        X
+3137 ENVIRONMENTAL TECHNICAL AND FINANCIAL ASSISTANCE             X
+3138 ENVIRONMENTAL POLICY & PROGRAM DEVELOPMENT                   X
+3139 "ENVIRONMENTAL INFO                                          X
+3140 ENVIRONMENTAL RESPONSE & REMEDIATION                         X
+3141 GROUND TRANSPORTATION SAFETY RESEARCH & ANALYSIS             X
+3142 VEHICLE SAFETY REGULATION                                    X
+3143 FINANCIAL ASSISTANCE FOR TRANSPORTATION SAFETY               X
+3144 OTHER SERVICES                                               X
+3145 TOLL FACILITY ACQUISITION AND CONSTRUCTION                   X
+3146 TOLL FACILITY DEBT SERVICE                                   X
+3147 TOLL FACILITY MAINTENANCE AND OPERATION                      X
+3148 TOLL FACILITIES REVOLVING                                    X
+3149 TOLL FACILITIES REBATE                                       X
+3150 OTHER SERVICES                                               X
+3151 FINANCIAL ASSISTANCE FOR CITY ROAD MAINTENANCE               X
+3152 FINANCIAL ASSISTANCE FOR COUNTY ROAD MAINTENANCE             X
+3153 FINANCIAL ASSISTANCE FOR MASS TRANSIT                        X
+3154 "FIN ASSIST-PLANNING                                         X
+3155 FINANCIAL ASSISTANCE LOCAL TRANSPORTATION PRJ MGMT           X
+3156 OTHER SERVICES                                               X
+3157 SPECIAL PROGRAMS                                             X
+3158 FORMULA ASSISTANCE                                           X
+3159 CAPITAL ASSISTANCE                                           X
+3160 FEDERAL AND REGULATORY PROGRAMS                              X
+3161 TIRE RECAPPING                                               X
+3162 WOODWORKS                                                    X
+3163 PAINT MANUFACTURING                                          X
+3164 OTHER SERVICES                                               X
+3165 "ARTS                                                        X
+3166 OTHER SERVICES                                               X
+3167 VENDING STANDS AND SNACK BARS                                X
+3168 CAFETERIAS                                                   X
+3169 OTHER SERVICES                                               X
+3170 FOOD SERVICES                                                X
+3171 RECREATION FACILITIES OPERATIONS                             X
+3172 OTHER ENTERPRISE FUNCTIONS                                   X
+3173 FOOD SERVICES                                                X
+3174 BOOKSTORES AND OTHER STORES                                  X
+3175 RESIDENTIAL SERVICES                                         X
+3176 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+3177 FIN ASSIST FOR PUBLIC EDUCATION (CATEGORICAL)                X
+3178 FIN ASSIST FOR PUBLIC SCHOOL EMPLOYEE BENEFITS               X
+3179 PARKING AND TRANSPORTATION SYSTEMS & SERVICES                X
+3180 TELECOMMUNICATIONS SYSTEMS AND SERVICES                      X
+3181 TRAINING AND EDUCATION SERVICES                              X
+3182 TRANSPORTATION SERVICES                                      X
+3183 VESSEL OPERATION SERVICES                                    X
+3184 GRANT AND LOAN ADMINISTRATION                                X
+3185 OTHER SERVICES                                               X
+3186 FIN ASSISTANCE-LOCAL ATTORNEYS FOR COMMONWEALTH              X
+3187 STATE AGENCY/LOCAL LEGAL ASSISTANCE AND ADVICE               X
+3188 FIN ASST-OPERATIONS LOCAL ATTNY FOR COMMONWEALTH             X
+3189 OTHER SERVICES                                               X
+3190 APPELLATE REVIEW                                             X
+3191 PRE-TRIAL ASSISTANCE                                         X
+3192 TRIAL PROCESSES                                              X
+3193 OTHER COURT COSTS AND ALLOWANCES (CRIMINAL FUND)             X
+3194 INVOLUNTARY MENTAL COMMITMENTS                               X
+3195 FINANCIAL ASSISTANCE-LOCAL CIRCUIT COURT CLERKS              X
+3196 MEDICAL SERVICES - INVOLUNTARY MENTAL COMMITMENTS            X
+3197 FIN ASST-OPERATIONS FOR CIRCUIT COURT CLERKS                 X
+3198 FIN ASST-MAINTENANCE OF LOCAL LAND RECORDS                   X
+3199 OTHER SERVICES                                               X
+3200 ADJUDICATORY COORDINATION                                    X
+3201 PHYSICAL PLANT SERVICES                                      X
+3202 PLANNING AND EVALUATION SERVICES                             X
+3203 POWER PLANT OPERATION                                        X
+3204 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+3205 PUBLIC INFORMATION SERVICES                                  X
+3206 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+3207 RECREATION SERVICES                                          X
+3208 RESIDENTIAL SERVICES                                         X
+3209 SECURITY SERVICES                                            X
+3210 TEACHER MANAGEMENT AND DIRECTION                             X
+3211 TRAINING AND EDUCATION SERVICES                              X
+3212 TRANSPORTATION SERVICES                                      X
+3213 VESSEL OPERATION SERVICES                                    X
+3214 GRANT AND LOAN ADMINISTRATION                                X
+3215 OTHER SERVICES                                               X
+3216 FIN ASSIST TO LOCALITIES FOR ADMIN OF JUS SERVICES           X
+3217 FIN ASSIST TO ST AGEN FOR ADMIN OF JUSTICE SERV              X
+3218 OTHER SERVICES                                               X
+3219 FIN ASSIST TO MOSQUITO CONTROL COMMISSIONS                   X
+3220 VECTOR CONTROL                                               X
+3221 PHYSICAL PLANT SERVICES                                      X
+3222 PLANNING AND EVALUATION SERVICES                             X
+3223 POWER PLANT OPERATION                                        X
+3224 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+3225 PUBLIC INFORMATION SERVICES                                  X
+3226 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+3227 RECREATION SERVICES                                          X
+3228 RESIDENTIAL SERVICES                                         X
+3229 SECURITY SERVICES                                            X
+3230 TEACHER MANAGEMENT AND DIRECTION                             X
+3231 TRAINING AND EDUCATION SERVICES                              X
+3232 TRANSPORTATION SERVICES                                      X
+3233 VESSEL OPERATION SERVICES                                    X
+3234 GRANT AND LOAN ADMINISTRATION                                X
+3235 OTHER SERVICES                                               X
+3236 CODE MODERNIZATION                                           X
+3237 CODIFICATION OF LAWS                                         X
+3238 COMMITTEE ACTIVITIES                                         X
+3239 LEGISLATIVE SESSIONS                                         X
+3240 OTHER SERVICES                                               X
+3241 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+3242 AGRIC AND SEAFOOD PRODUCT PROMO AND DEVELOP SVCS             X
+3243 ANIMAL AND POULTRY DISEASE AND PEST CONTROL                  X
+3244 COMMERCE AND AGRIC MARKETS DEVELOP AND IMPROVEMENT           X
+3245 ECONOMIC DEVELOP RESEARCH/PLANNING/COORDINATION              X
+3246 INDUSTRIAL DEVELOPMENT SERVICES                              X
+3247 PLANT PEST AND DISEASE CONTROL                               X
+3248 TOURIST PROMOTION                                            X
+3249 TECH RESCH PLN & COORDINA                                    X
+3250 ECONOMIC AND COMMUNITY DEVELOPMENT SERVICES                  X
+3251 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+3252 CONSUMER AFFAIRS CLEARINGHOUSE SERVICES                      X
+3253 PAYMENTS TO INSURANCE COMPANIES                              X
+3254 REGULATION OF BUSINESS PRACTICES                             X
+3255 REGULATION OF FINANCIAL CONCERNS                             X
+3256 REGULATION OF FOOD                                           X
+3257 REGULATION OF INDIVIDUAL SAFETY                              X
+3258 REGULATION OF INSURANCE COMPANIES                            X
+3259 REGULATION OF PRODUCTS                                       X
+3260 REGULATION OF HORSE RACING AND PARI-MUTUEL BETTING           X
+3261 OTHER SERVICES                                               X
+3262 RAIL INDUSTRIAL ACCESS                                       X
+3263 FEDERAL AND REGULATORY PROGRAMS                              X
+3264 RAIL CAPITAL ASSISTANCE                                      X
+3265 OTHER SERVICES                                               X
+3266 PAYMENTS TO PRIORITY TRANSPORTATION FUND                     X
+3267 HWY TRANSPORTATION IMPROVEMENT DIST CONSTRUCTION             X
+3268 DESIGNATED HIGHWAY CORRIDOR CONSTRUCTION                     X
+3269 PRIORITY TRANSPORTATION FUND CONSTRUCTION                    X
+3270 OTHER SERVICES                                               X
+3271 ENGINEERING                                                  X
+3272 RIGHTS-OF-WAY ACQUISITION                                    X
+3273 CONSTRUCTION                                                 X
+3274 GENERAL MANAGEMENT AND DIRECTION                             X
+3275 COMPUTER SERVICES                                            X
+3276 ACCOUNTING AND BUDGETING SERVICES                            X
+3277 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+3278 COLLECTION AND LOCATOR SERVICES                              X
+3279 FILTRATION AND TREATMENT PLANT OPERATION                     X
+3280 FOOD AND DIETARY SERVICES                                    X
+3281 STUDENT HEALTH SERVICES                                      X
+3282 STUDENT UNIONS AND RECREATIONAL FACILITIES                   X
+3283 RECREATIONAL AND INTRAMURAL PROGRAMS                         X
+3284 OTHER ENTERPRISE FUNCTIONS                                   X
+3285 INTERCOLLEGIATE ATHLETICS                                    X
+3286 FOOD PROCESSING SERVICES                                     X
+3287 INDUSTRIAL SERVICES                                          X
+3288 MANUFACTURING SERVICES                                       X
+3289 DATA CONVERSION SERVICES                                     X
+3290 DUPLICATION AND FACSIMILE SERVICES                           X
+3291 STORAGE MANAGEMENT AND DELIVERY SERVICES                     X
+3292 REHABILITATIVE INDUSTRIES MANAGEMENT SERVICES                X
+3293 OTHER SERVICES                                               X
+3294 STATE LOTTERY MANAGEMENT SERVICES                            X
+3295 LICENSING & REGULATION OF LOTTERY SALES AGENTS               X
+3296 LOTTERY SALES & MARKETING SERVICES                           X
+3297 LOTTERY TICKET VALIDATION                                    X
+3298 OTHER SERVICES                                               X
+3299 GENERAL MANAGEMENT AND DIRECTION                             X
+3300 COMPUTER SERVICES                                            X
+3301 FIN ASSIST FOR PUBLIC EDUCATION (STD OF QUALITY)             X
+3302 FIN ASSIST FOR SPEC STATE REV SHARING (SALES TAX)            X
+3303 STATE EDUCATION SERVICES                                     X
+3304 ADJUDICATORY INFORMATION                                     X
+3305 ADJUDICATORY RESEARCH AND PLANNING                           X
+3306 OTHER SERVICES                                               X
+3307 ADULT LITERACY SERVICES                                      X
+3308 FINANCIAL ASSIST FOR PUBLIC SCHOOL CONSTRUCTION              X
+3309 INSTRUCTION                                                  X
+3310 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+3311 UNDESIGNATED PROGRAM                                         X
+3312 REVERSION CLEARING ACCT-SURPLUS PROPERTY PROCEEDS            X
+3313 INFORMATION SYSTEMS                                          X
+3314 STATISTICAL SYSTEMS                                          X
+3315 OTHER SERVICES                                               X
+3316 REVERSION CLEARING ACCT-APPROP BALANCE (OPERATING)           X
+3317 REVERSION CLEARING ACCT-APPROP BAL (CAP OUTLAY)              X
+3318 REVERSION CLEARING ACCT-APPROP REDUCT (OPERATING)            X
+3319 ADMINISTRATIVE TRAINING                                      X
+3320 JUDICIAL STANDARDS                                           X
+3321 OTHER SERVICES                                               X
+3322 EMERGENCY MEDICAL SERVICES SYS DEV & COORDINATION            X
+3323 EMERGENCY TRANSPORTATION AND SERVICES                        X
+3324 FINANCIAL AND COMPLIANCE AUDITS                              X
+3325 OPERATIONAL AUDITS AND EVALUATION                            X
+3326 PERFORMANCE AUDITS AND EVALUATION                            X
+3327 FINANCIAL ASST TO VOLUNTEER RESCUE SQUADS                    X
+3328 OTHER SERVICES                                               X
+3329 ANATOMICAL SERVICES                                          X
+3330 MEDICAL EXAMINER SERVICES                                    X
+3331 OTHER SERVICES                                               X
+3332 HEALTH STATISTICS                                            X
+3333 OTHER SERVICES                                               X
+3334 BILL DRAFTING AND PREPARATION                                X
+3335 LEGISLATIVE RESEARCH                                         X
+3336 VITAL RECORDS                                                X
+3337 OTHER SERVICES                                               X
+3338 CANCER PREVENTION AND CONTROL                                X
+3339 STUDY COMMISSION ACTIVITIES                                  X
+3340 OTHER SERVICES                                               X
+3341 REGULATION OF CHARITABLE GAMING                              X
+3342 REGULATION OF PROFESSIONS AND OCCUPATIONS                    X
+3343 REGULATION OF PUBLIC FACILITIES AND SERVICES                 X
+3344 HOUSEKEEPING SERVICES                                        X
+3345 LINEN AND LAUNDRY SERVICES                                   X
+3346 MEDICAL AND CLINICAL SERVICES                                X
+3347 REGULATION OF STRUCTURE SAFETY                               X
+3348 REGULATION OF UTILITIES                                      X
+3349 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+3350 GROUND TRANSPORTATION REGULATION                             X
+3351 GROUND TRANSPORTATION SYSTEM PLANNING AND RESEARCH           X
+3352 HIGHWAY SYSTEM ACQUISITION AND CONSTRUCTION                  X
+3353 MEDICAL MANAGEMENT AND DIRECTION                             X
+3354 NURSING MANAGEMENT AND DIRECTION                             X
+3355 PERSONNEL SERVICES                                           X
+3356 HIGHWAY SYSTEM MAINTENANCE                                   X
+3357 GROUND TRANSPORTATION SYSTEM SAFETY                          X
+3358 TOLL FACILITY OPERATIONS                                     X
+3359 PHYSICAL PLANT SERVICES                                      X
+3360 PLANNING AND EVALUATION SERVICES                             X
+3361 ACCOUNTING AND BUDGETING SERVICES                            X
+3362 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+3363 COLLECTION AND LOCATOR SERVICES                              X
+3364 FILTRATION AND TREATMENT PLANT OPERATION                     X
+3365 FOOD AND DIETARY SERVICES                                    X
+3366 HOUSEKEEPING SERVICES                                        X
+3367 LINEN AND LAUNDRY SERVICES                                   X
+3368 MEDICAL AND CLINICAL SERVICES                                X
+3369 MEDICAL MANAGEMENT AND DIRECTION                             X
+3370 NURSING MANAGEMENT AND DIRECTION                             X
+3371 PERSONNEL SERVICES                                           X
+3372 PHYSICAL PLANT SERVICES                                      X
+3373 PLANNING AND EVALUATION SERVICES                             X
+3374 POWER PLANT OPERATION                                        X
+3375 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+3376 REVERSION CLEARING ACCT-APPROP REDUCT (CAP OUTLAY)           X
+3377 REVERSION CLEARING ACCT-INACTIVE NONGENERAL FUND             X
+3378 REVERSION CLEARING ACCT-MISCELLANEOUS                        X
+3379 PUBLIC INFORMATION SERVICES                                  X
+3380 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+3381 JUDICIAL TRAINING                                            X
+3382 PROSECUTORIAL TRAINING                                       X
+3383 SPECIALIZED ADJUDICATORY TRAINING                            X
+3384 IMMUNIZATION SERVICES                                        X
+3385 TUBERCULOSIS PREVENTION AND CONTROL                          X
+3386 SEXUALLY TRANSMITTED DISEASE PREVENTION/CONTROL              X
+3387 OTHER SERVICES                                               X
+3388 "INDIGENT DEFENSE                                            X
+3389 PLAINTIFF SERVICES                                           X
+3390 PUBLIC OFFICIAL DEFENSE                                      X
+3391 "INDIGENT DEFENSE                                            X
+3392 OTHER SERVICES                                               X
+3393 EPIDEMIOLOGICAL SERVICES                                     X
+3394 AIDS PREVENTION AND TREATMENT SERVICES                       X
+3395 TECH ASSIST/SUPPORT PREV/CNTRL OF COMM/CHRONIC DIS           X
+3396 GENERAL MANAGEMENT AND DIRECTION                             X
+3397 COMPUTER SERVICES                                            X
+3398 ACCOUNTING AND BUDGETING SERVICES                            X
+3399 HEALTH PROMOTIONAND CHRONIC DISEASE PREVENTION               X
+3400 EMERGENCY PREPAREDNESS AND RESPONSE                          X
+3401 FACILITY/COMMINITY PROGRAMS INSPECTION/MONITORING            X
+3402 GENERAL MANAGEMENT AND DIRECTION                             X
+3403 COMPUTER SERVICES                                            X
+3404 POWER PLANT OPERATION                                        X
+3405 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+3406 PUBLIC INFORMATION SERVICES                                  X
+3407 ACCOUNTING AND BUDGETING SERVICES                            X
+3408 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+3409 COLLECTION AND LOCATOR SERVICES                              X
+3410 FILTRATION AND TREATMENT PLANT OPERATION                     X
+3411 FOOD AND DIETARY SERVICES                                    X
+3412 HOUSEKEEPING SERVICES                                        X
+3413 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+3414 RECREATION SERVICES                                          X
+3415 RESIDENTIAL SERVICES                                         X
+3416 LINEN AND LAUNDRY SERVICES                                   X
+3417 MEDICAL AND CLINICAL SERVICES                                X
+3418 MEDICAL MANAGEMENT AND DIRECTION                             X
+3419 SECURITY SERVICES                                            X
+3420 TEACHER MANAGEMENT AND DIRECTION                             X
+3421 FIN ASSIST TO LOCALITIES FOR GROUND TRANSPORTATION           X
+3422 HIGHWAY WORK IN PROGRESS                                     X
+3423 MASS TRANSIT ASSISTANCE                                      X
+3424 RECREATION SERVICES                                          X
+3425 RESIDENTIAL SERVICES                                         X
+3426 SECURITY SERVICES                                            X
+3427 RAIL ASSISTANCE                                              X
+3428 PRIORITY TRANSPORTATION PROJECTS                             X
+3429 HWY SYSTEM ACQUISITION/CONTSTRUCTION BOND PROCEEDS           X
+3430 PUBLIC TRANSPORTATION SYS ACQUISITION/CONSTRUCTION           X
+3431 2005 TRANSPORTATION INITIATIVE                               X
+3432 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+3433 TEACHER MANAGEMENT AND DIRECTION                             X
+3434 TRAINING AND EDUCATION SERVICES                              X
+3435 TRANSPORTATION SERVICES                                      X
+3436 BOATING SAFETY AND REGULATION                                X
+3437 PORT AND PORT FACILITY MANAGEMENT                            X
+3438 WATER TRANSPORTATION SYSTEM PLANNING                         X
+3439 VESSEL OPERATION SERVICES                                    X
+3440 GRANT AND LOAN ADMINISTRATION                                X
+3441 REVERSION CLEARING ACCOUNT - HIGHER EDUCATION                X
+3442 REVERSION CLEARING ACCOUNT - PUBLIC EDUCATION                X
+3443 REVERSION CLEARING ACCT-LEGISLATIVE BRANCH REDUCT            X
+3444 OTHER SERVICES                                               X
+3445 PILOT AND DEMONSTRATION SERVICES                             X
+3446 RESEARCH AND DEMONSTRATION SERVICES                          X
+3447 REVERSION CLEARING ACCOUNT - OTHER EDUCATION                 X
+3448 REVERSION CLEAR-ECONOMIC DEVELOPMENT CONSOLIDATION           X
+3449 NONSTATE SALARIES                                            X
+3450 TEMP EMPLOYEE BENEFIT CLEARING ACCT 7/1-9/30                 X
+3451 TEMP EMPLOYEE BENEFIT CLEARING ACCT 10/1-12/31               X
+3452 TEMP EMPLOYEE BENEFIT CLEARING ACCT 1/1-3/31                 X
+3453 OTHER SERVICES                                               X
+3454 ALCOHOL ABUSE SERVICES                                       X
+3455 CHILD DEVELOPMENT SERVICES                                   X
+3456 TEMP EMPLOYEE BENEFIT CLEARING ACCT 4/1-6/30                 X
+3457 CRIME DETERRENCE                                             X
+3458 CRIM JUSTICE INFORMATION SYSTEMS AND STATISTICS              X
+3459 CRIMINAL JUSTICE TRAINING/EDUCATION/STANDARDS                X
+3460 "CRIME DETECTION                                             X
+3461 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+3462 COLLECTION AND LOCATOR SERVICES                              X
+3463 FILTRATION AND TREATMENT PLANT OPERATION                     X
+3464 OTHER SERVICES                                               X
+3465 "MENTAL HEALTH RESEARCH                                      X
+3466 "MENTAL RETARDATION RESEARCH                                 X
+3467 FOOD AND DIETARY SERVICES                                    X
+3468 HOUSEKEEPING SERVICES                                        X
+3469 LINEN AND LAUNDRY SERVICES                                   X
+3470 "PHYSICAL HEALTH RESEARCH                                    X
+3471 "SUBSTANCE ABUSE RESEARCH                                    X
+3472 HEALTH RESOURCES DEVELOPMENT                                 X
+3473 MEDICAL AND CLINICAL SERVICES                                X
+3474 MEDICAL MANAGEMENT AND DIRECTION                             X
+3475 NURSING MANAGEMENT AND DIRECTION                             X
+3476 PERSONNEL SERVICES                                           X
+3477 PHYSICAL PLANT SERVICES                                      X
+3478 PLANNING AND EVALUATION SERVICES                             X
+3479 POWER PLANT OPERATION                                        X
+3480 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+3481 TRAINING AND EDUCATION SERVICES                              X
+3482 TRANSPORTATION SERVICES                                      X
+3483 VESSEL OPERATION SERVICES                                    X
+3484 GRANT AND LOAN ADMINISTRATION                                X
+3485 OTHER SERVICES                                               X
+3486 BOAT REGISTRATION                                            X
+3487 BOATING SAFETY INFORMATION AND EDUCATION                     X
+3488 BOATING SAFETY REGULATION AND LAW ENFORCEMENT                X
+3489 OTHER SERVICES                                               X
+3490 NURSING MANAGEMENT AND DIRECTION                             X
+3491 PERSONNEL SERVICES                                           X
+3492 PHYSICAL PLANT SERVICES                                      X
+3493 MAINTENANCE OF PORTS AND FACILITIES                          X
+3494 PORT FACILITIES ACQUISITION                                  X
+3495 SECURITY SERVICES                                            X
+3496 TERMINAL ADMINISTRATION                                      X
+3497 FINANCIAL ASSISTANCE TO LOCAL PORTS                          X
+3498 OTHER SERVICES                                               X
+3499 PORT FACILITIES PLANNING                                     X
+3500 WATER TRANSPORTATION SYSTEM COORDINATION                     X
+3501 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+3502 AIR TRANSPORTATION REGULATION AND SAFETY                     X
+3503 AIR TRANSPORTATION SYSTEM MAINTENANCE AND OPER               X
+3504 OTHER SERVICES                                               X
+3505 COMPUTER OPERATIONS SERVICES                                 X
+3506 DATA ENTRY SERVICES                                          X
+3507 AIR TRANSPORTATION SYSTEM PLANNING                           X
+3508 AIRPORT ASSISTANCE                                           X
+3509 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+3510 SYSTEMS ENGINEERING SUPPORT                                  X
+3511 INFORMATION SYSTEMS DEVELOPMENT SERVICES                     X
+3512 OTHER SERVICES                                               X
+3513 GOVERNMENTAL AFFAIRS SERVICES                                X
+3514 MANAGEMENT ANALYSIS SERVICES                                 X
+3515 PERSONNEL MANAGEMENT SERVICES                                X
+3516 TRANSITION SUPPORT                                           X
+3517 INFORMATION SYSTEMS SERVICES                                 X
+3518 EXECUTIVE DISCRETION                                         X
+3519 CENTRAL PRINTING AND GRAPHICS                                X
+3520 PRINTING SERVICES                                            X
+3521 CHILDREN'S SPECIALTY SERVICES                                X
+3522 DRUG ABUSE SERVICES                                          X
+3523 FAMILY PLANNING SERVICES                                     X
+3524 CRIMINAL JUSTICE RESEARCH/PLANNING/COORDINATION              X
+3525 ASSET FORFEITURE/SEIZURE FUND MGMT/FIN ASSIST PGM            X
+3526 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+3527 GERIATRIC CARE SERVICES                                      X
+3528 INPATIENT MEDICAL SERVICES                                   X
+3529 MATERNAL & CHILD HEALTH SERVICES                             X
+3530 LEGAL ADVICE                                                 X
+3531 "PRE-TRIAL                                                   X
+3532 PROSECUTION                                                  X
+3533 LAW LIBRARY SERVICES                                         X
+3534 ADJUDICATORY RESEARCH/PLANNING/COORDINATION                  X
+3535 ADJUDICATION INFORMATION SYSTEMS AND STATISTICS              X
+3536 ADJUDICATION TRAINING/EDUCATION/STANDARDS                    X
+3537 LEGAL DEFENSE                                                X
+3538 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+3539 COMMUNITY-BASED CUSTODY                                      X
+3540 PROBATION AND RE-ENTRY SERVICES                              X
+3541 HEALTH POLICY RESEARCH                                       X
+3542 OTHER SERVICES                                               X
+3543 ADMINISTRATION SERVICES                                      X
+3544 PUBLIC INFORMATION SERVICES                                  X
+3545 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+3546 RECREATION SERVICES                                          X
+3547 PLANNING AND EVALUATION SERVICES                             X
+3548 POWER PLANT OPERATION                                        X
+3549 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+3550 GRANTS FOR HEALTH RESEARCH SERVICES                          X
+3551 GENERAL MANAGEMENT AND DIRECTION                             X
+3552 COMPUTER SERVICES                                            X
+3553 ACCOUNTING AND BUDGETING SERVICES                            X
+3554 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+3555 COLLECTION AND LOCATOR SERVICES                              X
+3556 FILTRATION AND TREATMENT PLANT OPERATION                     X
+3557 FOOD AND DIETARY SERVICES                                    X
+3558 HOUSEKEEPING SERVICES                                        X
+3559 PUBLIC INFORMATION SERVICES                                  X
+3560 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+3561 OTHER SERVICES                                               X
+3562 GENERAL MANAGEMENT AND DIRECTION                             X
+3563 COMPUTER SERVICES                                            X
+3564 OTHER SERVICES                                               X
+3565 CENTRAL AND INTERCONNECTION SYSTEM                           X
+3566 TELEMEDIA SYSTEMS                                            X
+3567 ACCOUNTING AND BUDGETING SERVICES                            X
+3568 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+3569 COLLECTION AND LOCATOR SERVICES                              X
+3570 OTHER SERVICES                                               X
+3571 AGENCY ASSIGNED VEHICLE SERVICES                             X
+3572 CENTRAL CAR POOL SERVICES                                    X
+3573 FILTRATION AND TREATMENT PLANT OPERATION                     X
+3574 FOOD AND DIETARY SERVICES                                    X
+3575 HOUSEKEEPING SERVICES                                        X
+3576 OTHER SERVICES                                               X
+3577 CENTRAL WAREHOUSING SERVICES                                 X
+3578 OTHER WAREHOUSING SERVICES                                   X
+3579 LINEN AND LAUNDRY SERVICES                                   X
+3580 MEDICAL AND CLINICAL SERVICES                                X
+3581 INFORMATION SYSTEMS MANAGEMENT AND DIRECTION                 X
+3582 EMERGENCY COMMUNICATION SYSTEM MANAGMNT& DIRECTION           X
+3583 EXECUTIVE MANAGEMENT                                         X
+3584 CONFINEMENT AND CUSTODY RESEARCH/PLANNING/COORD              X
+3585 FIN ASSIST FOR CONFINEMENT IN LOCAL FACILITIES               X
+3586 SECURE CONFINEMENT                                           X
+3587 ACROSS THE BOARD REDUCTIONS                                  X
+3588 "PLANNING                                                    X
+3589 EXECUTIVE MANAGEMENT REORGANIZATION                          X
+3590 CLASSIFICATION SERVICES                                      X
+3591 CORRECTIONS SPECIAL RESERVE FUND                             X
+3592 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+3593 FINANCIAL ASSISTANCE FOR LOCAL FINANCE DIRECTORS             X
+3594 EXECUTION OF CLAIM SETTLEMENTS                               X
+3595 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+3596 FIN ASSIST FOR ADMINISTRATION OF JUSTICE SERVICES            X
+3597 DISEASE CARRIER AND VECTOR CONTROL                           X
+3598 EMERGENCY MEDICAL SERVICES                                   X
+3599 REVENUE RESERVE                                              X
+3600 DEFENSE PREPAREDNESS                                         X
+3601 MENTAL HEALTH SERVICES                                       X
+3602 MENTAL RETARDATION SERVICES                                  X
+3603 OUTPATIENT MEDICAL SERVICES                                  X
+3604 LINEN AND LAUNDRY SERVICES                                   X
+3605 MEDICAL AND CLINICAL SERVICES                                X
+3606 MEDICAL MANAGEMENT AND DIRECTION                             X
+3607 STATE HEALTH SERVICES TECHNICAL SUPPORT AND ADMIN            X
+3608 OTHER SERVICES                                               X
+3609 ALCOHOL ABUSE SERVICES                                       X
+3610 RECREATION SERVICES                                          X
+3611 RESIDENTIAL SERVICES                                         X
+3612 SECURITY SERVICES                                            X
+3613 DENTAL HEALTH SERVICES                                       X
+3614 DRUG ABUSE SERVICES                                          X
+3615 ENVIRONMENTAL HEALTH SERVICES                                X
+3616 TEACHER MANAGEMENT AND DIRECTION                             X
+3617 TRAINING AND EDUCATION SERVICES                              X
+3618 TRANSPORTATION SERVICES                                      X
+3619 NURSING MANAGEMENT AND DIRECTION                             X
+3620 PERSONNEL SERVICES                                           X
+3621 RESIDENTIAL SERVICES                                         X
+3622 SECURITY SERVICES                                            X
+3623 TEACHER MANAGEMENT AND DIRECTION                             X
+3624 MEDICAL MANAGEMENT AND DIRECTION                             X
+3625 NURSING MANAGEMENT AND DIRECTION                             X
+3626 PERSONNEL SERVICES                                           X
+3627 PHYSICAL PLANT SERVICES                                      X
+3628 PLANNING AND EVALUATION SERVICES                             X
+3629 POWER PLANT OPERATION                                        X
+3630 TRAINING AND EDUCATION SERVICES                              X
+3631 TRANSPORTATION SERVICES                                      X
+3632 VESSEL OPERATION SERVICES                                    X
+3633 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+3634 PAYMENTS FOR PROFESSIONAL/INSITUTIONAL MEDICAL SVS           X
+3635 PAYMENTS PRIVATELY-OWNED COMMUNITY BASED MH/MR SVC           X
+3636 GRANT AND LOAN ADMINISTRATION                                X
+3637 OTHER SERVICES                                               X
+3638 CLASSIFICATION SERVICES                                      X
+3639 COMMUNITY RESIDENTIAL CUSTODY AND TREATMENT SERV             X
+3640 OFFENDER WORK OPPORTUNITIES                                  X
+3641 OTHER SERVICES                                               X
+3642 REAL PROPERTY DISPOSAL                                       X
+3643 PAYROLL SERVICES                                             X
+3644 PROCUREMENT SERVICES                                         X
+3645 COLLECTION AND DISBURSEMENT SERVICES                         X
+3646 GENERAL MANAGEMENT AND DIRECTION                             X
+3647 COMPUTER SERVICES                                            X
+3648 ACCOUNTING AND BUDGETING SERVICES                            X
+3649 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+3650 COLLECTION AND LOCATOR SERVICES                              X
+3651 FILTRATION AND TREATMENT PLANT OPERATION                     X
+3652 FOOD AND DIETARY SERVICES                                    X
+3653 HOUSEKEEPING SERVICES                                        X
+3654 LINEN AND LAUNDRY SERVICES                                   X
+3655 MEDICAL AND CLINICAL SERVICES                                X
+3656 MEDICAL MANAGEMENT AND DIRECTION                             X
+3657 NURSING MANAGEMENT AND DIRECTION                             X
+3658 PERSONNEL SERVICES                                           X
+3659 PHYSICAL PLANT SERVICES                                      X
+3660 PLANNING AND EVALUATION SERVICES                             X
+3661 MEDICAL EXAMINER AND ANATOMICAL SERVICES                     X
+3662 VITAL RECORDS AND HEALTH STATISTICS                          X
+3663 COMMUNICABLE AND CHRONIC DISEASE PREV AND CONTROL            X
+3664 HEALTH RESEARCH/PLANNING/COORDINATION                        X
+3665 FINANCIAL ASSISTANCE FOR HEALTH RESEARCH                     X
+3666 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+3667 SPECIAL HEALTH IMPROVEMENT AND DEMONSTRATION SVCS            X
+3668 STATE HEALTH SERVICES                                        X
+3669 COMMUNITY HEALTH SERVICES                                    X
+3670 FIN ASSIST FOR HEALTH SERVICES                               X
+3671 MED SEC INS PLAN TRST FND                                    X
+3672 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+3673 DISASTER PLANNING AND OPERATIONS                             X
+3674 ELECTORAL SERVICES                                           X
+3675 FINANCIAL SYSTEMS DEVELOPMENT AND MANAGEMENT                 X
+3676 SOCIAL SERVICES RESEARCH/PLANNING/COORDINATION               X
+3677 STATE ADMINISTRATION FOR STANDARDS OF LIVING SVCS            X
+3678 TEMPORARY INCOME SUPPLEMENT SERVICES                         X
+3679 VESSEL OPERATION SERVICES                                    X
+3680 GRANT AND LOAN ADMINISTRATION                                X
+3681 FAMILY PLANNING SERVICES                                     X
+3682 GENERAL MEDICAL SERVICES                                     X
+3683 HEALTH SUPPORT SERVICES                                      X
+3684 PHYSICAL PLANT SERVICES                                      X
+3685 PLANNING AND EVALUATION SERVICES                             X
+3686 POWER PLANT OPERATION                                        X
+3687 HOME HEALTH CARE SERVICES                                    X
+3688 LOCAL ADMINISTRATION SERVICES                                X
+3689 MATERNAL & CHILD HEALTH SERVICES                             X
+3690 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+3691 PUBLIC INFORMATION SERVICES                                  X
+3692 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+3693 MENTAL HEALTH SERVICES                                       X
+3694 COMMUNITY HEALTH SVCS TECHNICAL SUPPORT AND ADMIN            X
+3695 OTHER SERVICES                                               X
+3696 RECREATION SERVICES                                          X
+3697 RESIDENTIAL SERVICES                                         X
+3698 SECURITY SERVICES                                            X
+3699 SUBSTANCE ABUSE SERVICES                                     X
+3700 DRUG ABUSE SERVICES                                          X
+3701 COMMUNITY NON-RESIDENTIAL CUSTODY AND TREATMENT              X
+3702 COMMUNITY CUSTODY & TREATMENT SVCS LOCAL GRANTS              X
+3703 COMMUNITY CUSTODY & TREATMENT SVCS COORDINATION              X
+3704 POWER PLANT OPERATION                                        X
+3705 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+3707 FIN ASST COMMUNITY BASED ALTERNATIVE TREATMENT SVC           X
+3708 OTHER SERVICES                                               X
+3709 ADULT PROBATION AND PAROLE SERVICES                          X
+3710 JUVENILE PROBATION AND AFTERCARE SERVICES                    X
+3711 EXECUTIVE CLEMENCY                                           X
+3713 PROTECTIVE SERVICES                                          X
+3714 REHABILITATION ASSISTANCE SERVICES                           X
+3715 INDIVIDUAL CARE SERVICES                                     X
+3716 MEDICAL ASSISTANCE SERVICES (MEDICAID)                       X
+3717 NUTRITIONAL SERVICES                                         X
+3718 HOUSING ASSISTANCE SERVICES                                  X
+3719 INDIGENT HEALTH CARE TRUST FUND                              X
+3720 FIN ASSIST FOR THE ADMIN OF BENEFIT PROGRAMS                 X
+3721 "INVESTMENT                                                  X
+3722 LABORATORY SERVICES                                          X
+3723 PHYSICAL PLANT ACQUISITION AND CONSTRUCTION                  X
+3724 FIN ASSIST TO LOCALITIES - GENERAL                           X
+3725 OIL OVERCHARGE EXPENDABLE TRUST FUND                         X
+3726 PROCUREMENT SERVICES                                         X
+3727 FEDERAL RETIREE TAX RESERVE                                  X
+3728 REVENUE ADMINISTRATION SERVICES                              X
+3729 SECURITY FOR PUBLIC DEPOSITS                                 X
+3730 TAX VALUE ASSISTANCE TO LOCALITIES                           X
+3731 REVENUE STABILIZATION FUND                                   X
+3732 VIRGINIA EDUCATION LOAN RESERVE FUND                         X
+3733 OTHER SERVICES                                               X
+3736 ACCOUNTING SERVICES                                          X
+3737 CENTRAL RECORDS RETENTION SERVICES                           X
+3738 DEFERRED MAINTENANCE                                         X
+3739 COLLECTION SERVICES                                          X
+3740 PHYSICAL PLANT MAINTENANCE AND OPERATION                     X
+3741 VA CHILDREN'S MEDICAL SECURITY PLAN PAYMENTS                 X
+3742 CHILDREN'S MEDICAL ASSIST ADM (SCHIP - MEDICAID)             X
+3743 MEDICAL ASSISTANT SERVICES COST CONTAINMENT                  X
+3744 TEACHER MANAGEMENT AND DIRECTION                             X
+3745 TRAINING AND EDUCATION SERVICES                              X
+3746 TRANSPORTATION SERVICES                                      X
+3747 LOCAL ADMINISTRATION SERVICES                                X
+3748 MEDICAL FACILITIES CONSTRUCTION SERVICES                     X
+3749 MEDICAL HEALTH SERVICES                                      X
+3750 OTHER SERVICES                                               X
+3751 CONGREGATE MEALS                                             X
+3752 FOOD DISTRIBUTION SERVICES                                   X
+3753 HOME DELIVERED MEALS                                         X
+3754 SCHOOL FOOD                                                  X
+3755 "NUTRITIONAL ASSIST-WOMEN                                    X
+3756 SCHOOL FOOD ADMINISTRATION                                   X
+3757 SCHOOL FOOD PAYMENTS                                         X
+3758 SCHOOL BREAKFAST SUPPLEMENTAL PAYMENTS                       X
+3759 MENTAL HEALTH SERVICES                                       X
+3760 MENTAL RETARDATION SERVICES                                  X
+3761 CONTINUING INCOME ASSISTANCE SERVICES                        X
+3762 EMPLOYMENT ASSISTANCE SERVICES                               X
+3763 CHILD SUPPORT ENFORCEMENT SERVICES                           X
+3764 PHYSICAL PLANT RENTAL AND OFFICE RELOCATION                  X
+3765 BOND AND LOAN RETIREMENT AND REDEMPTION                      X
+3766 FIRE SERVICES ASSISTANCE                                     X
+3767 MEDICAL ASSISTANCE SERVICES (NON-MEDICAID)                   X
+3768 GRANTS FOR NEEDY FAMILIES                                    X
+3770 OTHER SERVICES                                               X
+3771 HOUSING ASSISTANCE                                           X
+3772 HOUSING INFORMATION                                          X
+3773 HOUSING RESEARCH AND PLANNING                                X
+3774 SHELTER PAYMENTS                                             X
+3775 FINANCIAL ASSISTANCE FOR HOUSING SERVICES                    X
+3776 OTHER SERVICES                                               X
+3777 HOSPITAL PAYMENTS FOR CHARITY CARE                           X
+3778 DONATIONS FOR CHARITY CARE                                   X
+3779 OTHER SERVICES                                               X
+3780 FOOD STAMPS                                                  X
+3781 PROTECTING ACCESS TO HEALTHCARE                              X
+3782 OTHER SERVICES                                               X
+3783 PILOT DEMONSTRATION SRVS                                     X
+3784 BENEFIT PROGRAMS ADMINISTRATION                              X
+3785 WIN                                                          X
+3786 OTHER SERVICES                                               X
+3787 VA CHILDREN'S MEDICAL SECURITY PLAN PAYMENTS                 X
+3788 CHILDREN'S MEDICAL ASSISTANCE ADMINISTRATION                 X
+3789 GENERAL MANAGEMENT AND DIRECTION                             X
+3790 CONFEDERATE WOMEN'S INCOME ASSISTANCE                        X
+3791 SOCIAL SECURITY DISABILITY DETERMINATION                     X
+3792 "SUPPLEMENTAL INCOME ASSIS TO AGED                           X
+3793 COMPUTER SERVICES                                            X
+3794 ACCOUNTING AND BUDGETING SERVICES                            X
+3795 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+3796 VETERAN'S AND DEPENDENTS' ASSISTANCE SERVICES                X
+3797 REG ASSISTED LIVING PYMTS - ADULT HOME RESIDENTS             X
+3798 OTHER SERVICES                                               X
+3799 COLLECTION AND LOCATOR SERVICES                              X
+3800 FILTRATION AND TREATMENT PLANT OPERATION                     X
+3801 EMPLOYMENT SERVICES                                          X
+3802 UNEMPLOYMENT COMPENSATION SERVICES                           X
+3803 VETERANS TRAINING DETERMINATION                              X
+3804 FOOD AND DIETARY SERVICES                                    X
+3805 HOUSEKEEPING SERVICES                                        X
+3806 LINEN AND LAUNDRY SERVICES                                   X
+3807 WORKMEN'S COMPENSATION SERVICES                              X
+3808 UNEMPLOYMENT COMPENSATION TRUST FUND CONTRIBUTIONS           X
+3809 EMPLOYMENT SERVICES ADMINISTRATION                           X
+3810 MEDICAL AND CLINICAL SERVICES                                X
+3811 MEDICAL MANAGEMENT AND DIRECTION                             X
+3812 MEMBERSHIP SERVICES                                          X
+3813 EMPLOYMENT SERVICES PAYMENTS                                 X
+3814 YOUTH CONSERVATION PROJECTS                                  X
+3815 FINANCIAL ASSISTANCE FOR EMPLOYMENT SERVICES                 X
+3816 NURSING MANAGEMENT AND DIRECTION                             X
+3817 PERSONNEL SERVICES                                           X
+3818 PHYSICAL PLANT SERVICES                                      X
+3819 INDIVIDUAL/FAMILY ECON INDEPENDENCE SRVCS-EMP SRVS           X
+3820 VA WORK INCENTIVE PAY PROGRAM                                X
+3821 PLANNING AND EVALUATION SERVICES                             X
+3822 POWER PLANT OPERATION                                        X
+3823 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+3824 OTHER SERVICES                                               X
+3825 SUPPORT ENFORCEMENT AND COLLECTION SERVICES                  X
+3826 PUBLIC ASSISTANCE CHILD SUPPORT COLLECTIONS                  X
+3827 PUBLIC INFORMATION SERVICES                                  X
+3828 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+3829 RECREATION SERVICES                                          X
+3830 NON-PUBLIC ASSISTANCE CHILD SUPPORT PAYMENTS                 X
+3831 STATE AND LOCAL HOSPITALIZATION PROGRAM                      X
+3832 STATE CHILDREN'S HEALTH INSURANCE SERVICES                   X
+3833 RESIDENTIAL SERVICES                                         X
+3834 SECURITY SERVICES                                            X
+3835 TEACHER MANAGEMENT AND DIRECTION                             X
+3836 HEALTH PREMIUM ASST PROGRAM FOR HIV POSITIVE IND             X
+3837 CHILDREN'S MEDICAL ASSIST ADM (SCHIP-NON-MEDICAID)           X
+3838 UNINSURED MEDICAL CATASTROPHE ASSIST PROGRAM                 X
+3839 TRAINING AND EDUCATION SERVICES                              X
+3840 TRANSPORTATION SERVICES                                      X
+3841 VESSEL OPERATION SERVICES                                    X
+3842 GRANT AND LOAN ADMINISTRATION                                X
+3843 OTHER SERVICES                                               X
+3844 VA'S ACADEMIC HLTH CTRS NON-MEDICAID INDIGENT SVCS           X
+3845 OTHER SERVICES                                               X
+3846 MEDICAL ASSISTANCE PAYMENTS LOW-INCOME CHILDREN              X
+3847 SOCIAL SERVICES COORDINATION                                 X
+3848 SOCIAL SERVICES INFORMATION                                  X
+3849 SOCIAL SERVICES RESEARCH AND PLANNING                        X
+3850 OTHER SERVICES                                               X
+3851 GENERAL MANAGEMENT AND DIRECTION                             X
+3852 COMPUTER SERVICES                                            X
+3853 OTHER SERVICES                                               X
+3854 REGIONAL AND AREAWIDE ASSISTANCE ADMINISTRATION              X
+3855 ST ADMIN OF FIN ASSIST FOR STANDARDS OF LIV SERV             X
+3856 ACCOUNTING AND BUDGETING SERVICES                            X
+3857 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+3858 COLLECTION AND LOCATOR SERVICES                              X
+3859 ST ADMIN OF SOC SERV FOR STANDARDS OF LIVING                 X
+3860 COMMUNITY SERVICES BLOCK GRANTS                              X
+3861 FILTRATION AND TREATMENT PLANT OPERATION                     X
+3862 FOOD AND DIETARY SERVICES                                    X
+3863 HOUSEKEEPING SERVICES                                        X
+3864 FIN ASSIST TO LOCALITIES FOR SOCIAL SERVICES                 X
+3865 INDIVIDUAL/FAMILY ECON INDEPENDENCE SRVCS-SOL SRVC           X
+3866 OTHER SERVICES                                               X
+3867 TEMPORARY ASSISTANCE TO NEEDY FAMILIES                       X
+3868 CRIME VICTIM COMPENSATION                                    X
+3869 GENERAL RELIEF                                               X
+3870 LINEN AND LAUNDRY SERVICES                                   X
+3871 MEDICAL AND CLINICAL SERVICES                                X
+3872 MEDICAL MANAGEMENT AND DIRECTION                             X
+3873 RESETTLEMENT ASSISTANCE                                      X
+3874 AID TO DEPENDENTS OF OFFENDERS                               X
+3875 EMERGENCY ASSISTANCE                                         X
+3876 NURSING MANAGEMENT AND DIRECTION                             X
+3877 PERSONNEL SERVICES                                           X
+3878 PHYSICAL PLANT SERVICES                                      X
+3879 UNEMPLOYED PARENT SUPPLEMENTS                                X
+3880 OTHER SERVICES                                               X
+3881 PLANNING AND EVALUATION SERVICES                             X
+3882 POWER PLANT OPERATION                                        X
+3883 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+3884 FOSTER CARE                                                  X
+3885 PROTECTION OF CHILDREN AND YOUTHS                            X
+3886 FINANCIAL ASSISTANCE FOR CHILD AND YOUTH SERVICES            X
+3887 AFTERCARE SERVICES FOR YOUTH                                 X
+3888 COMPREHENSIVE SERVICES ACT ADMINISTRATION                    X
+3889 PROTECTION AND ADVOCACY FOR THE MENTALLY ILL                 X
+3890 PUBLIC INFORMATION SERVICES                                  X
+3891 RECORDS RETENTION AND WORD PROCESSING SERVICES               X
+3892 RECREATION SERVICES                                          X
+3893 OTHER SERVICES                                               X
+3894 LOW VISION SERVICES                                          X
+3895 RESTORATION SERVICES                                         X
+3896 RESIDENTIAL SERVICES                                         X
+3897 SECURITY SERVICES                                            X
+3898 TEACHER MANAGEMENT AND DIRECTION                             X
+3899 SOCIAL AND PERSONAL ADJUSTMENT SERVICES                      X
+3900 OTHER SERVICES                                               X
+3901 TRAINING AND EDUCATION SERVICES                              X
+3902 TRANSPORTATION SERVICES                                      X
+3903 VESSEL OPERATION SERVICES                                    X
+3904 COMPANION SERVICES                                           X
+3905 DAY CARE SERVICES                                            X
+3906 OTHER INDIVIDUAL CARE SERVICES                               X
+3907 FINANCIAL ASSISTANCE FOR LOCAL SERVICES TO ELDERLY           X
+3908 FIN ASSIST FOR CASE MANAGEMENT & RELATED SERVICES            X
+3909 OTHER SERVICES                                               X
+3910 GRANT AND LOAN ADMINISTRATION                                X
+3911 FINANCIAL AND OPERATIONAL AUDITS                             X
+3912 ADMIN & SUPP SVRS/INDIV & FAMILY ECON INDEP SVRS             X
+3913 HOSP AND OUTPAT SERVICES FOR INDIGENT & MED INDIG            X
+3914 MEDICAL ASSISTANCE ADMINISTRATION                            X
+3915 MANDATORY HEALTH PROFESSIONAL SERVICES                       X
+3916 OTHER SERVICES                                               X
+3917 FIN ASSIST TO LOCALITIES FOR IND AND FAM SERVICES            X
+3918 FIN ASSIST TO ST AGENCIES FOR IND AND FAM SERVICES           X
+3919 DAY CARE                                                     X
+3920 OTHER PURCHASED SERVICES                                     X
+3921 MANDATORY INSTITUTIONAL SERVICES                             X
+3922 NON-MANDATORY HEALTH PROFESSIONAL SERVICES                   X
+3923 NON-MANDATORY INSTITUTIONAL SERVICES                         X
+3924 DIRECT SOCIAL SERVICES                                       X
+3925 TEMP ASSIST SERVICES PROMOTE ECONOMIC INDEPENDENCE           X
+3926 INDIVIDUAL/FAMILY ECON INDEPENDENCE SRVCS-DAY CARE           X
+3927 OTHER SERVICES                                               X
+3928 FOREST HAZARD PREVENTION AND SUPPRESSION                     X
+3929 FORESTRY AND REFORESTATION INCENTIVES                        X
+3930 PAYMENTS TO STATE-OWNED MH/MR FACILITY SERVICES              X
+3931 PAYMENTS FOR PUBLIC COMMUNITY-BASED MH/MR SERVICES           X
+3933 FORESTRY OPERATIONS                                          X
+3934 REFORESTATION OPERATIONS                                     X
+3935 FINANCIAL ASSISTANCE FOR FOREST LAND MANAGEMENT              X
+3936 OTHER SERVICES                                               X
+3937 ARCHEOLOGICAL SITES MANAGEMENT                               X
+3938 COMMEMORATIVE ATTRACTION MANAGEMENT                          X
+3939 HISTORIC LANDMARKS AND FACILITIES MANAGEMENT                 X
+3940 FIN ASSIST HISTORIC & COMMEMORATIVE ATTRACTIONS              X
+3941 HISTORIC STRUCTURES CONSERV & ASSIST SERVICES                X
+3942 VETERANS CEMETERY MANAGEMENT                                 X
+3943 OTHER SERVICES                                               X
+3944 CONSTRUCTION REGULATION ENFORCEMENT                          X
+3945 LAND STABILIZATION AND CONSERVATION                          X
+3946 MINED LAND RECLAMATION AND REGULATION                        X
+3947 PHYSIOGRAPHIC RESEARCH AND MAPPING                           X
+3950 HIGHER EDUCATION - LOCAL FUNDS                               X
+3961 EDUCATIONAL AND GENERAL PROGRAMS                             X
+3962 STATE EDUCATION ASSISTANCE PROGRAMS                          X
+3963 FEDERAL EDUCATION ASSISTANCE PROGRAMS                        X
+3964 INSTRUCTIONAL SERVICES                                       X
+3965 SPECIAL EDUCATION AND STUDENT SERVICES                       X
+3966 PUPIL ASSESSMENT SERVICES                                    X
+3967 SCHOOL AND DIVISION ASSISTANCE                               X
+3968 TECHNOLOGY ASSISTANCE SERVICES                               X
+3969 AT RISK YOUTH RESIDENTIAL PROGRAM                            X
+3970 RESIDENTIAL SUPPORT                                          X
+3971 FINANCIAL ASSISTANCE FOR SHERIFFS OFFICES AND REGIONAL JAILS X
+3972 LAW ENFORCEMENT SCIENTIFIC SUPPORT SERVICES                  X
+3973 LAW ENFORCEMENT AND HIGHWAY SAFETY SERVICES                  X
+3974 PROBATION AND PAROLE DETERMINATION                           X
+3976 OPERATION OF STATE RESIDENTIAL COMMUNITY CORRECTIONAL FACILI X
+3977 OPERATION OF SECURE CORRECTIONAL FACILITIES                  X
+3978 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+3979 PHARMACY SERVICES                                            X
+3980 VETERANS BENEFIT SERVICES                                    X
+3981 ADULT PROGRAMS AND SERVICES                                  X
+3982 CHILD WELFARE SERVICES                                       X
+3983 WORKFORCE SYSTEMS SERVICES                                   X
+3984 FINANCIAL ASSISTANCE FOR SUPPLEMENTAL ASSISTANCE SERVICES    X
+3985 FINANCIAL ASSISTANCE TO COMMUNITY HUMAN SERVICES ORGANIZATIO X
+3986 REGIONAL OFFICE SUPPORT AND ADMINISTRATION                   X
+3988 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+3989 DRINKING WATER IMPROVEMENT                                   X
+3990 LAND PROTECTION                                              X
+3991 AGRICULTURE AND FOOD HOMELAND SECURITY                       X
+3993 ENVIRONMENTAL HEALTH HAZARDS CONTROL                         X
+3994 TEACHER LICENSURE AND EDUCATION                              X
+3995 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+3996 FINANCIAL ASSISTANCE FOR PORT ACTIVITIES                     X
+3998 STATE AIRCRAFT FLIGHT OPERATIONS                             X
+3999 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+4000 FINANCIAL ASSISTANCE FOR FIRE SERVICES PROGRAMS              X
+4001 FINANCIAL ASSISTANCE FOR ATTORNEYS FOR THE COMMONWEALTH      X
+4002 FINANCIAL ASSISTANCE FOR CIRCUIT COURT CLERKS                X
+4003 FINANCIAL ASSISTANCE FOR LOCAL TREASURERS                    X
+4004 EMERGENCY PREPAREDNESS                                       X
+4005 EMERGENCY RESPONSE AND RECOVERY                              X
+4006 VIRGINIA EMERGENCY OPERATIONS CENTER                         X
+4007 FINANCIAL ASSISTANCE FOR ELECTORAL SERVICES                  X
+4008 TECHNOLOGY MANAGEMENT OVERSIGHT SERVICES                     X
+4009 FINANCIAL ASSISTANCE TO LOCAL GOV FOR JUVENILE JUSTICE SERVI X
+4010 DISTRIBUTION OF FEES FROM AND TO REG. ENTITIES AND LOCALITIE X
+4011 "AIR TRANSPORTATION SYSTEM PLANNING                          X
+4012 "INFORMATION TECHNOLOGY SYSTEMS                              X
+4013 CRIMINAL JUSTICE TRAINING AND STANDARDS                      X
+4014 OPERATION OF COMMUNITY RESIDENTIAL AND NONRESIDENTIAL SERVIC X
+4015 SUPERVISION OF OFFENDERS AND RE-ENTRY SERVICES               X
+4018 CHILDRENS HEALTH INSURANCE PROGRAM DELIVERY                  X
+4019 PROGRAM MANAGEMENT SERVICES                                  X
+4020 FINANCIAL ASSISTANCE FOR SELF-SUFFICIENCY PROGRAMS AND SERVI X
+4021 MEDICAID PROGRAM SERVICES                                    X
+4022 FINANCIAL ASSISTANCE FOR LOCAL SOCIAL SERVICES STAFF         X
+4023 FACILITY ADMINISTRATIVE AND SUPPORT SERVICES                 X
+4024 FOREST MANAGEMENT                                            X
+4025 LAND  AND RESOURCE MANAGEMENT                                X
+4026 WATER PROTECTION                                             X
+4027 AIR PROTECTION                                               X
+4028 ENVIRONMENTAL FINANCIAL ASSISTANCE                           X
+4030 COMMUNITY DEVELOPMENT SERVICES                               X
+4031 ECONOMIC DEVELOPMENT SERVICES                                X
+4032 CONSUMER AFFAIRS SERVICES                                    X
+4033 FOOD SAFETY AND SECURITY                                     X
+4034 REGULATION OF PUBLIC UTILITIES                               X
+4036 GROUND TRANSPORTATION SYSTEM SAFETY SERVICES                 X
+4037 FINANCIAL ASSISTANCE FOR PUBLIC TRANSPORTATION               X
+4038 FINANCIAL ASSISTANCE FOR RAIL PROGRAMS                       X
+4040 FINANCIAL ASSISTANCE FOR AIRPORTS                            X
+4041 ELECTRONIC GOVERNMENT SERVICES                               X
+4042 REAL ESTATE SERVICES                                         X
+4043 PHYSICAL PLANT MANAGEMENT SERVICES                           X
+4044 FIRE TRAINING AND TECHNICAL SUPPORT SERVICES                 X
+4045 DISTRIBUTION OF TOBACCO SETTLEMENT                           X
+4046 ARCHITECTURAL AND ANTIQUITY RESEARCH PLANNING AND COORDINATI X
+4047 COMPENSATION AND BENEFIT SUPPLEMENTS                         X
+4048 PAYMENTS FOR SPECIAL OR UNANTICIPATED EXPENDITURES           X
+4049 COMPUTER SYSTEMS SERVICES                                    X
+4050 TELECOMMUNICATIONS SERVICES                                  X
+4052 STATEWIDE COMMUNICABLE AND CHRONIC DISEASE PREVENT. AND CONT X
+4054 HIGHWAY SYSTEM ACQUISITION AND CONSTR. THROUGH BOND PROCEEDS X
+4055 "PORT FACILITIES PLANNING                                    X
+4057 "AGRICULTURAL INDUSTRY MARKETING                             X
+4058 FINANCIAL ASSIST FOR CONFNMNT OF INMATES IN LOC AND REG. FCL X
+4062 INTERGOVERNMENTAL RELATIONS                                  X
+4063 ELECTRONIC GOVERNMENT DEVELOPMENT & SUPPORT                  X
+4064 DEBT MANAGEMENT                                              X
+4065 BANKING & INVESTMENT SERVICES                                X
+4066 INVESTMENT MANAGEMENT SERVICES                               X
+4067 INVESTMENT SVC FOR VA PREPAID EDUCATION PROGRAM              X
+4068 INVESTMENT SVC-VA EDUCATION SAVINGS TRUST PROGRAM            X
+4069 STATEWIDE PROCUREMENT SERVICES                               X
+4070 SURPLUS PROPERTY PROGRAMS                                    X
+4071 STATEWIDE COOPERATIVE PROCUREMENT/DISTRIBUTION SVC           X
+4072 PUBLIC EDUCATION INSTRUCTIONAL SERVICES                      X
+4073 PROGRAM ADMIN & ASSIST FOR INSTRUCTIONAL SERVICES            X
+4074 COMPLIANCE & MONITORING OF INSTRUCTIONAL SERVICES            X
+4075 DISASTER ASSISTANCE                                          X
+4076 EMERGENCY PLANNING                                           X
+4077 ELECTORAL UNIFORMITY/LEGAL/QUALITY ASSURANCE SVC             X
+4078 STATEWIDE VOTER REGISTRATION SYSTEM SVC                      X
+4079 CAMPAIGN FINANCE DISCLOSURE ADMINISTRATION SVC               X
+4080 ELECTION ADMINISTRATION SERVICES                             X
+4081 VOTER SERVICES                                               X
+4082 ADMINISTRATIVE SERVICES                                      X
+4083 FINANCIAL SYSTEM DEVELOPMENT                                 X
+4084 FINANCIAL SYSTEM MAINTENANCE                                 X
+4085 COMPUTER SERVICES                                            X
+4086 STATEWIDE LABORATORY SERVICES                                X
+4087 LAND PROTECTION PERMITTING                                   X
+4088 GENERAL WEAPONS WAREHOUSING                                  X
+4089 NATIONAL GUARD OPERATION (INCLUDE AUXILIARY)                 X
+4090 SECURITY SERVICES                                            X
+4091 FORT PICKETT & CAMP PENDELTON OPERATIONS                     X
+4092 OPERATIONS & MAINTENANCE SERVICES                            X
+4093 FINANCIAL ASST FOR REGIONAL COOPERATION                      X
+4094 FINANCIAL ASST FOR COMMUNITY DEVELOPMENT                     X
+4095 REGULATION OF FOOD ESTABLISHMENTS & PROCESSORS               X
+4096 REGULATION OF MEAT PRODUCTS                                  X
+4097 REGULATION OF MILK AND DAIRY INDUSTRY                        X
+4098 REGULATION OF TELECOMMUNICATIONS COMPANIES                   X
+4099 REGULATORY ACCOUNTING AND POLICY ISSUES                      X
+4100 FINANCIAL ASSISTANCE FOR AIRPORT MAINTENANCE                 X
+4101 FINANCIAL ASSISTANCE FOR AIRPORT DEVELOPMENT                 X
+4102 FINANCIAL ASSISTANCE FOR AVIATION PROMOTION                  X
+4103 PAYMENTS TO THE REVENUE STABILIZATION FUND                   X
+4104 DISBURSEMENTS REVIEW                                         X
+4105 PAYROLL OPERATIONS                                           X
+4106 FINANCIAL REPORTING                                          X
+4107 SUPPLEMENTS TO EMPLOYEE COMPENSATION                         X
+4108 ALL OTHER                                                    X
+4109 VIRGINIA COMMONWEALTH CHALLENGE PROGRAM                      X
+4110 FINANCIAL ASSISTANCE FOR LOCAL JAIL PER DIEM                 X
+4111 FIN ASST FOR CONSTRUCTION OF LOCAL/REGIONAL JAILS            X
+4112 STATE AIRCRAFT ACQUISITION OR ENHANCEMENT                    X
+4113 STATE AIRCRAFT OPERATIONS & MAINTENANCE                      X
+4114 GENERAL MANAGEMENT AND DIRECTION                             X
+4115 INFORMATION TECHNOLOGY SERVICES                              X
+4116 FACILITIES AND GROUNDS MGMT SERVICES                         X
+4117 PUBLIC INFORMATION SERVICES                                  X
+4118 SECURITY SERVICES                                            X
+4119 EMPLOYEE TRAINING AND DEVELOPMENT                            X
+4120 STATEWIDE BUILDING MANAGEMENT                                X
+4121 STATEWIDE ENGINEERING & ARCHITECTURAL SVCS                   X
+4122 SEAT OF GOVERNMENT MAIL SERVICES                             X
+4123 DEBT SVC PAYMENTS- GENERAL OBLIGATION BONDS                  X
+4124 CAPITAL LEASE PAYMENTS                                       X
+4125 AGENCY HUMAN RESOURCE SERVICES                               X
+4126 EQUAL EMPLOYMENT SERVICES                                    X
+4127 HEALTH BENEFITS SERVICES                                     X
+4128 LOCAL HEALTH BENEFIT SERVICES                                X
+4129 PERSONNEL DEVELOPMENT SERVICES                               X
+4130 COMPLIANCE AND ENFORCEMENT                                   X
+4131 ADMINISTRATION OF RETIREMENT AND INSURANCE PROGRAM           X
+4132 EMPLOYEE GRIEVANCE/MEDICATION/TRAIN/CONSULT SVC              X
+4133 STATE EMPLOYEE SERVICES                                      X
+4134 STATE EMPLOYEE WORKERS' COMPENSATION SVC                     X
+4135 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+4136 STATEWIDE LEASING & DISPOSAL SERVICES                        X
+4137 PAYMENTS-TOBACCO PRODUCERS/GROWING COMMUNITIES               X
+4138 FINANCIAL ASSISTANCE TO LOC - MOBILE HOME TAX                X
+4139 DISTRIBUTION OF RECORDATION TAX                              X
+4140 FINANCIAL ASSISTANCE TO LOC - RENTAL VEHICLE TAX             X
+4141 DISTRIBUTION SALES TAX REV-CERTAIN PUBLIC FACILIT            X
+4142 FINANCIAL ASSISTANCE TO LOC OPERATING POLICE DEPT            X
+4143 FIN ASST TO LOC FOR DISPOSAL-ABANDONED VEHICLES              X
+4144 TRAINING FOR LOCAL ASSESSORS                                 X
+4145 VALUATION & ASSESSMENT ASST FOR LOCALITIES                   X
+4146 PUBLIC/PRIVATE PARTNERSHIPS FOR REVENUE ADMIN                X
+4147 ENTERPRISE ARCHITECTURE DEVELOPMENT SERVICES                 X
+4148 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+4149 AUXILIARY GRANTS FOR THE AGED  BLIND & DISABLED              X
+4150 AVIATION LICENSING AND REGULATION                            X
+4151 AVIATION COMMUNICATION & EDUCATION                           X
+4152 GENERAL AVIATION PERSONNEL DEVELOPMENT                       X
+4153 AIR TRANSPORTATION PLANNING & DEVELOPMENT                    X
+4154 EXECUTIVE DISCRETIONARY EXPENSES                             X
+4155 ACROSS THE BOARD REDUCTION                                   X
+4156 BUDGET DEVELOPMENT & BUDGET EXECUTION SERVICES               X
+4157 LEGISLATION & EXECUTIVE ORDER REVIEW SVC                     X
+4158 FORECASTING & REGULATORY REVIEW SVC                          X
+4159 PROGRAM EVALUATION SERVICES                                  X
+4160 TAX POLICY RESEARCH & ANALYSIS                               X
+4161 APPEALS AND RULINGS                                          X
+4162 ADULT EDUCATION AND LITERACY                                 X
+4163 FINANCIAL ASSISTANCE FOR REGIONAL JAIL OPERATIONS            X
+4164 FINANCIAL ASSISTANCE FOR LOCAL LAW ENFORCEMENT               X
+4165 FINANCIAL ASSISTANCE FOR LOCAL COURT SERVICES                X
+4166 FINANCIAL ASSISTANCE TO SHERIFFS                             X
+4167 FINANCIAL ASSISTANCE FOR LOCAL JAIL OPERATIONS               X
+4168 GENERAL MANAGEMENT AND DIRECTION                             X
+4169 INFORMATION TECHNOLOGY SERVICES                              X
+4170 FOOD AND DIETARY SERVICES                                    X
+4171 HOUSEKEEPING SERVICES                                        X
+4172 LINEN AND LAUNDRY SERVICES                                   X
+4173 LAND PROTECTION COMPLIANCE/ENFORCEMENT                       X
+4174 LAND PROTECTION OUTREACH                                     X
+4175 LAND PROTECTION PLANNING AND POLICY                          X
+4176 VETERINARY MEDICAL SERVICES                                  X
+4177 TUITION ASSISTANCE                                           X
+4178 RECRUITMENT INCENTIVES                                       X
+4179 REGIONAL FINANCIAL ASSISTANCE FOR EDUCATION                  X
+4180 EDUCATION PROGRAM CERTIFICATION FOR VETERANS                 X
+4181 SCIENTIFIC RESEARCH                                          X
+4182 TEST DEVELOPMENT AND ADMINISTRATION                          X
+4183 INFORMATION TECHNOLOGY SERVICES                              X
+4184 POLICY  PLANNING  AND EVALUATION SERVICES                    X
+4185 OPERATION OF HIGHER EDUCATION CENTERS                        X
+4186 CRIMINAL JUSTICE RESEARCH/STATISTIC/EVAL/INFO SVCS           X
+4187 PUBLIC UTILITY ECONOMICS AND FINANCE                         X
+4188 UTILITY SAFETY                                               X
+4189 REGULATION OF ENERGY COMPANIES                               X
+4190 VALUATION & TAXATION OF PUBLIC SVC COMPANIES                 X
+4191 GENERAL MANAGEMENT AND DIRECTION                             X
+4192 INFORMATION TECHNOLOGY SERVICES                              X
+4193 ACCOUNTING AND BUDGETING SERVICES                            X
+4194 HUMAN RESOURCES                                              X
+4195 PHYSICAL PLANT SERVICES                                      X
+4196 INFORMATION SERVICES                                         X
+4197 MAIL ROOM SERVICES                                           X
+4198 LEGAL SERVICES                                               X
+4199 HEARING EXAMINER SERVICES                                    X
+4200 FINANCIAL ASSISTANCE FOR REGIONAL JAIL PER DIEM              X
+4201 FINANCIAL ASSISTANCE FOR REGIONAL JAILS                      X
+4202 FORENSIC & BEHAVIORAL REHABILITATION SECURITY                X
+4203 SUPPLEMENTS TO EMPLOYEE BENEFITS                             X
+4204 MISCELLANEOUS CONTINGENCY RESERVE ACCOUNT                    X
+4205 PAYMENTS TO NONSTATE ORGANIZATIONS                           X
+4206 GOVERNOR'S OPPORTUNITY FUND                                  X
+4207 ECONOMIC DEVELOPMENT ASSISTANCE                              X
+4208 BASE REALIGNMENT & CLOSURE ASSISTANCE                        X
+4209 FIRE PROGRAMS FUND DISTRIBUTION                              X
+4210 BURN BUILDING GRANTS                                         X
+4211 CATEGORICAL GRANTS                                           X
+4212 VA EMERGENCY OPERATION CENTER & COMMUNICATIONS               X
+4213 DEBT SVC PAYMENTS-PUBLIC BUILDING AUTHORITY BONDS            X
+4214 DEBT SVC PAYMENTS-COLLEGE BUILDING AUTHORITY BONDS           X
+4215 VA FIRE SERVICE RESEARCH                                     X
+4216 FIRE SVC TRAINING & PROFESSIONAL DEVELOPMENT                 X
+4217 TECHNICAL ASST & CONSULTATION SERVICES                       X
+4218 EMERGENCY OPERATIONAL RESPONSE SERVICES                      X
+4219 PUBLIC FIRE & LIFE SAFETY EDUCATIONAL SERVICES               X
+4220 BUILDING/GROUNDS/UTILITY LINE-REPAIR & MAINTENANCE           X
+4221 FOOD AND DIETARY SERVICES                                    X
+4222 MEDICAL AND CLINICAL SERVICES                                X
+4223 PHYSICAL PLANT SERVICES                                      X
+4224 RESIDENTIAL SERVICES                                         X
+4225 TRANSPORTATION SERVICES                                      X
+4226 PAYMENTS TO TOBACCO USAGE PREVENTION                         X
+4227 REIMB TO LOCALITIES-PERSONAL PROPERTY TAX RELIEF             X
+4228 STATE FORMULA AID FOR LOCAL PUBLIC LIBRARIES                 X
+4229 COMMUNITY ACCESS EDU/ECON/CULTURAL PGM PUBLIC TV             X
+4230 FINANCIAL ASSISTANCE FOR SUPPLEMENTAL EDUCATION              X
+4231 COMMUNITY ACCESS EDU/ECON/CULTURAL PGM PUB RADIO             X
+4232 ADMIN OF GRANTS FOR CULTURAL AND ARTISTIC AFFAIRS            X
+4233 DESIGNATED REVERSIONS FROM AGENCY APPROPRIATIONS             X
+4234 FINANCIAL ASSISTANCE FOR RECREATIONAL DEVELOPMENT            X
+4235 DESIGN/CONSTRUCTION-OUTDOOR RECREATION FACILITIES            X
+4236 STATE PARK MANAGEMENT & OPERATIONS                           X
+4237 ADULT PROTECTIVE AND SUPPORTIVE SERVICES                     X
+4238 DOMESTIC VIOLENCE SERVICES                                   X
+4239 FOSTER CARE                                                  X
+4240 CHILD PROTECTION SERVICES                                    X
+4241 ADOPTION                                                     X
+4242 OTHER CHILD WELFARE SERVICES                                 X
+4243 JOB PLACEMENT SERVICES                                       X
+4244 UNEMPLOYMENT INSURANCE SERVICES                              X
+4245 WORKFORCE DEVELOPMENT SERVICES                               X
+4246 WORKFORCE SYSTEM ORGANIZATION SERVICES                       X
+4247 GENERAL RELIEF                                               X
+4248 RESETTLEMENT ASSISTANCE                                      X
+4249 EMERGENCY AND ENERGY ASSISTANCE                              X
+4250 REVENUE FORECASTING                                          X
+4251 UNCLAIMED PROPERTY ADMINISTRATION                            X
+4252 ACCOUNTING AND TRUST SERVICES                                X
+4253 TAX RETURN PROCESSING                                        X
+4254 DESIGNATED REFUNDS FOR TAXES & FEES                          X
+4255 CHECK PROCESSING & BANK RECONCILIATION                       X
+4256 CUSTOMER SERVICES                                            X
+4257 COMPLIANCE AUDIT                                             X
+4258 COMPLIANCE COLLECTIONS                                       X
+4259 ADMINISTRATIVE SERVICES                                      X
+4260 APPOINTMENTS                                                 X
+4261 AUTHENTICATION                                               X
+4262 JUDICIAL SUPPORT SERVICES                                    X
+4263 LOBBYIST AND ORGANIZATION REGISTRATIONS                      X
+4264 PHYSICAL PLANT SERVICES                                      X
+4265 POWER PLANT OPERATION                                        X
+4266 TRAINING AND EDUCATION SERVICES                              X
+4267 AG/URBAN NONPOINT SOURCE WATER QUALITY IMPROVEMENT           X
+4268 DAM INV/EVALUATION/CLASSIFICATION/FLOOD PLAIN MGT            X
+4269 NATURAL HERITAGE PRESERVATION AND MANAGEMENT                 X
+4270 FINANCIAL ASST-SOIL/WATER CONSERVATION DISTRICT              X
+4271 TECHNICAL/FINANCIAL ASSISTANCE FOR LAND MANAGEMENT           X
+4272 WATER PROTECTION PERMITTING                                  X
+4273 WATER PROTECTION COMPLIANCE/ENFORCEMENT                      X
+4274 WATER PROTECTION OUTREACH                                    X
+4275 WATER PROTECTION PLANNING AND POLICY                         X
+4276 REIMBURSE MEDICAL SVCS-INVOLUNTARY MENTAL COMMIT             X
+4277 EMERGENCY RESPONSE & RECOVERY SVCS                           X
+4278 FIN ASST-EMERGENCY RESPONSE & RECOVERY                       X
+4279 IMMUNIZATION PROGRAM                                         X
+4280 DISEASE INVESTIGATION & CONTROL SERVICES                     X
+4281 HIV/AIDS PREVENTION & TREATMENT SERVICES                     X
+4282 HEALTH RESEARCH  PLANNING  & COORDINATION                    X
+4283 REGULATION OF HEALTH CARE FACILITIES                         X
+4284 CERTIFICATE OF PUBLIC NEED                                   X
+4285 MEALS SERVED IN GROUP SETTINGS                               X
+4286 DISTRIBUTION OF FOOD                                         X
+4287 DELIVERY OF MEALS TO HOME-BOUND INDIVIDUALS                  X
+4288 RAIL/PUBLIC TRANSPORTATION PLAN/REGULATE/SAFETY              X
+4289 GROUND TRANSPORTATION PROGRAM MANAGEMENT/DIRECTION           X
+4290 PUBLIC TRANSPORTATION PROGRAMS                               X
+4291 COMMUTER ASSISTANCE PROGRAMS                                 X
+4292 HUMAN SERVICE TRANSPORTATION PROGRAMS                        X
+4293 BOAT REGISTRATION & TITLING                                  X
+4294 ENFORCEMENT OF BOATING SAFETY LAWS AND REGULATIONS           X
+4295 CASE MANAGEMENT SERVICES FOR VETERANS BENEFITS               X
+4296 COMMUNITY ACTION GRANTS                                      X
+4297 VOLUNTEER SERVICES                                           X
+4298 OTHER PAYMENTS TO HUMAN SERVICES ORGANIZATIONS               X
+4299 REGULATION & LAW ENFORCEMENT                                 X
+4300 GAMING OPERATIONS                                            X
+4301 ADMINISTRATIVE SERVICES                                      X
+4302 PAYROLL SERVICE BUREAU                                       X
+4303 REGIONAL AND AREAWIDE ASSISTANCE ADMINISTRATION              X
+4304 ENVIRONMENTAL POLICY AND PROGRAM DEVELOPMENT                 X
+4305 ANIMAL DISEASE PREVENTION AND CONTROL                        X
+4306 DIAGNOSTIC SERVICES                                          X
+4307 ANIMAL WELFARE                                               X
+4308 GRADING/ CERTIFICATION OF VA PRODUCTS                        X
+4309 MILK MARKETING REGULATION                                    X
+4310 MARKETING RESEARCH                                           X
+4311 FIN ASST FOR JUVENILE CONFINEMENT LOCAL FACILITIES           X
+4312 FIN ASST FOR PROBATION AND PAROLE -LOCAL GRANTS              X
+4313 FIN ASST COMMUNITY-BASED ALTERNATIVE TREATMENT SVC           X
+4314 WILDLIFE INFORMATION / EDUCATION                             X
+4315 ENFORCEMENT OF RECREATIONAL HUNTING/FISHING LAWS             X
+4316 AIR PROTECTION PERMITTING                                    X
+4317 AIR PROTECTION COMPLIANCE/REGULATION                         X
+4318 AIR PROTECTION OUTREACH                                      X
+4319 AIR PROTECTION PLANNING AND POLICY                           X
+4320 AIR PROTECTION-MONITORING/ ASSESSMENT                        X
+4321 VIRGINIA WATER FACILITIES REVOLVING FD LOANS/GRANT           X
+4322 LITTER CONTROL/ RECYCLING GRANTS                             X
+4323 RECREATIONAL&OPEN SPACE RESOURCE/RESEARCH/PLANNING           X
+4324 FIN ASST-CIRCUIT COURT CLERKS                                X
+4325 FIN ASST-OPERATIONS FOR CIRCUIT COURT CLERK                  X
+4326 FIN ASST-CIRCUIT COURT CLERKS' LAND RECORDS                  X
+4327 ADMINISTRATIVE SERVICE                                       X
+4328 ALCOHOLIC BEVERAGE CONTROL RETAIL STORE OPERATION            X
+4329 ALCOHOLIC BEVERAGE PURCHASE/WAREHOUSE/DISTRIBUTION           X
+4330 MANUFACTURING SERVICES                                       X
+4331 DATA CENTER SERVICES                                         X
+4332 DESKTOP & END USER SERVICES                                  X
+4333 WEB DEVELOPMENT & SUPPORT SERVICES                           X
+4334 VA OCCUPATIONAL SAFETY AND HEALTH SERVICES                   X
+4335 ASBESTOS AND LEAD SAFETY SERVICES                            X
+4336 CRIME VICTIM COMPENSATION                                    X
+4337 RESOURCE MANAGEMENT POLICY/PROGRAM DEVELOPMENT               X
+4338 ENERGY CONSERVATION/ALTERNATIVE ENERGY SUPPLY PGM            X
+4339 FINANCIAL ASST FOR ENERGY ECONOMIC DEVELOPMENT               X
+4340 GRANTS FOR AGRICULTURE/RESEARCH/EDUCATION/SVCS               X
+4341 OPERATION AND MAINTENANCE OF FARM MUSEUM                     X
+4342 MANAGEMENT OF PUBLIC RECORDS                                 X
+4343 MANAGEMENT OF ARCHIVAL RECORDS                               X
+4344 HISTORICAL AND CULTURAL PUBLICATIONS                         X
+4345 ARCHIVAL RESEARCH SERVICES                                   X
+4346 CONSERVATION-PRESERVATION OF HISTORIC RECORDS                X
+4347 CIRCUIT COURT RECORD PRESERVATION                            X
+4348 NOTARIES COMMISSIONING                                       X
+4349 STATE COLLECTION SERVICES                                    X
+4350 FINANCIAL ASSISTANCE FOR HISTORIC PRESERVATION               X
+4351 HISTORIC RESOURCE MANAGEMENT                                 X
+4352 STATE VETERANS CEMETERY MANAGEMENT & OPERATIONS              X
+4353 EXECUTIVE MANSION OPERATIONS                                 X
+4354 GEOLOGIC/MINERAL RESOURCE INVESTIGATION/MAPPING              X
+4355 MINERAL MINING PROTECTION  WORKER SAFETY/LAND REC            X
+4356 GAS/OIL ENVIR PROTECTION/WORKER SAFETY/LAND REC              X
+4357 COAL ENVIRONMENTAL PROTECTION & LAND RECLAMATION             X
+4358 COAL WORKER SAFETY                                           X
+4359 COASTAL LANDS & BOTTOMLANDS MANAGEMENT                       X
+4360 WATER PROTECTION MONITORING AND ASSESSMENT                   X
+4361 FIN ASST FOR ADMINISTRATION OF JUSTICESERVICES               X
+4362 GENERAL MANAGEMENT AND DIRECTION                             X
+4363 INFORMATION TECHNOLOGY SERVICES                              X
+4364 ACCOUNTING AND BUDGETING SERVICES                            X
+4365 ARCHITECTURAL & ENGINEERING SERVICES                         X
+4366 FOOD AND DIETARY SERVICES                                    X
+4367 HUMAN RESOURCES SERVICES                                     X
+4368 PHYSICAL PLANT SERVICES                                      X
+4369 PLANNING & EVALUATION SERVICES                               X
+4370 PROCUREMENT & DISTRIBUTION SERVICES                          X
+4371 SECURITY SERVICES                                            X
+4372 TRAINING ACADEMY                                             X
+4373 DISTRIBUTION OF USDA DONATED FOOD                            X
+4374 REGULATION OF ADULT/CHILD WELFARE FACILITIES                 X
+4375 TRANSPORTATION SYS DEVELOP/CONSTRUCT/PROGRAM MGMT            X
+4376 PAYMENTS TO HUMAN SERVICE ORGANIZATIONS                      X
+4377 GENERAL MANAGEMENT AND DIRECTION                             X
+4378 INFORMATION TECHNOLOGY SERVICES                              X
+4379 ACCOUNTING & BUDGETING SERVICES                              X
+4380 ARCHITECTURAL AND ENGINEERING SERVICES                       X
+4381 COLLECTION AND LOCATOR SERVICES                              X
+4382 FOOD AND DIETARY SERVICES                                    X
+4383 HUMAN RESOURCES SERVICES                                     X
+4384 PHYSICAL PLANT SERVICES                                      X
+4385 PLANNING AND EVALUATION SERVICES                             X
+4386 PROCUREMENT AND DISTRIBUTION SERVICES                        X
+4387 PUBLIC INFORMATION SERVICES                                  X
+4388 TRAINING AND EDUCATION SERVICES                              X
+4389 MARKET VA AG/FORESTRY PRODUCTS NATIONALLY/INTERNAT           X
+4390 AGRICULTURAL COMMODITY BOARDS                                X
+4391 AGRIBUSINESS DEVELOPMENT SVC/FARMLAND PRESERVATION           X
+4392 JUVENILE CORRECTIONS CENTER MANAGEMENT                       X
+4393 SUPERVISION AND MANAGEMENT OF INMATES                        X
+4394 REHABILITATION AND TREATMENT SERVICES-PRISONS                X
+4395 PRISON MANAGEMENT                                            X
+4396 FOOD SERVICES                                                X
+4397 MEDICAL AND CLINICAL SERVICES                                X
+4398 AGRIBUSINESS                                                 X
+4399 CORRECTIONAL ENTERPRISES                                     X
+4400 PHYSICAL PLANT SERVICES                                      X
+4401 VA WATER QUALITY IMPROVEMENT FUND                            X
+4402 PETROLEUM TANK REIMBURSEMENT                                 X
+4403 UNDESIGNATED SUPPORT FOR ENACTMENT OF LAWS SVC               X
+4404 TECHNOLOGY MGMT OVERSIGHT SERVICES                           X
+4405 SECURITY SERVICES                                            X
+4406 LICENSE/REGULATE HORSE RACING/PARI-MUTUEL WAGERING           X
+4407 PROMOTE THE HORSE INDUSTRY                                   X
+4408 BUSINESS REGULATION SERVICES                                 X
+4409 LICENSE/CERTIFICATION/REG PROFESSIONS/OCCUPATIONS            X
+4410 ENFORCE LICENSE/REG/CERT PROFESSIONS/OCCUPATIONS             X
+4411 ADMINISTRATIVE SERVICES                                      X
+4412 TEACHER LICENSURE AND CERTIFICATION                          X
+4413 TEACHER EDUCATION AND ASSISTANCE                             X
+4414 TRANSPORTATION SAFETY ADMINISTRATION SERVICES                X
+4415 RAIL PRESERVATION PROGRAMS                                   X
+4416 RAIL ENHANCEMENT PROGRAMS                                    X
+4417 CHILD & ADOLESCENT HEALTH SERVICES                           X
+4418 WOMEN'S & INFANT'S HEALTH SERVICES                           X
+4419 STATE MENTAL RETARDATION TRAINING CENTER SERVICES            X
+4420 VETERANS CARE CENTER OPERATIONS                              X
+4421 STATE MENTAL HEALTH FACILITY SERVICES                        X
+4422 CHRONIC DISEASE PREVENT/HEALTH PROMO/ORAL HEALTH             X
+4423 INJURY & VIOLENCE PREVENTION                                 X
+4424 WIC & COMMUNITY NUTRITION SERVICES                           X
+4425 SCHOOL IMPROVEMENT                                           X
+4426 SCHOOL NUTRITION                                             X
+4427 PUPIL TRANSPORTATION                                         X
+4428 INSTRUCTIONAL TECHNOLOGY                                     X
+4429 DISTANCE LEARNING AND ELECTRONIC CLASSROOM                   X
+4430 FIN ASST-LOCAL TREASURERS                                    X
+4431 FIN ASST-OPERATION OF LOCAL TREASURERS                       X
+4432 FIN ASST-STATE TAX SVCS BY LOCAL TREASURERS                  X
+4433 NETWORK-DATA SERVICES                                        X
+4434 VOICE SERVICES                                               X
+4435 VIDEO SERVICES                                               X
+4436 AFTERCARE PHARMACY SERVICES                                  X
+4437 INPATIENT PHARMACY SERVICES                                  X
+4438 VOCATIONAL REHABILITATION SERVICES                           X
+4439 MARINE RESOURCES SURVEYING AND MAPPING                       X
+4440 HIGHER EDUCATION FEDERAL PROGRAMS COORDINATION               X
+4441 CONSULTATION TO LIBRARIES                                    X
+4442 RESEARCH LIBRARY SERVICES                                    X
+4443 STANDARDS OF QUALITY FOR PUBLIC EDUCATION (SOQ)              X
+4444 FINANCIAL INCENTIVE PROGRAMS FOR PUBLIC EDUCATION            X
+4445 FINANCIAL ASSISTANCE FOR CATEGORICAL PROGRAMS                X
+4446 FINANCIAL ASSISTANCE FOR SCHOOL FACILITIES                   X
+4447 INFORMATION TECHNOLOGY SYSTEMS AND PLANNING                  X
+4448 CRIMINAL JUSTICE INFORMATION SERVICES                        X
+4449 TELECOMMUNICATION AND STARS                                  X
+4450 FIREARMS PURCHASE PROGRAM                                    X
+4451 OFFENDER CLASSIFICATION & TIME COMPUTATION SVCS              X
+4452 CAFETERIA                                                    X
+4453 PUBLIC ASSISTANCE CHILD SUPPORT PAYMENTS                     X
+4454 PLANT PEST & DISEASE PREVENTION & CONTROL SVCS               X
+4455 CONSUMER AFFAIRS- REGULATION & CONSUMER EDUCATION            X
+4456 CONSUMER ASSISTANCE                                          X
+4457 DISTRIBUTION OF UNINSURED MOTORIST FEE                       X
+4458 DISTRIBUTION OF ROLLING STOCK TAXES                          X
+4459 TELECOMMUNICATIONS RELAY FEE                                 X
+4460 AID TO LOCALITIES                                            X
+4461 PAYMENT IN LIEU OF TAXES                                     X
+4462 FIN ASSIST-GENERAL REGISTRAR COMPENSATION                    X
+4463 FINANCIAL AND OPERATIONAL AUDITS                             X
+4464 ADMIN SUPPORT-FAMILY ACCESS MED INS SECURITY PLAN            X
+4465 PROGRAM DEVELOPMENT AND COORDINATION                         X
+4466 REFORESTATION INCENTIVES-PRIVATE FOREST LAND OWNER           X
+4467 FOREST CONSERVATION  WILDFIRE & WATERSHED SERVICES           X
+4468 TREE RESTORATION&IMPROV/NURSERIES/STATE-OWNED LAND           X
+4469 DRINKING WATER REGULATION                                    X
+4470 DRINKING WATER CONSTRUCTION FINANCING                        X
+4471 PUBLIC HEALTH TOXICOLOGY                                     X
+4472 ENVIRONMENTAL MONITORING PROGRAM MANAGEMENT                  X
+4473 COMMUNITY DEVELOPMENT/REVITALIZATION                         X
+4474 OFFENDER CLASSIFICATION & TIME COMPUTATION SVCS              X
+4475 JUVENILE SUPERVISION AND MANAGEMENT SERVICES                 X
+4476 JUVENILE REHABILITATION AND TREATMENT SERVICES               X
+4477 MINIMUM SECURITY SERVICES                                    X
+4478 ECONOMIC INFORMATION SERVICES                                X
+4479 WORKFORCE SERVICES JOB INVESTMENT PROGRAM                    X
+4480 MBE PROCUREMENT REPORTING & COORDINATION                     X
+4481 MINOR BUSINESS ENTERPRISE OUTREACH                           X
+4482 APPRENTICESHIP PROGRAM                                       X
+4483 FIN ASST FOR ECONOMIC DEVELOPMENT                            X
+4484 FIN ASST TO THE HORSE BREEDING INDUSTRY                      X
+4485 FIN ASSIST -NON PROFIT EMERGENCY MED SVC ORG/LOC             X
+4486 STATE OFFICE OF EMERGENCY MEDICAL SERVICES                   X
+4487 REGIONAL EMERGENCY MEDICAL SERVICES COUNCILS                 X
+4488 INCOME BENEFITS                                              X
+4489 CHILD SUPPORT SUPPLEMENT                                     X
+4490 TANF EMPLOYMENT SERVICES                                     X
+4491 NON-TANF EMPLOYMENT SERVICES                                 X
+4492 TANF DAY CARE                                                X
+4493 NON-TANF DAY CARE                                            X
+4494 REG ASSISTED LIVING REIMB-RESIDENTS OF ADULT HOMES           X
+4495 REIMB LOCALITIES-STATE & LOCAL HOSPITALIZATION PGM           X
+4496 INSURANCE PREMIUM PAYMENTS FOR HIV POSITIVE IND              X
+4497 ADMINISTRATIVE SERVICES                                      X
+4498 ELIGIBILITY DETERMINATION FOR BENEFIT PROGRAMS               X
+4499 SOCIAL WORKER SERVICES                                       X
+4500 REIMBURSEMENTS FOR MED SVC TO LOW-INCOME CHILDREN            X
+4501 MEDICAL REHABILITATIVE SERVICES                              X
+4502 COMMUNITY REHABILITATION PROGRAMS                            X
+4503 INDEPENDENT LIVING SERVICES                                  X
+4504 SOCIAL & PERSONAL ADJUSTMENT TO BLINDNESS TRAINING           X
+4505 VENDING STANDS  CAFETERIAS & SNACK BARS                      X
+4506 LABOR LAW SERVICES                                           X
+4507 REGULATION OF GRAIN COMMODITY SALES                          X
+4508 REGULATION OF INVESTMENT COMPANIES/PRODUCTS/SVCS             X
+4509 REGULATION OF WEIGHTS/MEASURES & MOTOR FUELS                 X
+4510 REGULATION OF FINANCIAL INSTITUTIONS                         X
+4511 REGULATION OF INSURANCE INDUSTRY                             X
+4512 GAMING ORGANIZATION LICENSING                                X
+4513 SEX OFFENDER REGISTRY PROGRAM                                X
+4514 CONCEALED WEAPONS PROGRAM                                    X
+4515 LAW LIBRARY SERVICES                                         X
+4516 RESIDENTIAL/NON-RESIDENTIAL CUSTODY/TREATMENT SVCS           X
+4517 COMMUNITY FACILITY MANAGEMENT                                X
+4518 SUPERVISION AND MANAGEMENT OF PROBATES                       X
+4519 REHABILITATION/TREATMENT SVCS-COMM RESIDENTIAL FAC           X
+4520 DEATH BENEFIT PAYMENTS UNDER THE LINE OF DUTY ACT            X
+4521 HEALTH INSURANCE PAYMENT-UNDER LINE OF DUTY ACT              X
+4522 FIN ASST-LOCAL COMMISS OF REVENUE TAX VALUE CERT             X
+4523 FIN ASST-OPERATIONS OF LOCAL COMMISS OF REVENUE              X
+4524 FIN ASST - STATE TAX SVCS BY COMMISS OF REVENUE              X
+4525 FIN ASSIST-LOCAL ELECTORAL BOARD COMPENSATION/EXP            X
+4526 FEDERAL ASSISTANCE TO LOCAL EDUCATION PROGRAMS               X
+4527 SPECIAL EDUCATION INSTRUCTIONAL SERVICES                     X
+4528 SPECIAL EDUCATION ADMIN & ASSIST SERVICES                    X
+4529 SPECIAL EDUCATION COMPLIANCE & MONITORING SERVICES           X
+4530 STUDENT ASSISTANCE AND GUIDANCE SERVICES                     X
+4531 BRAILLE AND LARGE-PRINT TEXTBOOK SERVICES                    X
+4532 EDUCATIONAL SERVICES                                         X
+4533 CLASSROOM INSTRUCTION                                        X
+4534 ADULT COMMUNITY INSTRUCTIONAL SERVICES                       X
+4535 FACILITY-BASED EDUCATION AND SKILLS TRAINING                 X
+4536 OUTREACH AND COMMUNITY ASSISTANCE                            X
+4537 YOUTH INSTRUCTIONAL SERVICES                                 X
+4538 CAREER/TECH INSTRUCTIONAL SVCS-YOUTH/ADULT SCHOOLS           X
+4539 ADULT INSTRUCTIONAL SERVICES                                 X
+4540 INSTRUCTIONAL LEADERSHIP AND SUPPORT SERVICES                X
+4541 NATIONAL/INTERNATIONAL TRADE SERVICES                        X
+4542 MINOR BUSINESS ENTERPRISE CERTIFICATION                      X
+4543 TECHNOLOGY ENTREPRENEURIAL DEVELOPMENT SERVICES              X
+4544 COMMONWEALTH TECHNOLOGY POLICY SERVICES                      X
+4545 CAPITAL ACCESS FD FOR DISADVANTAGED BUSINESSES               X
+4546 BUSINESS FORMATION SERVICES                                  X
+4547 TECH INDUSTRY DEVELOPMENT SERVICES                           X
+4548 TECH INDUSTRY RESEARCH/DEVELOPMENT SERVICES                  X
+4549 REGIONAL RESEARCH/TECH/EDUCATION/COMMERCIALIZE SVC           X
+4550 ADMINISTRATIVE SERVICES                                      X
+4551 FIN SVCS FOR ECONOMIC DEVELOPMENT                            X
+4552 EXISTING BUSINESS SERVICES                                   X
+4553 REIMBURSE FROM UNINSURED MEDICAL CATASTROPHE FUND            X
+4554 CHARITABLE GAMING MANAGEMENT TRAINING                        X
+4555 GAMING ORGANIZATION AUDITS                                   X
+4556 GAMING ORGANIZATION ENFORCEMENT                              X
+4557 GAMING ORGANIZATION INSPECTION                               X
+4558 ADMINISTRATIVE SERVICES                                      X
+4559 STATE OFFICE OF ENVIRONMENTAL HEALTH SVC                     X
+4560 SHELLFISH SANITATION                                         X
+4561 BEDDING & UPHOLSTERY INSPECTION                              X
+4562 RADIOLOGICAL HEALTH & SAFETY REGULATION                      X
+4563 VEHICLE REGULATION SERVICES                                  X
+4564 DRIVER REGULATION SERVICES                                   X
+4565 MOTOR CARRIER REGULATION SERVICES                            X
+4566 TRANSPORTATION OPERATIONS SERVICES                           X
+4567 FIN ASSIST-EMERGENCY MGMT & RESPONSE                         X
+4568 EMERGENCY PLANNING/TRAINING/EXERCISES                        X
+4569 EMERGENCY PREPAREDNESS & RESPONSE                            X
+4570 FIN ASST FOR CITIZEN SECURITY SERVICES                       X
+4571 INFORMATION TECHNOLOGY SERVICES                              X
+4572 TRAINING AND SERVICES                                        X
+4573 TELECOMMUNICATIONS                                           X
+4574 LIABILITY INSURANCE                                          X
+4575 COUNCIL ON INDIANS SUPPORT SERVICES                          X
+4576 PAYMENT OF LOTTERY PRIZES                                    X
+4577 STATEWIDE GRAPHIC DESIGN SERVICES                            X
+4578 FIN ASST FOR TOURIST PROMOTION                               X
+4579 AG/FOOD EMERGENCIES PREVENTION & RESPONSE                    X
+4580 ENFORCEMENT AND REGULATION OF ABC LAWS                       X
+4581 BIOLOGICAL ANALYSIS SERVICES                                 X
+4582 CHEMICAL ANALYSIS SERVICES                                   X
+4583 PHYSICAL EVIDENCE SERVICES                                   X
+4584 TRAINING AND STANDARDS SERVICES                              X
+4585 ADMINISTRATIVE SERVICES                                      X
+4586 AVIATION OPERATIONS                                          X
+4587 COMMERCIAL VEHICLE ENFORCEMENT                               X
+4588 COUNTER-TERRORISM                                            X
+4589 HELP ELIMINATE AUTO THEFT (HEAT)                             X
+4590 DRUG ENFORCEMENT                                             X
+4591 CRIME INVESTIGATION AND INTELLIGENCE SERVICES                X
+4592 PORT TRAFFIC RATE MANAGEMENT                                 X
+4593 COMMERCE ADVERTISING                                         X
+4594 BOILER/ PRESSURE VESSEL SAFETY SVC                           X
+4595 STATE BUILDING CODE ADMINISTRATION                           X
+4596 STATE FIRE PREVENTION CODE ADMINISTRATION                    X
+4597 TOLL FACILITIES REVOLVING FUND                               X
+4598 HWY TRANSPORTATION IMPROVEMENT DIST DEBT SERVICE             X
+4599 DESIGNATED HIGHWAY CORRIDOR DEBT SERVICE                     X
+4600 FED HIGHWAY REVENUE ANTICIPATION NOTES DEBT SVC              X
+4601 HIGHWAY MAINTENANCE PROGRAM MANAGEMENT/DIRECTION             X
+4602 REGULATION OF FEED/SEED/FERTILIZER PRODUCTS                  X
+4603 DEDICATED AND STATEWIDE CONSTRUCTION                         X
+4604 HIGHWAY CONSTRUCTION PROGRAM MANAGEMENT                      X
+4605 MAINTENANCE AND OPERATIONS OF PORTS AND FACILITIES           X
+4606 PORT FACILITIES PLANNING                                     X
+4607 DEBT SERVICE FOR PORT FACILITIES                             X
+4608 MEDICAL/CLINICAL SVCS-COMMUNITY RESIDENTIAL FAC              X
+4609 FOOD SERVICES-COMMUNITY RESIDENTIAL FACILITIES               X
+4610 PHYSICAL PLANT SVCS- COMMUNITY RESIDENTIAL FAC               X
+4611 COMMUNITY SUBSTANCE ABUSE SERVICES                           X
+4612 COMMUNITY MENTAL HEALTH SERVICES                             X
+4613 COMMUNITY MENTAL RETARDATION SERVICES                        X
+4614 UNIFORM PATROL SERVICES (HIGHWAY PATROL)                     X
+4615 MOTORISTS ASSISTANCE PROGRAM                                 X
+4616 INSURANCE FRAUD PROGRAM                                      X
+4617 VEHICLE SAFETY INSPECTIONS                                   X
+4618 TECH ASST & INFO DISSEMINATION TO PROSECUTORS                X
+4619 ADMINISTRATIVE SERVICES                                      X
+4620 ADULT PROBATION AND PAROLE SERVICES                          X
+4621 FIN ASST-ATTORNEY FOR THE COMMONWEALTH                       X
+4622 FIN ASST-OP LOCAL ATTORNEY'S FOR COMMONWEALTH                X
+4623 STATEWIDE VEHICLE MANAGEMENT SERVICES                        X
+4624 LOCAL DENTAL SERVICES                                        X
+4625 FOOD SAFETY/WELL&SEPTIC PERMIT/ENVIR HEALTH SVCS             X
+4626 MEDICAL SVCS-FAMILY ACCESS MED INS SECURITY PLAN             X
+4627 RIGHTS & PROTECTION FOR THE ELDERLY                          X
+4628 REIMBURSEMENTS TO STATE OWNED MH/MR FACILITIES               X
+4629 REIMBURSEMENT FOR MH/MR SERVICES                             X
+4630 REIMBURSE PROFESSIONAL/INSTITUTIONAL MED SVCS                X
+4631 REIMBURSEMENTS FOR LONG-TERM CARE SERVICES                   X
+4632 MEDICAID FRAUD INVESTIGATION & PROSECUTION                   X
+4633 HOMELESS ASSISTANCE                                          X
+4634 LOCAL FAMILY PLANNING SERVICES                               X
+4635 SUPPORT FOR LOCAL MANAGEMENT BUSINESS & FACILITIES           X
+4636 LOCAL MATERNAL & CHILD HEALTH SERVICES                       X
+4637 LOCAL IMMUNIZATION SERVICES                                  X
+4638 LOCAL DISEASE INVESTIGATION  TREATMENT & CONTROL             X
+4639 LOCAL HOME HEALTH AND PERSONAL CARE SERVICES                 X
+4640 LOCAL CHRONIC DISEASE AND PREVENTION CONTROL                 X
+4641 LOCAL LABORATORY & PHARMACY SERVICES                         X
+4642 LOCAL NUTRITION SERVICES                                     X
+4643 RESEARCH/PLANNING/OUTREACH/ADVOCACY/SYS IMPROVEMNT           X
+4644 TECHNOLOGY SERVICES FOR DEAF & HARD-OF-HEARING               X
+4645 CONSUMER  INTERPRETER & COMMUNITY SUPPORT SERVICES           X
+4646 ADMINISTRATIVE SERVICES                                      X
+4647 LOCAL TRAINING AND ASSISTANCE                                X
+4648 FINANCIAL ASSISTANCE PROGRAMS ADMINISTRATION                 X
+4649 PROTECTIVE SERVICES PROGRAMS ADMINISTRATION                  X
+4650 COMMUNITY PROGRAMS ADMINISTRATION                            X
+4651 COMPREHENSIVE SERVICES ACT ADMINISTRATION                    X
+4652 PROTECTION & ADVOCACY                                        X
+4653 REIMB ACUTE CARE HOSP CHARITY CARE EXCESS OF ML              X
+4654 PROBATION AND PAROLE SERVICES                                X
+4655 DAY REPORTING CENTERS                                        X
+4656 COMMUNITY RESIDENTIAL PROGRAMS                               X
+4657 ADMINISTRATIVE SERVICES                                      X
+4658 GENERAL MGMT AND DIRECTION                                   X
+4659 ACCOUNTING AND BUDGETING SERVICES                            X
+4660 HUMAN RESOURCES SERVICES                                     X
+4661 PROCUREMENT AND CONTRACTING SERVICES                         X
+4662 AUDIT SERVICES                                               X
+4663 ADMINISTRATIVE AND SUPPORT SERVICES                          X
+4664 2006 TRANSPORTATION INITIATIVE                               X
+4682 TWO YEAR COLLEGE TRANSFER GRANT                              X
+4683 GEOGRAPHIC INFORMATION ACCESS SERVICES                       X
+4684 FINANCIAL ASSISTANCE FOR EMERGENCY COMMUNICATIONS SYSTEMS    X
+4685 EMERGENCY COMMUNICATION SYSTEMS DEVELOPMENT SERVICES         X
+4688 FIN. ASST. TO LOCALITIES FOR ENHANCED EMERGENCY COMMUNICATIO X
+4691 FIN ASST TO SERVICE PROVIDERS FOR ENH EMERGENCY COMM SERVICE X
+4699 ADMINISTRATIVE SERIVCES                                      X
+4700 CENTRAL ADMIN AND QUALITY ASSURANCE FOR CHILD CARE ACTIVITIE X
+4701 ADMINISTRATIVE SERIVCES                                      X
+4702 TECHNOLOGY SECURITY OVERSIGHT SERVICES                       X
+4703 WEB DEVELOPMENT AND SUPPORT SERVICES                         X
+4704 REVERSION CLEARING ACCT                                      X
+4705 REVERSION CLEARING ACCT                                      X
+4715 DISTRIBUTION OF LOTTERY PROCEEDS FUND                        X
+4716 CAPITAL INDIGENT DEFENSE SERVICES                            X
+4717 LEGAL DEFENSE REGULATORY SERVICES                            X
+4718 UNEMPLOYED PARENTS CASH ASSISTANCE                           X
+4719 INSURANCE PREMIUM PAYMENTS FOR UNINSURED INDIVIDUALS         X
+4720 COMMONWEALTH TRANSPORTATION CAPITAL PROJECTS BOND ACT DEBT S X
+4721 ACCOUNTING AND INTERNAL CONTROL COMPLIANCE                   X
+4722 ENTERPRISE DEVELOPMENT SERVICES                              X
+4723 UNDISTRIBUTED SUPPORT FOR DESIGNATED STATE AGENCY ACTIVITIES X
+4724 TECHNOLOGY SECURITY OVERSIGHT SERVICES                       X
+4725 INTEREST EARNED ON EDUCTNL AND GENERAL PROGRAMS REV          X
+4726 MANAGEMENT OF WORKFORCE DEVLPMNT PROGRAM SERVICES            X
+4727 SUPPLEMENT TO EMPLOYEE COMPENSATION                          X
+4728 DIST OF SALES TAX ON FUEL IN CERTAIN TRANS DIST              X
+4729 COMPUTER OPERATIONS SECURITY SERVICES                        X
+4745 EMPLOYEE FLEXIBLE BENEFITS SERVICES                          X
+4746 ENTERPRISE DEVELOPMENT SERVICES                              X
+4747 PROCUREMENT AND CONTRACTING SERVICES                         X
+4748 WEB DEVELOPMENT AND SUPPORT SERVICES                         X
+4752 STATE SUPPORT FOR THE ARRA                                   X
+4769 HISTORIC EVENTS MANAGEMENT                                   X
+4770 CHARITABLE GAMING REGULATION AND ENFORCEMENT                 X
+4771 INTERSTATE HIGHWAY SYSTEM INFRASTRUCTURE MAINTENCE           X
+4772 PRIMARY HIGHWAY SYSTEM INFRASTRUCTURE MAINTENANCE            X
+4773 SECONDARY ROADWAY SYSTEM INFRASTRUCTURE MAINTENANC           X
+4774 HIGHWAY SYSTEM SERVICES - OPERATIONS AND PROGRAMS            X
+4789 HIGHER EDUCATION REVERSION CLEARING ACCOUNT                  X
+4809 GRANT FOR IMPROVING THE QUALITY OF HEALTH SVC                X
+4810 DIST OF VIRGINIA COMMUNICATIONS SALES AND USE TAX            X
